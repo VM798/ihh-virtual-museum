@@ -1,0 +1,87 @@
+{
+  "slug": "i-m-pei",
+  "name": "I. M. Pei",
+  "birth_name": "Ieoh Ming Pei (貝聿銘)",
+  "tagline": "Architect from Guangzhou whose glass pyramid remade the Louvre",
+  "field": "Architecture",
+  "tags": ["architect", "modernism", "Pritzker Prize", "museums"],
+  "accent": "#5B7F95",
+  "born": {"year": 1917, "date": "April 26, 1917", "place": "Guangzhou (Canton), China"},
+  "died": {"year": 2019, "date": "May 16, 2019", "place": "New York City"},
+  "origin": {"country": "China", "place": "Guangzhou", "flag": "🇨🇳", "region": "Asia"},
+  "immigration": {"year": 1935, "arrived": "San Francisco, then Philadelphia and Cambridge, Massachusetts", "detail": "The son of a prominent banker, Pei sailed to the United States in 1935 at seventeen to study architecture, first at the University of Pennsylvania and then at MIT. The Japanese invasion of China and the Communist revolution kept him from returning, and he became a U.S. citizen in 1954.", "source_ids": ["S1", "S3", "S5"]},
+  "citizenship_year": 1954,
+  "occupations": ["Architect"],
+  "hero_image": {"url": "https://commons.wikimedia.org/wiki/Special:FilePath/Itzhak_Perlman_with_I.M._Pei,_architect,_looking_at_model_of_NYC_Convention_Center_(03124v)_(cropped).jpg?width=1200", "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Itzhak_Perlman_with_I.M._Pei,_architect,_looking_at_model_of_NYC_Convention_Center_(03124v)_(cropped).jpg?width=600", "credit": "Bernard Gotfryd, 1980 (Library of Congress)", "license": "Public domain (Library of Congress, no known restrictions)", "license_url": "https://en.wikipedia.org/wiki/Public_domain", "source_url": "https://commons.wikimedia.org/wiki/File:Itzhak_Perlman_with_I.M._Pei,_architect,_looking_at_model_of_NYC_Convention_Center_(03124v)_(cropped).jpg"},
+  "summary": "Ieoh Ming Pei arrived from China in 1935 to study architecture and stayed to become one of the century's great builders: the East Building of the National Gallery of Art, the John F. Kennedy Library, the Bank of China Tower, and the Louvre Pyramid, a design Paris first hated and then embraced. He won the Pritzker Prize in 1983 and died at 102.",
+  "biography": [
+    {"text": "Ieoh Ming Pei was born in Guangzhou on April 26, 1917, and grew up in Hong Kong and Shanghai, where his father was a senior executive of the Bank of China. Enthralled by the construction of Shanghai's skyscrapers, he sailed for the United States in 1935 and earned a bachelor's degree in architecture at MIT in 1940, followed by a master's at Harvard's Graduate School of Design in 1946 under the Bauhaus founder Walter Gropius.", "source_ids": ["S1", "S3", "S5"]},
+    {"text": "Unable to return to China after the war and revolution, Pei worked for the New York developer William Zeckendorf before founding his own firm in 1955, the year after he became a U.S. citizen. His breakthrough came with the Mesa Laboratory for the National Center for Atmospheric Research in Boulder, Colorado (1967), and the Everson Museum of Art in Syracuse (1968), buildings that showed his gift for sculptural geometry in concrete and stone.", "source_ids": ["S1", "S5"]},
+    {"text": "In 1964 Jacqueline Kennedy chose the then little-known Pei over more famous architects to design the John F. Kennedy Presidential Library in Boston, which opened in 1979. The East Building of the National Gallery of Art in Washington (1978), a knife-edged triangle beside the classical West Building, confirmed him as a master of museum design.", "source_ids": ["S1", "S5"]},
+    {"text": "In 1983 President François Mitterrand appointed Pei chief architect of the Grand Louvre, the first foreign architect to work on the palace. His glass pyramid in the Cour Napoléon, an entrance to the museum's three wings, provoked fierce opposition when unveiled, but after it opened in 1989 it became one of the most admired structures in Paris, and the Louvre's annual visitors doubled. The same year he received the Pritzker Architecture Prize, using the $100,000 award to create a scholarship for Chinese students to study architecture in the United States.", "source_ids": ["S1", "S4", "S2"]},
+    {"text": "Later works included the Bank of China Tower in Hong Kong (1990), the Rock and Roll Hall of Fame in Cleveland (1995), the Miho Museum in Japan (1997), the Suzhou Museum in his ancestral hometown (2006) and the Museum of Islamic Art in Doha (2008). He received the Presidential Medal of Freedom and the Royal Gold Medal of the Royal Institute of British Architects, and died in New York on May 16, 2019, at the age of 102.", "source_ids": ["S2", "S3", "S5"]}
+  ],
+  "achievements": [
+    {"title": "Grand Louvre and the Louvre Pyramid, Paris", "year": "1983–1989", "description": "A glass-and-steel pyramid that reorganised the world's most visited museum around a new underground entrance.", "source_ids": ["S4", "S1"]},
+    {"title": "East Building, National Gallery of Art, Washington", "year": "1978", "description": "A pair of interlocking triangles in Tennessee marble that became a landmark of modern museum architecture.", "source_ids": ["S1", "S5"]},
+    {"title": "John F. Kennedy Presidential Library and Museum, Boston", "year": "1979", "description": "Chosen by Jacqueline Kennedy in 1964; a white concrete tower and glass pavilion on Columbia Point.", "source_ids": ["S5", "S1"]},
+    {"title": "Bank of China Tower, Hong Kong", "year": "1990", "description": "A 70-storey tower of triangular glass prisms, the tallest building in Asia when completed, for the bank his father had helped lead.", "source_ids": ["S5"]},
+    {"title": "Museum of Islamic Art, Doha", "year": "2008", "description": "A late masterpiece, completed when he was 91, on an artificial island in the Persian Gulf.", "source_ids": ["S5"]},
+    {"title": "Pritzker scholarship for Chinese students", "year": "1983", "description": "Used his Pritzker Prize money to fund Chinese architecture students studying in the United States.", "source_ids": ["S1"]}
+  ],
+  "honors": [
+    {"title": "Pritzker Architecture Prize", "year": 1983, "source_ids": ["S1"]},
+    {"title": "AIA Gold Medal, American Institute of Architects", "year": 1979, "source_ids": ["S5"]},
+    {"title": "Praemium Imperiale for Architecture (Japan)", "year": 1989, "source_ids": ["S5"]},
+    {"title": "Presidential Medal of Freedom", "year": 1992, "source_ids": ["S5"]},
+    {"title": "Royal Gold Medal, Royal Institute of British Architects", "year": 2010, "source_ids": ["S5"]},
+    {"title": "Officer of the French Legion of Honour", "year": 1993, "source_ids": ["S5"]}
+  ],
+  "timeline": [
+    {"year": 1917, "date": "April 26, 1917", "title": "Born in Guangzhou", "description": "Born to banker Tsuyee Pei and Lien Kwun; raised in Hong Kong and Shanghai.", "category": "origins", "source_ids": ["S3", "S5"]},
+    {"year": 1935, "title": "Sails to America", "description": "Arrives at seventeen to study architecture, transferring to MIT after a brief stay at the University of Pennsylvania.", "category": "immigration", "source_ids": ["S3", "S5"]},
+    {"year": 1940, "title": "MIT degree", "description": "Graduates with a Bachelor of Architecture from MIT.", "category": "career", "source_ids": ["S3"]},
+    {"year": 1946, "title": "Harvard under Gropius", "description": "Completes a Master of Architecture at the Harvard Graduate School of Design.", "category": "career", "source_ids": ["S1", "S5"]},
+    {"year": 1954, "title": "Becomes a U.S. citizen", "description": "Naturalized after nineteen years in the country.", "category": "immigration", "source_ids": ["S5"]},
+    {"year": 1955, "title": "Founds his own firm", "description": "I. M. Pei & Associates opens in New York; it becomes Pei Cobb Freed & Partners in 1989.", "category": "career", "source_ids": ["S1", "S5"]},
+    {"year": 1964, "title": "Chosen for the Kennedy Library", "description": "Jacqueline Kennedy selects Pei to design the presidential library, completed in 1979.", "category": "milestone", "source_ids": ["S5"]},
+    {"year": 1978, "title": "East Building opens", "description": "The National Gallery of Art's East Building opens in Washington, D.C.", "category": "milestone", "source_ids": ["S1", "S5"]},
+    {"year": 1983, "title": "Pritzker Prize and the Louvre commission", "description": "Wins architecture's highest honour and is named architect of the Grand Louvre by President Mitterrand.", "category": "honor", "source_ids": ["S1", "S4"]},
+    {"year": 1989, "title": "The Louvre Pyramid opens", "description": "The once-reviled pyramid becomes a symbol of Paris.", "category": "milestone", "source_ids": ["S4"]},
+    {"year": 1990, "title": "Bank of China Tower", "description": "Completes the 70-storey tower on the Hong Kong skyline.", "category": "milestone", "source_ids": ["S5"]},
+    {"year": 2019, "date": "May 16, 2019", "title": "Dies in New York at 102", "description": "His death is announced by his sons' firm; tributes come from the Louvre, the Pritzker Prize and MIT.", "category": "legacy", "source_ids": ["S2", "S3", "S4"]}
+  ],
+  "quotes": [],
+  "fun_facts": [
+    {"text": "Pei was the first foreign architect ever to work on the Louvre palace, and the pyramid was so unpopular at first that he said people glared at him in the streets of Paris.", "source_ids": ["S4"]},
+    {"text": "He gave his entire Pritzker Prize award to a scholarship fund for Chinese students to study architecture in the United States.", "source_ids": ["S1"]}
+  ],
+  "discussion_prompts": [
+    "Parisians hated the pyramid before they loved it. Can you think of something new that people rejected at first and later treasured?",
+    "Pei built museums in America, France, Japan, China and Qatar. How does an architect honour a place that is not his own?",
+    "What would you build in your hometown, and out of what?"
+  ],
+  "media": [
+    {"id": "M1", "kind": "image", "title": "The Louvre Pyramid at dusk, Cour Napoléon", "url": "https://commons.wikimedia.org/wiki/File:Louvre_Courtyard,_Looking_West.jpg", "embed_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Louvre_Courtyard,_Looking_West.jpg?width=1200", "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Louvre_Courtyard,_Looking_West.jpg?width=600", "year": "2020", "credit": "Benh Lieu Song, via Wikimedia Commons", "license": "CC BY-SA 4.0", "license_url": "https://creativecommons.org/licenses/by-sa/4.0/", "description": "Pei's pyramid and its three smaller companions in the courtyard of the Louvre.", "annotation": "The pyramid's 673 glass panes were engineered to be as clear as possible so the palace would show through.", "source_id": null},
+    {"id": "M2", "kind": "image", "title": "East Building, National Gallery of Art, Washington, D.C.", "url": "https://commons.wikimedia.org/wiki/File:National-Gallery-of-Art-East-Building-I-M-Pei-National-Mall-Washington-DC-Apr-2014.jpg", "embed_url": "https://commons.wikimedia.org/wiki/Special:FilePath/National-Gallery-of-Art-East-Building-I-M-Pei-National-Mall-Washington-DC-Apr-2014.jpg?width=1200", "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/National-Gallery-of-Art-East-Building-I-M-Pei-National-Mall-Washington-DC-Apr-2014.jpg?width=600", "year": "2014", "credit": "Gunnar Klack, via Wikimedia Commons", "license": "CC BY-SA 4.0", "license_url": "https://creativecommons.org/licenses/by-sa/4.0/", "description": "The marble prow of the East Building on the National Mall.", "annotation": "The famous 19-degree corner is so sharp that visitors have worn a dark patch into the marble by touching it.", "source_id": null},
+    {"id": "M3", "kind": "image", "title": "Bank of China Tower, Hong Kong", "url": "https://commons.wikimedia.org/wiki/File:Looking_up_to_the_Bank_of_China_Tower_in_Hong_Kong.jpg", "embed_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Looking_up_to_the_Bank_of_China_Tower_in_Hong_Kong.jpg?width=1200", "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Looking_up_to_the_Bank_of_China_Tower_in_Hong_Kong.jpg?width=600", "year": "2016", "credit": "Choinowski, via Wikimedia Commons", "license": "CC BY-SA 4.0", "license_url": "https://creativecommons.org/licenses/by-sa/4.0/", "description": "The tower's triangular prisms, inspired by bamboo shoots.", "annotation": null, "source_id": null},
+    {"id": "M4", "kind": "document", "title": "I. M. Pei – 1983 Pritzker Architecture Prize laureate", "url": "https://www.pritzkerprize.com/laureates/1983", "embed_url": null, "thumbnail": null, "year": "1983", "credit": "The Hyatt Foundation / Pritzker Architecture Prize", "license": "© Pritzker Architecture Prize (link only)", "license_url": null, "description": "Biography, jury citation and acceptance speech from the prize's official site.", "annotation": null, "source_id": "S1"},
+    {"id": "M5", "kind": "document", "title": "I. M. Pei: Life Is Architecture (exhibition, M+ Hong Kong, 2024)", "url": "https://www.mplus.org.hk/en/exhibitions/i-m-pei-life-is-architecture/", "embed_url": null, "thumbnail": null, "year": "2024", "credit": "M+ museum, Hong Kong", "license": "© M+ (link only)", "license_url": null, "description": "The first full-scale retrospective of Pei's work, with models, drawings and films.", "annotation": null, "source_id": "S6"}
+  ],
+  "review_notes": [
+    {"ihh_statement": "Presidential Medal of Freedom (1993)", "finding": "Most references, including Wikipedia's sourced list of recipients, date Pei's Presidential Medal of Freedom to 1992 (President George H. W. Bush). Recommend confirming the ceremony date before publishing.", "severity": "unverified", "source_ids": ["S5"]},
+    {"ihh_statement": "Designed the JFK Presidential Library in Boston, MA (1964)", "finding": "Pei was selected in 1964; the library was completed and dedicated in 1979.", "severity": "clarification", "source_ids": ["S5"]},
+    {"ihh_statement": "Designed the East Wing of the National Art Gallery (1983)", "finding": "The East Building of the National Gallery of Art opened in 1978.", "severity": "correction", "source_ids": ["S1", "S5"]}
+  ],
+  "sources": [
+    {"id": "S1", "title": "I. M. Pei – 1983 Laureate", "publisher": "The Pritzker Architecture Prize", "url": "https://www.pritzkerprize.com/laureates/1983", "kind": "organization"},
+    {"id": "S2", "title": "1983 Pritzker Laureate Ieoh Ming (I.M.) Pei (1917–2019) has passed away at age 102", "publisher": "The Pritzker Architecture Prize", "url": "https://www.pritzkerprize.com/im-pei-passing", "kind": "organization"},
+    {"id": "S3", "title": "Renowned architect I.M. Pei '40 dies at 102", "publisher": "MIT News", "url": "https://news.mit.edu/2019/renowned-architect-mit-alumnus-im-pei-dies-0517", "kind": "academic"},
+    {"id": "S4", "title": "Ieoh Ming Pei – statement on his death", "publisher": "Musée du Louvre, press office", "url": "https://presse.louvre.fr/ieoh-ming-pei-2", "kind": "museum"},
+    {"id": "S5", "title": "I. M. Pei", "publisher": "Wikipedia (with cited references)", "url": "https://en.wikipedia.org/wiki/I._M._Pei", "kind": "encyclopedia"},
+    {"id": "S6", "title": "I. M. Pei: Life Is Architecture", "publisher": "M+, Hong Kong", "url": "https://www.mplus.org.hk/en/exhibitions/i-m-pei-life-is-architecture/", "kind": "museum"},
+    {"id": "S7", "title": "Inductee: I.M. Pei", "publisher": "Immigrant Hall of Honor", "url": "https://immigranthallofhonor.org/inductees/inductee-i-m-pei/", "kind": "organization", "note": "Existing IHH profile used as the starting point."}
+  ],
+  "ihh_page_url": "https://immigranthallofhonor.org/inductees/inductee-i-m-pei/",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/I._M._Pei"
+}

@@ -1,0 +1,86 @@
+{
+  "slug": "albert-einstein",
+  "name": "Albert Einstein",
+  "birth_name": "Albert Einstein",
+  "tagline": "The physicist who rewrote space and time, then found refuge in Princeton",
+  "field": "Science",
+  "tags": ["physicist", "Nobel laureate", "refugee", "humanitarian"],
+  "accent": "#3A6EA5",
+  "born": {"year": 1879, "date": "March 14, 1879", "place": "Ulm, Kingdom of Württemberg, German Empire"},
+  "died": {"year": 1955, "date": "April 18, 1955", "place": "Princeton, New Jersey"},
+  "origin": {"country": "Germany", "place": "Ulm", "flag": "🇩🇪", "region": "Europe"},
+  "immigration": {"year": 1933, "arrived": "Princeton, New Jersey", "detail": "Einstein was visiting the United States when Hitler came to power in January 1933. He renounced his German citizenship, spent the summer in Belgium and England, and in October 1933 took up a permanent post at the newly founded Institute for Advanced Study in Princeton.", "source_ids": ["S1", "S2"]},
+  "citizenship_year": 1940,
+  "occupations": ["Theoretical physicist", "Professor"],
+  "hero_image": {"url": "https://commons.wikimedia.org/wiki/Special:FilePath/Albert_Einstein_Head.jpg?width=1200", "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Albert_Einstein_Head.jpg?width=600", "credit": "Orren Jack Turner, Princeton, 1947 (Library of Congress)", "license": "Public domain (copyright not renewed)", "license_url": "https://en.wikipedia.org/wiki/Public_domain", "source_url": "https://commons.wikimedia.org/wiki/File:Albert_Einstein_Head.jpg"},
+  "summary": "In a single year, 1905, a 26-year-old patent clerk published four papers that changed physics forever. Driven from Germany by the Nazis in 1933, Albert Einstein spent his last 22 years in Princeton, became an American citizen in 1940, and used his fame to defend refugees, civil rights and peace.",
+  "biography": [
+    {"text": "Albert Einstein was born in Ulm, Germany, on March 14, 1879, and grew up in Munich. He trained as a teacher of physics and mathematics at the Swiss Federal Polytechnic in Zurich, received his diploma in 1901, became a Swiss citizen, and, unable to find an academic post, took a job as a technical examiner at the Swiss Patent Office in Bern.", "source_ids": ["S1"]},
+    {"text": "In 1905, his 'miracle year', he published papers on the photoelectric effect, Brownian motion and special relativity, and derived the equivalence of mass and energy expressed as E = mc². In 1915 he completed the general theory of relativity, which describes gravity as the curvature of spacetime; its prediction that starlight bends around the Sun was confirmed during the solar eclipse of 1919, making him world famous. He received the 1921 Nobel Prize in Physics for his explanation of the photoelectric effect.", "source_ids": ["S1", "S3"]},
+    {"text": "Einstein was in the United States when the Nazis took power in January 1933. Declaring he would not return to a country where citizens were denied equality before the law, he renounced his German citizenship and in October 1933 joined the Institute for Advanced Study in Princeton, New Jersey, where he remained for the rest of his life. He became a U.S. citizen on October 1, 1940, keeping his Swiss citizenship as well.", "source_ids": ["S1", "S2", "S7"]},
+    {"text": "In August 1939 he signed the letter, drafted with physicist Leo Szilard, warning President Franklin D. Roosevelt that Germany might build an atomic bomb; it helped set in motion what became the Manhattan Project. After the war he campaigned for nuclear disarmament and world government, co-signing the Russell–Einstein Manifesto days before his death.", "source_ids": ["S4", "S2"]},
+    {"text": "In America he spoke out against racial segregation, calling racism 'a disease of white people', supported refugees fleeing Europe, and in 1952 declined an offer to become President of Israel. He died in Princeton on April 18, 1955. His papers, more than 30,000 documents, are published online by the Einstein Papers Project at Caltech with Princeton University Press and the Hebrew University of Jerusalem.", "source_ids": ["S2", "S5", "S6"]}
+  ],
+  "achievements": [
+    {"title": "Special relativity and E = mc²", "year": "1905", "description": "Showed that space and time are relative to the observer and that mass and energy are equivalent.", "source_ids": ["S1", "S3"]},
+    {"title": "Explanation of the photoelectric effect", "year": "1905", "description": "Proposed that light comes in quanta (photons), a foundation of quantum theory and the work cited by his Nobel Prize.", "source_ids": ["S3"]},
+    {"title": "General theory of relativity", "year": "1915", "description": "Described gravity as the geometry of spacetime; confirmed by the 1919 eclipse expeditions and the basis of modern cosmology and GPS corrections.", "source_ids": ["S1"]},
+    {"title": "Einstein–Szilard letter to President Roosevelt", "year": "1939", "description": "Warned of the possibility of nuclear weapons and urged U.S. research, leading to the Manhattan Project.", "source_ids": ["S4"]},
+    {"title": "Professor at the Institute for Advanced Study", "year": "1933–1955", "description": "Spent 22 years in Princeton pursuing a unified field theory and mentoring refugee scholars.", "source_ids": ["S1", "S2"]}
+  ],
+  "honors": [
+    {"title": "Nobel Prize in Physics (for 1921, awarded 1922)", "year": 1921, "source_ids": ["S3"]},
+    {"title": "Copley Medal of the Royal Society", "year": 1925, "source_ids": ["S1"]},
+    {"title": "Max Planck Medal", "year": 1929, "source_ids": ["S2"]},
+    {"title": "Franklin Medal of the Franklin Institute", "year": 1935, "source_ids": ["S1"]},
+    {"title": "Element 99 named einsteinium", "year": 1955, "source_ids": ["S2"]},
+    {"title": "Time magazine 'Person of the Century'", "year": 1999, "source_ids": ["S2"]}
+  ],
+  "timeline": [
+    {"year": 1879, "date": "March 14, 1879", "title": "Born in Ulm", "description": "Born to Hermann and Pauline Einstein; the family moves to Munich the following year.", "category": "origins", "source_ids": ["S1"]},
+    {"year": 1901, "title": "Diploma and Swiss citizenship", "description": "Graduates from the Swiss Federal Polytechnic and becomes a Swiss citizen; begins work at the Bern patent office in 1902.", "category": "origins", "source_ids": ["S1"]},
+    {"year": 1905, "title": "The miracle year", "description": "Publishes four landmark papers, including special relativity and E = mc².", "category": "milestone", "source_ids": ["S1", "S3"]},
+    {"year": 1915, "title": "General relativity", "description": "Presents the field equations of general relativity to the Prussian Academy of Sciences.", "category": "milestone", "source_ids": ["S1"]},
+    {"year": 1922, "title": "Nobel Prize in Physics", "description": "Receives the 1921 Nobel Prize 'for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect'.", "category": "honor", "source_ids": ["S3"]},
+    {"year": 1933, "date": "October 17, 1933", "title": "Arrives in Princeton", "description": "After renouncing German citizenship, he joins the Institute for Advanced Study.", "category": "immigration", "source_ids": ["S1", "S2"]},
+    {"year": 1939, "date": "August 2, 1939", "title": "Letter to President Roosevelt", "description": "Signs the Einstein–Szilard letter warning that Germany could build an atomic bomb.", "category": "milestone", "source_ids": ["S4"]},
+    {"year": 1940, "date": "October 1, 1940", "title": "Becomes a U.S. citizen", "description": "Takes the oath of citizenship before Judge Phillip Forman in Trenton, New Jersey.", "category": "immigration", "source_ids": ["S7", "S2"]},
+    {"year": 1952, "title": "Declines the presidency of Israel", "description": "Turns down the offer after the death of Chaim Weizmann, saying he lacks the aptitude for the role.", "category": "career", "source_ids": ["S2"]},
+    {"year": 1955, "date": "April 18, 1955", "title": "Dies in Princeton", "description": "Dies at 76; days earlier he signed the Russell–Einstein Manifesto against nuclear weapons.", "category": "legacy", "source_ids": ["S2"]}
+  ],
+  "quotes": [
+    {"text": "Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.", "context": "Interview with George Sylvester Viereck, The Saturday Evening Post, October 26, 1929", "source_id": "S8"}
+  ],
+  "fun_facts": [
+    {"text": "Einstein never received the Nobel Prize for relativity; the 1921 award cited the photoelectric effect, because relativity was still considered controversial.", "source_ids": ["S3"]},
+    {"text": "His 1940 citizenship ceremony was photographed for the New York World-Telegram; the picture is now in the Library of Congress.", "source_ids": ["S7"]}
+  ],
+  "discussion_prompts": [
+    "Einstein said he would not live in a country where people were denied equality before the law. What would make you leave the place you call home?",
+    "Why might a refugee scientist feel a special duty to speak out against injustice in his new country?",
+    "E = mc² fits on a T-shirt. What makes an idea both simple and world-changing?"
+  ],
+  "media": [
+    {"id": "M1", "kind": "image", "title": "Einstein receives his certificate of U.S. citizenship, October 1, 1940", "url": "https://commons.wikimedia.org/wiki/File:Albert_Einstein_citizenship_NYWTS.jpg", "embed_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Albert_Einstein_citizenship_NYWTS.jpg?width=1200", "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Albert_Einstein_citizenship_NYWTS.jpg?width=600", "year": "1940", "credit": "Al Aumuller, New York World-Telegram & Sun; Library of Congress", "license": "Public domain", "license_url": "https://en.wikipedia.org/wiki/Public_domain", "description": "Judge Phillip Forman hands Einstein his certificate of American citizenship in Trenton, New Jersey.", "annotation": "The original caption read 'America gains a famous citizen.' Einstein's stepdaughter Margot and secretary Helen Dukas were naturalized the same day.", "source_id": "S7"},
+    {"id": "M2", "kind": "document", "title": "The Einstein–Szilard letter to President Roosevelt (August 2, 1939)", "url": "https://www.osti.gov/opennet/manhattan-project-history/Events/1939-1942/einstein_letter.htm", "embed_url": null, "thumbnail": null, "year": "1939", "credit": "U.S. Department of Energy, Office of Scientific and Technical Information", "license": "Public domain (U.S. federal government work)", "license_url": null, "description": "Full text of the letter, with historical context from the Manhattan Project history.", "annotation": "Einstein later called signing the letter 'the one great mistake in my life'.", "source_id": "S4"},
+    {"id": "M3", "kind": "document", "title": "The Collected Papers of Albert Einstein (digital edition)", "url": "https://einsteinpapers.press.princeton.edu/", "embed_url": null, "thumbnail": null, "year": null, "credit": "Einstein Papers Project, Caltech / Princeton University Press", "license": "Free to read online", "license_url": null, "description": "Annotated transcriptions and translations of thousands of Einstein's letters, manuscripts and papers.", "annotation": null, "source_id": "S5"},
+    {"id": "M4", "kind": "image", "title": "Portrait by Orren Jack Turner, 1947", "url": "https://commons.wikimedia.org/wiki/File:Albert_Einstein_Head.jpg", "embed_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Albert_Einstein_Head.jpg?width=1200", "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Albert_Einstein_Head.jpg?width=600", "year": "1947", "credit": "Orren Jack Turner; Library of Congress", "license": "Public domain (copyright not renewed)", "license_url": "https://en.wikipedia.org/wiki/Public_domain", "description": "The best-known photograph of Einstein in his Princeton years.", "annotation": null, "source_id": null}
+  ],
+  "review_notes": [
+    {"ihh_statement": "Place & Date of Immigration: Princeton, New Jersey in 1932", "finding": "Einstein made winter visits to Caltech from 1931, but his permanent move to Princeton was in October 1933, after the Nazi seizure of power. The Nobel biography and the Institute for Advanced Study both give 1933.", "severity": "correction", "source_ids": ["S1", "S2"]},
+    {"ihh_statement": "Education: Eidgenössische Polytechnische Schule (1911), Ph.D in Physics from University of Zurich (1906)", "finding": "He received his teaching diploma from the Zurich Polytechnic in 1901 (not 1911) and his doctorate from the University of Zurich in 1905–06.", "severity": "correction", "source_ids": ["S1"]}
+  ],
+  "sources": [
+    {"id": "S1", "title": "Albert Einstein – Biographical", "publisher": "The Nobel Prize (NobelPrize.org)", "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/", "kind": "official"},
+    {"id": "S2", "title": "Albert Einstein", "publisher": "Wikipedia (with cited references)", "url": "https://en.wikipedia.org/wiki/Albert_Einstein", "kind": "encyclopedia"},
+    {"id": "S3", "title": "The Nobel Prize in Physics 1921 – Summary", "publisher": "The Nobel Prize (NobelPrize.org)", "url": "https://www.nobelprize.org/prizes/physics/1921/summary/", "kind": "official"},
+    {"id": "S4", "title": "Einstein's Letter to President Roosevelt – Manhattan Project history", "publisher": "U.S. Department of Energy, OSTI OpenNet", "url": "https://www.osti.gov/opennet/manhattan-project-history/Events/1939-1942/einstein_letter.htm", "kind": "government"},
+    {"id": "S5", "title": "The Collected Papers of Albert Einstein – Digital Einstein Papers", "publisher": "Einstein Papers Project (Caltech) / Princeton University Press", "url": "https://einsteinpapers.press.princeton.edu/", "kind": "academic"},
+    {"id": "S6", "title": "Einstein Archives Online", "publisher": "The Hebrew University of Jerusalem", "url": "https://www.alberteinstein.info/", "kind": "archive"},
+    {"id": "S7", "title": "Albert Einstein citizenship photograph (New York World-Telegram & Sun collection) – file description", "publisher": "Wikimedia Commons / Library of Congress", "url": "https://commons.wikimedia.org/wiki/File:Albert_Einstein_citizenship_NYWTS.jpg", "kind": "archive"},
+    {"id": "S8", "title": "Albert Einstein – Wikiquote (sourced quotations)", "publisher": "Wikiquote", "url": "https://en.wikiquote.org/wiki/Albert_Einstein", "kind": "encyclopedia"},
+    {"id": "S9", "title": "Inductee: Albert Einstein", "publisher": "Immigrant Hall of Honor", "url": "https://immigranthallofhonor.org/inductees/inductee-albert-einstein/", "kind": "organization", "note": "Existing IHH profile used as the starting point."}
+  ],
+  "ihh_page_url": "https://immigranthallofhonor.org/inductees/inductee-albert-einstein/",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Albert_Einstein"
+}

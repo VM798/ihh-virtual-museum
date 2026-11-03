@@ -1,0 +1,22 @@
+# secrets
+.env
+backend/.env
+# python
+backend/.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+# node
+frontend/node_modules/
+frontend/dist/
+# os
+.DS_Store
+# video pipeline
+video/node_modules/
+video/out/
+# large render (attach to a GitHub release instead)
+/IHH_Virtual_Museum_ChallengeX.mp4
+# office lock files
+~$*
+# scratch
+backend/data/__pycache__/

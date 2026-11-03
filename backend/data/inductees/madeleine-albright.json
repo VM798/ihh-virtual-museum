@@ -1,0 +1,80 @@
+{
+  "slug": "madeleine-albright",
+  "name": "Madeleine Albright",
+  "birth_name": "Marie Jana Korbelová",
+  "tagline": "Refugee from Prague who became the first woman to serve as U.S. Secretary of State",
+  "field": "Diplomacy",
+  "tags": ["diplomat", "refugee", "author", "professor"],
+  "accent": "#7A1E3C",
+  "born": {"year": 1937, "date": "May 15, 1937", "place": "Prague, Czechoslovakia"},
+  "died": {"year": 2022, "date": "March 23, 2022", "place": "Washington, D.C."},
+  "origin": {"country": "Czechoslovakia (present-day Czech Republic)", "place": "Prague", "flag": "🇨🇿", "region": "Europe"},
+  "immigration": {"year": 1948, "arrived": "New York, then Denver, Colorado", "detail": "After fleeing the Nazi occupation to London in 1939 and returning home in 1945, the Korbel family fled again following the 1948 Communist coup and arrived in the United States in November 1948, settling in Denver where her father taught at the University of Denver.", "source_ids": ["S1", "S2"]},
+  "citizenship_year": 1957,
+  "occupations": ["Diplomat", "Secretary of State", "Professor", "Author"],
+  "hero_image": {"url": "https://commons.wikimedia.org/wiki/Special:FilePath/Secalbright.jpg?width=1200", "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Secalbright.jpg?width=600", "credit": "U.S. Department of State, official portrait, 1997", "license": "Public domain (U.S. federal government work)", "license_url": "https://en.wikipedia.org/wiki/Public_domain", "source_url": "https://commons.wikimedia.org/wiki/File:Secalbright.jpg"},
+  "summary": "Twice a refugee before the age of eleven, Madeleine Albright rose from a Denver high school to the United Nations and then to the State Department, becoming in 1997 the first woman to serve as U.S. Secretary of State.",
+  "biography": [
+    {"text": "Madeleine Albright was born Marie Jana Korbelová in Prague on May 15, 1937, the daughter of Czechoslovak diplomat Josef Korbel. When Nazi Germany occupied the country in 1939 the family escaped to England, where she lived through the Blitz as a small child. They returned to Prague after the war, but the Communist coup of February 1948 forced them to flee a second time, and in November 1948 the family arrived in the United States.", "source_ids": ["S1", "S2"]},
+    {"text": "The Korbels settled in Denver, Colorado, where her father founded what became the University of Denver's school of international studies. Albright became a U.S. citizen in 1957, graduated from Wellesley College in 1959 with a degree in political science, and later earned master's and doctoral degrees from Columbia University while raising three daughters.", "source_ids": ["S1", "S2", "S4"]},
+    {"text": "She entered public service on the National Security Council staff under President Jimmy Carter (1978–1981) and later taught at Georgetown University. In 1993 President Bill Clinton appointed her U.S. Permanent Representative to the United Nations, and on January 23, 1997 she was sworn in as the 64th Secretary of State, the first woman to hold the office and, at the time, the highest-ranking woman in the history of the U.S. government.", "source_ids": ["S1", "S2"]},
+    {"text": "As Secretary she championed NATO's enlargement to include the Czech Republic, Hungary and Poland in 1999, supported the NATO intervention that ended the war in Kosovo, and pressed for democracy and human rights worldwide. Only in 1997 did she learn publicly that her parents had been born Jewish and that three of her grandparents had died in the Holocaust, a discovery she wrote about in later memoirs.", "source_ids": ["S1", "S2"]},
+    {"text": "After leaving office in 2001 she chaired the National Democratic Institute, founded the Albright Institute for Global Affairs at Wellesley, taught at Georgetown, and wrote best-selling books including Madam Secretary and Fascism: A Warning. In 2012 President Barack Obama awarded her the Presidential Medal of Freedom. She died in Washington, D.C. on March 23, 2022.", "source_ids": ["S2", "S3", "S4"]}
+  ],
+  "achievements": [
+    {"title": "First woman to serve as U.S. Secretary of State", "year": "1997–2001", "description": "Confirmed by the Senate 99–0 and sworn in on January 23, 1997 as the 64th Secretary of State under President Clinton.", "source_ids": ["S1", "S2"]},
+    {"title": "U.S. Permanent Representative to the United Nations", "year": "1993–1997", "description": "Served in the Cabinet-level post during the crises in Bosnia, Rwanda and Haiti.", "source_ids": ["S1"]},
+    {"title": "Championed NATO enlargement", "year": "1999", "description": "Presided over the accession of the Czech Republic, Hungary and Poland, the first former Warsaw Pact states to join the alliance.", "source_ids": ["S2"]},
+    {"title": "Founded the Albright Institute for Global Affairs", "year": "2009", "description": "An interdisciplinary program at Wellesley College that trains students in global problem-solving.", "source_ids": ["S4"]},
+    {"title": "Best-selling author", "year": "2003–2020", "description": "Wrote Madam Secretary (2003), Read My Pins (2009), Prague Winter (2012), Fascism: A Warning (2018) and Hell and Other Destinations (2020).", "source_ids": ["S2"]}
+  ],
+  "honors": [
+    {"title": "Presidential Medal of Freedom", "year": 2012, "source_ids": ["S3"]},
+    {"title": "Order of the White Lion, Czech Republic's highest honour", "year": 1997, "source_ids": ["S2"]},
+    {"title": "Inducted into the National Women's Hall of Fame", "year": 1998, "source_ids": ["S2"]}
+  ],
+  "timeline": [
+    {"year": 1937, "date": "May 15, 1937", "title": "Born in Prague", "description": "Born Marie Jana Korbelová to diplomat Josef Korbel and Anna Spieglová.", "category": "origins", "source_ids": ["S1", "S2"]},
+    {"year": 1939, "title": "First flight: to London", "description": "After the German occupation of Czechoslovakia the family escapes to England, where she lives through the Blitz.", "category": "origins", "source_ids": ["S2"]},
+    {"year": 1948, "date": "November 1948", "title": "Arrives in the United States", "description": "After the Communist coup the Korbels flee again; the family settles in Denver, Colorado.", "category": "immigration", "source_ids": ["S1", "S2"]},
+    {"year": 1957, "title": "Becomes a U.S. citizen", "description": "Naturalized while a student at Wellesley College.", "category": "immigration", "source_ids": ["S2"]},
+    {"year": 1959, "title": "Graduates from Wellesley College", "description": "Earns a B.A. in political science; later completes a master's and Ph.D. at Columbia University.", "category": "career", "source_ids": ["S1", "S4"]},
+    {"year": 1978, "title": "Joins the National Security Council staff", "description": "Works for National Security Adviser Zbigniew Brzezinski in the Carter White House until 1981.", "category": "career", "source_ids": ["S1"]},
+    {"year": 1993, "title": "U.S. Ambassador to the United Nations", "description": "President Clinton names her Permanent Representative to the UN.", "category": "milestone", "source_ids": ["S1"]},
+    {"year": 1997, "date": "January 23, 1997", "title": "Sworn in as Secretary of State", "description": "Becomes the 64th Secretary of State and the first woman in the office.", "category": "milestone", "source_ids": ["S1", "S6"]},
+    {"year": 1999, "title": "NATO enlargement and Kosovo", "description": "The Czech Republic, Hungary and Poland join NATO; the alliance intervenes to end the war in Kosovo.", "category": "milestone", "source_ids": ["S2"]},
+    {"year": 2012, "date": "May 29, 2012", "title": "Presidential Medal of Freedom", "description": "President Obama presents the nation's highest civilian honour.", "category": "honor", "source_ids": ["S3"]},
+    {"year": 2022, "date": "March 23, 2022", "title": "Dies in Washington, D.C.", "description": "Dies of cancer at 84; eulogized at Washington National Cathedral by three presidents.", "category": "legacy", "source_ids": ["S2"]}
+  ],
+  "quotes": [
+    {"text": "There is a special place in hell for women who don't help each other.", "context": "A line she used in speeches for years, which she later said was meant for women who had the chance to lift others and did not", "source_id": "S5"}
+  ],
+  "fun_facts": [
+    {"text": "Albright used her brooches as diplomatic signals: she wore a snake pin after Iraqi state media called her a serpent, and later published a book about the collection called Read My Pins.", "source_ids": ["S2"]},
+    {"text": "She did not learn until 1997 that her family was Jewish and that three of her grandparents were killed in the Holocaust.", "source_ids": ["S2"]}
+  ],
+  "discussion_prompts": [
+    "Albright fled her homeland twice before she was eleven. How might those experiences have shaped the way she thought about refugees and democracy?",
+    "What does it mean to be 'the first' at something? What pressures and opportunities come with it?",
+    "Albright used jewelry to send messages without words. What non-verbal ways do people signal what they believe today?"
+  ],
+  "media": [
+    {"id": "M1", "kind": "video", "title": "Swearing-in of Madeleine Albright as Secretary of State (1997)", "url": "https://commons.wikimedia.org/wiki/File:Swearing_In_of_Madeleine_Albright_as_Sec._of_State_(1997).webm", "embed_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Swearing_In_of_Madeleine_Albright_as_Sec._of_State_(1997).webm", "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Swearing_In_of_Madeleine_Albright_as_Sec._of_State_(1997).webm?width=600", "year": "1997", "credit": "White House Television, via Wikimedia Commons", "license": "Public domain (U.S. federal government work)", "license_url": "https://en.wikipedia.org/wiki/Public_domain", "description": "Official White House footage of President Clinton at the January 23, 1997 ceremony in which Albright took the oath of office.", "annotation": "Watch for the moment the oath ends: a refugee child of 1948 is now the chief diplomat of the country that took her in.", "source_id": "S6"},
+    {"id": "M2", "kind": "image", "title": "Official Secretary of State portrait, 1997", "url": "https://commons.wikimedia.org/wiki/File:Madeleine_Albright_1997.jpg", "embed_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Madeleine_Albright_1997.jpg?width=1200", "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Madeleine_Albright_1997.jpg?width=600", "year": "1997", "credit": "U.S. Department of State", "license": "Public domain (U.S. federal government work)", "license_url": "https://en.wikipedia.org/wiki/Public_domain", "description": "The official State Department portrait taken at the start of her term.", "annotation": "Look closely at the brooch. Albright chose a pin for nearly every public appearance, a habit that became her diplomatic signature.", "source_id": null},
+    {"id": "M3", "kind": "document", "title": "Office of the Historian: Madeleine Korbel Albright", "url": "https://history.state.gov/departmenthistory/people/albright-madeleine-korbel", "embed_url": null, "thumbnail": null, "year": null, "credit": "U.S. Department of State, Office of the Historian", "license": "Public domain (U.S. federal government work)", "license_url": null, "description": "The State Department's official biographical record of her service, with dates of appointment.", "annotation": null, "source_id": "S1"}
+  ],
+  "review_notes": [
+    {"ihh_statement": "Education: Columbia University (Masters and Ph.D in Public Law and Government 1976)", "finding": "Published biographies give 1975 or 1976 for the doctorate; the State Department record does not list a year. Recommend confirming with Columbia before publishing a specific date.", "severity": "unverified", "source_ids": ["S1", "S2"]}
+  ],
+  "sources": [
+    {"id": "S1", "title": "Madeleine Korbel Albright – Biographies of the Secretaries of State", "publisher": "U.S. Department of State, Office of the Historian", "url": "https://history.state.gov/departmenthistory/people/albright-madeleine-korbel", "kind": "government"},
+    {"id": "S2", "title": "Madeleine Albright", "publisher": "Wikipedia (with 300+ cited references)", "url": "https://en.wikipedia.org/wiki/Madeleine_Albright", "kind": "encyclopedia", "note": "Used for consolidated dates; each claim is footnoted to primary reporting on the page."},
+    {"id": "S3", "title": "President Obama Names Presidential Medal of Freedom Recipients (April 26, 2012)", "publisher": "The White House (Obama administration archive)", "url": "https://obamawhitehouse.archives.gov/the-press-office/2012/04/26/president-obama-names-presidential-medal-freedom-recipients", "kind": "government"},
+    {"id": "S4", "title": "The Albright Institute", "publisher": "Wellesley College", "url": "https://www.wellesley.edu/albright", "kind": "academic"},
+    {"id": "S5", "title": "Madeleine Albright – Wikiquote (sourced quotations)", "publisher": "Wikiquote", "url": "https://en.wikiquote.org/wiki/Madeleine_Albright", "kind": "encyclopedia"},
+    {"id": "S6", "title": "Swearing In of Madeleine Albright as Sec. of State (1997) – file description and provenance", "publisher": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Swearing_In_of_Madeleine_Albright_as_Sec._of_State_(1997).webm", "kind": "archive"},
+    {"id": "S7", "title": "Inductee: Madeleine Albright", "publisher": "Immigrant Hall of Honor", "url": "https://immigranthallofhonor.org/inductees/inductee-madeleine-albright/", "kind": "organization", "note": "Existing IHH profile used as the starting point for this expanded content."}
+  ],
+  "ihh_page_url": "https://immigranthallofhonor.org/inductees/inductee-madeleine-albright/",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Madeleine_Albright"
+}

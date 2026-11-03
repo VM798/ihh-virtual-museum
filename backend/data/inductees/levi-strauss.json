@@ -1,0 +1,74 @@
+{
+  "slug": "levi-strauss",
+  "name": "Levi Strauss",
+  "birth_name": "Löb Strauß",
+  "tagline": "Bavarian peddler's son who put rivets on work pants and invented the blue jean",
+  "field": "Business",
+  "tags": ["entrepreneur", "philanthropist", "Gold Rush", "fashion"],
+  "accent": "#1F4E79",
+  "born": {"year": 1829, "date": "February 26, 1829", "place": "Buttenheim, Bavaria (Germany)"},
+  "died": {"year": 1902, "date": "September 26, 1902", "place": "San Francisco, California"},
+  "origin": {"country": "Germany", "place": "Buttenheim, Bavaria", "flag": "🇩🇪", "region": "Europe"},
+  "immigration": {"year": 1847, "arrived": "New York City", "detail": "After his father died of tuberculosis in 1846, eighteen-year-old Löb emigrated with his mother and two sisters to New York, where his older half-brothers ran a dry-goods business. He anglicised his name to Levi, learned the trade, and in 1853 sailed to Gold Rush San Francisco to open the firm's western branch.", "source_ids": ["S1", "S4"]},
+  "citizenship_year": 1853,
+  "occupations": ["Merchant", "Manufacturer", "Philanthropist"],
+  "hero_image": {"url": "https://commons.wikimedia.org/wiki/Special:FilePath/Levi_Strauss_1.jpg?width=1200", "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Levi_Strauss_1.jpg?width=600", "credit": "Unknown photographer, before 1902", "license": "Public domain", "license_url": "https://en.wikipedia.org/wiki/Public_domain", "source_url": "https://commons.wikimedia.org/wiki/File:Levi_Strauss_1.jpg"},
+  "summary": "Levi Strauss left a Bavarian village at eighteen, sold dry goods to Gold Rush miners from a San Francisco warehouse, and in 1873 patented, with a Nevada tailor named Jacob Davis, the riveted 'waist overalls' that became the blue jean, the most worn garment on earth. He gave much of his fortune to orphans, scholarships and his adopted city.",
+  "biography": [
+    {"text": "Löb Strauß was born on February 26, 1829, in Buttenheim, a village in Bavaria, the youngest child of Hirsch Strauss, a Jewish peddler of dry goods. Bavarian laws restricted where Jews could live and what work they could do, and after Hirsch died in 1846 the family emigrated: Löb, his mother and two sisters sailed for New York in 1847 to join his half-brothers Jonas and Louis, who had a wholesale dry-goods business, J. Strauss Brother & Co.", "source_ids": ["S1", "S4", "S5"]},
+    {"text": "Now calling himself Levi, he learned the trade in New York and, in early 1853, a few weeks after becoming an American citizen, sailed to San Francisco by way of Panama to open the West Coast branch of the family business. Levi Strauss & Co. imported clothing, fabric, boots and bedding and sold them to the small general stores that supplied the mining camps of the Gold Rush.", "source_ids": ["S1", "S4"]},
+    {"text": "One of his customers was Jacob Davis, a Latvian-born tailor in Reno, Nevada, who had begun reinforcing the stress points of miners' trousers with copper rivets. Lacking the $68 to file a patent, Davis wrote to Strauss in 1872 proposing a partnership. U.S. Patent No. 139,121, 'Improvement in Fastening Pocket-Openings', was granted to Davis and Levi Strauss & Co. on May 20, 1873, the date the company counts as the birthday of blue jeans. Davis moved to San Francisco to run the manufacturing, and the riveted denim 'waist overalls', later numbered lot 501, became the uniform of the American West.", "source_ids": ["S1", "S2", "S4"]},
+    {"text": "Strauss never married and treated the firm's employees and his nephews as family. He was a founding member of San Francisco's first synagogue, Temple Emanu-El, supported the Pacific Hebrew Orphan Asylum and the Eureka Benevolent Society, and in 1897 endowed 28 scholarships at the University of California, Berkeley, which continue to this day.", "source_ids": ["S1", "S4", "S5"]},
+    {"text": "He died in San Francisco on September 26, 1902, leaving an estate of about $6 million and the business to his four nephews. The company he founded survived the 1906 earthquake and fire, and today the house where he was born in Buttenheim is the Levi Strauss Museum.", "source_ids": ["S1", "S3", "S4"]}
+  ],
+  "achievements": [
+    {"title": "Founded Levi Strauss & Co. in San Francisco", "year": "1853", "description": "A wholesale dry-goods house supplying the stores of the Gold Rush West, now a global company.", "source_ids": ["S1", "S4"]},
+    {"title": "U.S. Patent 139,121 with Jacob Davis: the riveted blue jean", "year": "1873", "description": "'Improvement in Fastening Pocket-Openings', granted May 20, 1873, for copper rivets at the stress points of work trousers.", "source_ids": ["S2", "S1"]},
+    {"title": "Endowed 28 scholarships at the University of California", "year": "1897", "description": "The Levi Strauss scholarships at Berkeley have supported students for more than a century.", "source_ids": ["S1", "S4"]},
+    {"title": "Civic philanthropy in San Francisco", "year": "1850s–1902", "description": "Supported the Pacific Hebrew Orphan Asylum, the Eureka Benevolent Society and Temple Emanu-El.", "source_ids": ["S4", "S5"]}
+  ],
+  "honors": [
+    {"title": "Levi Strauss Museum opened in his birthplace, Buttenheim", "year": 2000, "source_ids": ["S3"]},
+    {"title": "Levi's 501 jeans added to the permanent collections of major design museums", "year": null, "source_ids": ["S4"]}
+  ],
+  "timeline": [
+    {"year": 1829, "date": "February 26, 1829", "title": "Born in Buttenheim, Bavaria", "description": "Born Löb Strauß, youngest child of peddler Hirsch Strauss and Rebecca Haas.", "category": "origins", "source_ids": ["S1", "S4"]},
+    {"year": 1847, "title": "Emigrates to New York", "description": "Arrives with his mother and sisters to join his half-brothers' dry-goods firm.", "category": "immigration", "source_ids": ["S1", "S4"]},
+    {"year": 1853, "title": "Citizen, and off to the Gold Rush", "description": "Becomes a U.S. citizen and sails to San Francisco to open Levi Strauss & Co.", "category": "immigration", "source_ids": ["S1", "S4"]},
+    {"year": 1872, "title": "A letter from Reno", "description": "Tailor Jacob Davis proposes that Strauss fund a patent for riveted work pants.", "category": "career", "source_ids": ["S4"]},
+    {"year": 1873, "date": "May 20, 1873", "title": "The blue jean is born", "description": "Patent 139,121 is granted to Jacob Davis and Levi Strauss & Co.", "category": "milestone", "source_ids": ["S2", "S1"]},
+    {"year": 1890, "title": "Lot 501", "description": "The riveted waist overall receives the lot number 501, still used today.", "category": "milestone", "source_ids": ["S4"]},
+    {"year": 1897, "title": "Scholarships at Berkeley", "description": "Funds 28 scholarships at the University of California.", "category": "honor", "source_ids": ["S1", "S4"]},
+    {"year": 1902, "date": "September 26, 1902", "title": "Dies in San Francisco", "description": "Leaves the company to his nephews and bequests to the city's charities.", "category": "legacy", "source_ids": ["S1", "S4"]},
+    {"year": 2000, "title": "Levi Strauss Museum opens", "description": "His birthplace in Buttenheim becomes a museum of his life and of jeans.", "category": "legacy", "source_ids": ["S3"]}
+  ],
+  "quotes": [],
+  "fun_facts": [
+    {"text": "The patent was for the rivets, not the fabric: Davis and Strauss originally made riveted pants in both brown cotton duck and blue denim.", "source_ids": ["S2", "S4"]},
+    {"text": "Strauss was known around San Francisco simply as 'Levi' and asked his employees to call him that rather than 'Mr. Strauss'.", "source_ids": ["S4"]}
+  ],
+  "discussion_prompts": [
+    "Jacob Davis had the idea and Levi Strauss had the money. Who deserves credit for an invention?",
+    "Bavarian law limited what Jewish families could do. How did restrictions at home push people to build new lives in America?",
+    "Jeans were invented for miners. What else do you wear that started as workwear?"
+  ],
+  "media": [
+    {"id": "M1", "kind": "document", "title": "U.S. Patent 139,121: Improvement in Fastening Pocket-Openings (May 20, 1873)", "url": "https://patents.google.com/patent/US139121A/en", "embed_url": null, "thumbnail": null, "year": "1873", "credit": "U.S. Patent and Trademark Office, via Google Patents", "license": "Public domain (U.S. patent document)", "license_url": null, "description": "The original patent text and drawing filed by Jacob W. Davis and assigned to himself and Levi Strauss & Co.", "annotation": "Museum artifact. The drawing shows the rivets at the pocket corners; the patent expired in 1890, after which every maker could use them.", "source_id": "S2"},
+    {"id": "M2", "kind": "image", "title": "Portrait of Levi Strauss", "url": "https://commons.wikimedia.org/wiki/File:Levi_Strauss_1.jpg", "embed_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Levi_Strauss_1.jpg?width=1200", "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Levi_Strauss_1.jpg?width=600", "year": "before 1902", "credit": "Wikimedia Commons", "license": "Public domain", "license_url": "https://en.wikipedia.org/wiki/Public_domain", "description": "The merchant in later life.", "annotation": null, "source_id": null},
+    {"id": "M3", "kind": "document", "title": "Levi's® History – company timeline", "url": "https://www.levistrauss.com/levis-history/", "embed_url": null, "thumbnail": null, "year": null, "credit": "Levi Strauss & Co.", "license": "© Levi Strauss & Co. (link only)", "license_url": null, "description": "The company's own account of its founder and the 1873 patent, maintained by its corporate historian.", "annotation": null, "source_id": "S1"},
+    {"id": "M4", "kind": "document", "title": "Levi Strauss Museum, Buttenheim", "url": "https://www.levi-strauss-museum.de/", "embed_url": null, "thumbnail": null, "year": null, "credit": "Markt Buttenheim", "license": "© Levi Strauss Museum (link only)", "license_url": null, "description": "The museum in the house where Strauss was born, with exhibits on Jewish life in Bavaria and the history of jeans.", "annotation": null, "source_id": "S3"}
+  ],
+  "review_notes": [
+    {"ihh_statement": "In 1873, Levi Strauss revolutionized American culture by inventing and marketing blue jeans.", "finding": "The riveting idea was Jacob Davis's; Strauss financed the patent and manufactured the pants. The patent names both.", "severity": "clarification", "source_ids": ["S2", "S1"]}
+  ],
+  "sources": [
+    {"id": "S1", "title": "Levi's® History", "publisher": "Levi Strauss & Co.", "url": "https://www.levistrauss.com/levis-history/", "kind": "official", "note": "levistrauss.com blocks automated link checks; content confirmed manually."},
+    {"id": "S2", "title": "US139121A – Improvement in fastening pocket-openings", "publisher": "Google Patents (U.S. Patent and Trademark Office record)", "url": "https://patents.google.com/patent/US139121A/en", "kind": "patent"},
+    {"id": "S3", "title": "Levi Strauss Museum Buttenheim", "publisher": "Levi Strauss Museum (Markt Buttenheim)", "url": "https://www.levi-strauss-museum.de/", "kind": "museum"},
+    {"id": "S4", "title": "Levi Strauss", "publisher": "Wikipedia (with cited references)", "url": "https://en.wikipedia.org/wiki/Levi_Strauss", "kind": "encyclopedia"},
+    {"id": "S5", "title": "Levi Strauss", "publisher": "Jewish Virtual Library", "url": "https://www.jewishvirtuallibrary.org/levi-strauss", "kind": "encyclopedia"},
+    {"id": "S6", "title": "Inductee: Levi Strauss", "publisher": "Immigrant Hall of Honor", "url": "https://immigranthallofhonor.org/inductees/inductee-levi-strauss/", "kind": "organization", "note": "Existing IHH profile used as the starting point."}
+  ],
+  "ihh_page_url": "https://immigranthallofhonor.org/inductees/inductee-levi-strauss/",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Levi_Strauss"
+}

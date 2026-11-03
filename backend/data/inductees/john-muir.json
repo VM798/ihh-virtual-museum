@@ -1,0 +1,87 @@
+{
+  "slug": "john-muir",
+  "name": "John Muir",
+  "birth_name": "John Muir",
+  "tagline": "Scottish farm boy who became the father of America's national parks",
+  "field": "Conservation",
+  "tags": ["naturalist", "writer", "inventor", "Sierra Club"],
+  "accent": "#2C6E49",
+  "born": {"year": 1838, "date": "April 21, 1838", "place": "Dunbar, East Lothian, Scotland"},
+  "died": {"year": 1914, "date": "December 24, 1914", "place": "Los Angeles, California"},
+  "origin": {"country": "Scotland", "place": "Dunbar", "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿", "region": "Europe"},
+  "immigration": {"year": 1849, "arrived": "Fountain Lake farm near Portage, Wisconsin", "detail": "In 1849 Daniel Muir, a strict Presbyterian shopkeeper, took eleven-year-old John and two siblings to America to farm. The boy cleared land from dawn to dark, read by candlelight, and taught himself mathematics and mechanics.", "source_ids": ["S1", "S3"]},
+  "citizenship_year": null,
+  "occupations": ["Naturalist", "Writer", "Conservationist", "Inventor"],
+  "hero_image": {"url": "https://commons.wikimedia.org/wiki/Special:FilePath/John_Muir_Watkins_Portrait_circa_1875_Edit.png?width=1200", "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/John_Muir_Watkins_Portrait_circa_1875_Edit.png?width=600", "credit": "Carleton E. Watkins, c. 1875", "license": "Public domain", "license_url": "https://en.wikipedia.org/wiki/Public_domain", "source_url": "https://commons.wikimedia.org/wiki/File:John_Muir_Watkins_Portrait_circa_1875_Edit.png"},
+  "summary": "An immigrant farm boy, factory inventor and thousand-mile walker, John Muir fell in love with the Sierra Nevada in 1868 and spent the rest of his life persuading Americans, including President Theodore Roosevelt, that wild places must be protected. Yosemite National Park and the Sierra Club are his monuments.",
+  "biography": [
+    {"text": "John Muir was born in Dunbar, Scotland, on April 21, 1838. In 1849 his father moved the family to a farm in central Wisconsin, where John laboured through his teens while reading every book he could borrow. A gifted mechanic, he carved clocks, barometers and an 'early-rising machine' that tipped its sleeper out of bed, and in 1860 exhibited his inventions at the Wisconsin State Fair before studying for two years at the University of Wisconsin.", "source_ids": ["S1", "S3"]},
+    {"text": "In 1867, while working in an Indianapolis carriage-parts factory, a file slipped and pierced his right eye; he lay blind in a darkened room for weeks. When his sight returned he resolved to see the world instead of machines, walked a thousand miles from Indiana to the Gulf of Mexico, and in 1868 sailed to California. Asked the way out of San Francisco, he said he wanted to go 'anywhere that is wild', and headed for Yosemite.", "source_ids": ["S1", "S3"]},
+    {"text": "Muir spent years in the Sierra Nevada as a shepherd, sawmill hand and self-taught scientist. He argued, against the leading geologists of the day, that Yosemite Valley had been carved by glaciers, and found living glaciers to prove it. His magazine articles and books, including The Mountains of California (1894) and My First Summer in the Sierra (1911), brought the high country to readers across the nation.", "source_ids": ["S2", "S3", "S5"]},
+    {"text": "In 1889 he camped with Century magazine editor Robert Underwood Johnson and launched the campaign that created Yosemite National Park on October 1, 1890, a week after Sequoia. In 1892 he co-founded the Sierra Club and served as its first president for the rest of his life. In May 1903 he took President Theodore Roosevelt camping for three nights in Yosemite, a trip that helped persuade Roosevelt to place Yosemite Valley under federal protection and to expand national forests and monuments.", "source_ids": ["S2", "S3", "S7"]},
+    {"text": "Muir lost his final battle, to stop San Francisco from damming the Hetch Hetchy Valley inside Yosemite, in 1913, and died in Los Angeles on December 24, 1914. His home in Martinez, California, is now the John Muir National Historic Site, his papers are preserved at the University of the Pacific, and Muir Woods National Monument carries his name.", "source_ids": ["S1", "S3", "S4"]}
+  ],
+  "achievements": [
+    {"title": "Campaign that created Yosemite National Park", "year": "1890", "description": "His Century magazine articles with Robert Underwood Johnson led Congress to establish Yosemite National Park on October 1, 1890.", "source_ids": ["S2", "S3"]},
+    {"title": "Co-founder and first president of the Sierra Club", "year": "1892", "description": "Led the club from its founding on May 28, 1892 until his death, making it the model for citizen conservation groups.", "source_ids": ["S2", "S3"]},
+    {"title": "Glacial theory of Yosemite", "year": "1871", "description": "Correctly argued that glaciers, not a cataclysm, had shaped Yosemite Valley.", "source_ids": ["S3"]},
+    {"title": "Camping trip with Theodore Roosevelt", "year": "1903", "description": "Three nights in Yosemite that influenced Roosevelt's conservation policy.", "source_ids": ["S2", "S7"]},
+    {"title": "Author of twelve books and some 300 articles", "year": "1894–1916", "description": "Including The Mountains of California, Our National Parks, My First Summer in the Sierra and The Yosemite.", "source_ids": ["S5", "S3"]}
+  ],
+  "honors": [
+    {"title": "Muir Woods National Monument named in his honour", "year": 1908, "source_ids": ["S3"]},
+    {"title": "John Muir National Historic Site established at his Martinez home", "year": 1964, "source_ids": ["S1"]},
+    {"title": "John Muir Trail, Yosemite to Mount Whitney, completed", "year": 1938, "source_ids": ["S3"]},
+    {"title": "Inducted into the California Hall of Fame", "year": 2006, "source_ids": ["S3"]}
+  ],
+  "timeline": [
+    {"year": 1838, "date": "April 21, 1838", "title": "Born in Dunbar, Scotland", "description": "Third of eight children of Daniel Muir and Ann Gilrye.", "category": "origins", "source_ids": ["S1", "S3"]},
+    {"year": 1849, "title": "Emigrates to Wisconsin", "description": "Arrives at Fountain Lake farm near Portage, aged eleven.", "category": "immigration", "source_ids": ["S1", "S3"]},
+    {"year": 1860, "title": "Inventor at the State Fair", "description": "Exhibits hand-carved clocks and his 'early-rising machine' at the Wisconsin State Fair.", "category": "origins", "source_ids": ["S1", "S3"]},
+    {"year": 1867, "title": "The accident that changed everything", "description": "A factory injury blinds him for weeks; on recovering he walks a thousand miles to the Gulf of Mexico.", "category": "milestone", "source_ids": ["S1", "S3"]},
+    {"year": 1868, "title": "First sight of Yosemite", "description": "Arrives in California and walks into the Sierra Nevada.", "category": "milestone", "source_ids": ["S2", "S3"]},
+    {"year": 1880, "title": "Marries Louie Strentzel", "description": "Settles on her family's fruit ranch in Martinez, California.", "category": "career", "source_ids": ["S1"]},
+    {"year": 1890, "date": "October 1, 1890", "title": "Yosemite National Park", "description": "Congress creates the park after Muir's campaign in Century magazine.", "category": "milestone", "source_ids": ["S2", "S3"]},
+    {"year": 1892, "date": "May 28, 1892", "title": "Founds the Sierra Club", "description": "Elected first president of the new organisation.", "category": "milestone", "source_ids": ["S3"]},
+    {"year": 1903, "date": "May 1903", "title": "Camping with the President", "description": "Spends three nights in Yosemite with Theodore Roosevelt.", "category": "milestone", "source_ids": ["S2", "S7"]},
+    {"year": 1913, "title": "Hetch Hetchy lost", "description": "Congress approves the dam that floods Hetch Hetchy Valley.", "category": "career", "source_ids": ["S3"]},
+    {"year": 1914, "date": "December 24, 1914", "title": "Dies in Los Angeles", "description": "Dies of pneumonia at 76 with the manuscript of Travels in Alaska beside him.", "category": "legacy", "source_ids": ["S3"]}
+  ],
+  "quotes": [
+    {"text": "The mountains are calling and I must go.", "context": "Letter to his sister Sarah Muir Galloway, September 3, 1873", "source_id": "S6"},
+    {"text": "Everybody needs beauty as well as bread, places to play in and pray in, where nature may heal and give strength to body and soul alike.", "context": "The Yosemite (1912)", "source_id": "S6"}
+  ],
+  "fun_facts": [
+    {"text": "Muir's 'early-rising machine', a bed that tipped its occupant onto the floor at a set hour, is displayed at the Wisconsin Historical Society.", "source_ids": ["S3"]},
+    {"text": "He once rode out a Sierra windstorm by climbing to the top of a hundred-foot Douglas fir to feel how trees experience the wind.", "source_ids": ["S3"]}
+  ],
+  "discussion_prompts": [
+    "Muir went from building machines to protecting wilderness. Can an accident or setback change the direction of a life for the better?",
+    "He convinced a president by taking him camping. What is the most persuasive thing someone has ever shown you, rather than told you?",
+    "Muir lost the fight over Hetch Hetchy. Why do we remember some defeats as victories?"
+  ],
+  "media": [
+    {"id": "M1", "kind": "image", "title": "Theodore Roosevelt and John Muir on Glacier Point, Yosemite, 1903", "url": "https://commons.wikimedia.org/wiki/File:Theodore_Roosevelt_and_John_Muir_on_Glacier_Point,_Yosemite_Valley,_California,_in_1903_LCCN93503130.jpg", "embed_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Theodore_Roosevelt_and_John_Muir_on_Glacier_Point,_Yosemite_Valley,_California,_in_1903_LCCN93503130.jpg?width=1200", "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Theodore_Roosevelt_and_John_Muir_on_Glacier_Point,_Yosemite_Valley,_California,_in_1903_LCCN93503130.jpg?width=600", "year": "1903", "credit": "Underwood & Underwood stereograph, Library of Congress (LCCN 93503130)", "license": "Public domain", "license_url": "https://en.wikipedia.org/wiki/Public_domain", "description": "The president and the naturalist above Yosemite Valley during their May 1903 camping trip.", "annotation": "Museum artifact. A stereograph was sold in pairs for parlour viewers that made the scene appear in 3D, the virtual reality of 1903.", "source_id": "S7"},
+    {"id": "M2", "kind": "image", "title": "Portrait by Carleton Watkins, c. 1875", "url": "https://commons.wikimedia.org/wiki/File:John_Muir_Watkins_Portrait_circa_1875_Edit.png", "embed_url": "https://commons.wikimedia.org/wiki/Special:FilePath/John_Muir_Watkins_Portrait_circa_1875_Edit.png?width=1200", "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/John_Muir_Watkins_Portrait_circa_1875_Edit.png?width=600", "year": "c. 1875", "credit": "Carleton E. Watkins, via Wikimedia Commons", "license": "Public domain", "license_url": "https://en.wikipedia.org/wiki/Public_domain", "description": "Muir in his late thirties, photographed by the great landscape photographer of the Sierra.", "annotation": null, "source_id": null},
+    {"id": "M3", "kind": "document", "title": "John Muir's books, free to read (Project Gutenberg)", "url": "https://www.gutenberg.org/ebooks/search/?query=john+muir", "embed_url": null, "thumbnail": null, "year": null, "credit": "Project Gutenberg", "license": "Public domain", "license_url": null, "description": "Complete texts of My First Summer in the Sierra, The Mountains of California, Our National Parks and more.", "annotation": "Start with My First Summer in the Sierra: it is Muir's 1869 journal, rewritten for readers in 1911.", "source_id": "S5"},
+    {"id": "M4", "kind": "document", "title": "The John Muir Papers (digital collection)", "url": "https://scholarlycommons.pacific.edu/jmb/", "embed_url": null, "thumbnail": null, "year": null, "credit": "University of the Pacific, Holt-Atherton Special Collections", "license": "Free to view; reuse per collection terms", "license_url": null, "description": "Muir's journals, drawings, letters and manuscripts, digitised by the university that holds his archive.", "annotation": null, "source_id": "S4"},
+    {"id": "M5", "kind": "document", "title": "John Muir National Historic Site", "url": "https://www.nps.gov/jomu/index.htm", "embed_url": null, "thumbnail": null, "year": null, "credit": "U.S. National Park Service", "license": "Public domain (U.S. federal government work)", "license_url": null, "description": "The official site for Muir's Martinez home, with history pages, photographs and virtual tours.", "annotation": null, "source_id": "S1"}
+  ],
+  "review_notes": [
+    {"ihh_statement": "Helped establish Sequoia (1890), Yosemite (1898), Mount Rainier (1899), and Grand Canyon (1908) National Parks.", "finding": "Yosemite National Park was established on October 1, 1890, not 1898. Grand Canyon became a national monument in 1908 and a national park in 1919.", "severity": "correction", "source_ids": ["S2", "S3"]},
+    {"ihh_statement": "Citizenship Date: 1903", "finding": "Muir's naturalization has been questioned by historians; some have found no record that he formally became a citizen. Recommend verifying with the National Archives before publishing a date.", "severity": "unverified", "source_ids": ["S3"]},
+    {"ihh_statement": "His three-day camping trip with President Theodore Roosevelt persuaded the president to create the National Parks System.", "finding": "The National Park Service was created in 1916, two years after Muir's death. The 1903 trip influenced Roosevelt's conservation policy, including the 1906 transfer of Yosemite Valley to federal control.", "severity": "correction", "source_ids": ["S2", "S3"]}
+  ],
+  "sources": [
+    {"id": "S1", "title": "John Muir National Historic Site", "publisher": "U.S. National Park Service", "url": "https://www.nps.gov/jomu/index.htm", "kind": "government"},
+    {"id": "S2", "title": "John Muir – Yosemite National Park history", "publisher": "U.S. National Park Service", "url": "https://www.nps.gov/yose/learn/historyculture/muir.htm", "kind": "government"},
+    {"id": "S3", "title": "John Muir", "publisher": "Wikipedia (with cited references)", "url": "https://en.wikipedia.org/wiki/John_Muir", "kind": "encyclopedia"},
+    {"id": "S4", "title": "John Muir Papers", "publisher": "University of the Pacific, Scholarly Commons", "url": "https://scholarlycommons.pacific.edu/jmb/", "kind": "academic"},
+    {"id": "S5", "title": "Books by John Muir", "publisher": "Project Gutenberg", "url": "https://www.gutenberg.org/ebooks/search/?query=john+muir", "kind": "archive"},
+    {"id": "S6", "title": "John Muir – Wikiquote (sourced quotations)", "publisher": "Wikiquote", "url": "https://en.wikiquote.org/wiki/John_Muir", "kind": "encyclopedia"},
+    {"id": "S7", "title": "Theodore Roosevelt and John Muir on Glacier Point (LCCN 93503130) – file description", "publisher": "Wikimedia Commons / Library of Congress", "url": "https://commons.wikimedia.org/wiki/File:Theodore_Roosevelt_and_John_Muir_on_Glacier_Point,_Yosemite_Valley,_California,_in_1903_LCCN93503130.jpg", "kind": "archive"},
+    {"id": "S8", "title": "Inductee: John Muir", "publisher": "Immigrant Hall of Honor", "url": "https://immigranthallofhonor.org/inductees/inductee-john-muir/", "kind": "organization", "note": "Existing IHH profile used as the starting point."}
+  ],
+  "ihh_page_url": "https://immigranthallofhonor.org/inductees/inductee-john-muir/",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/John_Muir"
+}

@@ -1,0 +1,345 @@
+{
+  "title": "IHH Virtual Museum – Challenge X submission",
+  "base_url": "http://127.0.0.1:8010",
+  "voice": "nova",
+  "voice_instructions": "Warm, confident documentary narrator presenting a museum project to competition judges. Clear articulation, moderate pace, natural pauses at sentence ends, never rushed.",
+  "segments": [
+    {
+      "id": "01-title",
+      "kind": "card",
+      "card": "title",
+      "narration": "Welcome to the Immigrant Hall of Honor Virtual Museum, our submission for Challenge X. In the next five minutes you will see how we turned ten inductee pages into an interactive, fully cited exhibit that is ready to drop into immigrant hall of honor dot org."
+    },
+    {
+      "id": "02-challenge",
+      "kind": "card",
+      "card": "challenge",
+      "narration": "Challenge X asked for four things. Start from the existing website content. Deepen it with public, reliable and verifiable sources. Add open-access multimedia: historical video and audio, artifact images with AI-written annotations, and AI-generated media. And deliver it in a format the web team can integrate easily, with young people as the primary audience. We built a working web application that does all four, for all ten current inductees, not just the minimum of four."
+    },
+    {
+      "id": "03-home",
+      "kind": "record",
+      "narration": "This is the museum's front door. It uses the Hall of Honor's own logo, colours and typography, so it feels like part of the existing site rather than a bolt-on. The headline numbers are live: ten inductees, more than a hundred dated moments, and seventy-three sources, every one of them link-checked by script. Visitors can enter the gallery, walk a shared timeline, or search for a person, a place or an idea from anywhere on the site.",
+      "actions": [
+        {
+          "goto": "/"
+        },
+        {
+          "hold": 0.12
+        },
+        {
+          "scroll": ".kpi-row",
+          "offset": -140,
+          "frac": 0.2
+        },
+        {
+          "hold": 0.16
+        },
+        {
+          "scroll": ".section-head",
+          "offset": -60,
+          "frac": 0.14
+        },
+        {
+          "hold": 0.12
+        },
+        {
+          "scroll": ".feature",
+          "offset": -80,
+          "frac": 0.14
+        },
+        {
+          "hold": 0.12
+        }
+      ]
+    },
+    {
+      "id": "04-gallery",
+      "kind": "record",
+      "narration": "The gallery can be filtered by field or by region of origin, and sorted by name, birth year or year of arrival. Each card shows where someone came from, what they did, and a one-line hook written to make a fourteen-year-old click.",
+      "actions": [
+        {
+          "goto": "/inductees"
+        },
+        {
+          "hold": 0.14
+        },
+        {
+          "click": "button.chip:has-text('Music')"
+        },
+        {
+          "hold": 0.16
+        },
+        {
+          "click": "button.chip:has-text('Europe')"
+        },
+        {
+          "hold": 0.14
+        },
+        {
+          "click": "button.chip:has-text('All')"
+        },
+        {
+          "hold": 0.08
+        },
+        {
+          "click": "button.chip:has-text('sort: arrived')"
+        },
+        {
+          "hold": 0.1
+        },
+        {
+          "scroll": 700,
+          "frac": 0.18
+        },
+        {
+          "hold": 0.2
+        }
+      ]
+    },
+    {
+      "id": "05-profile",
+      "kind": "record",
+      "narration": "Let's open Celia Cruz. The hero gives the essentials: birth name, dates, arrival and citizenship, with the portrait credited and licensed. Scroll into the story and notice the small numbers after every paragraph. Each one is a citation that jumps to the source table at the bottom: the Smithsonian, the Library of Congress, the United States Mint. Nothing on this page is unsourced. The journey graphic draws the arc from Havana to New York, and the timeline breaks her life into dated moments, colour-coded by origins, immigration, career, milestones, honours and legacy.",
+      "actions": [
+        {
+          "goto": "/inductees/celia-cruz"
+        },
+        {
+          "hold": 0.16
+        },
+        {
+          "scroll": "#story",
+          "offset": -90,
+          "frac": 0.08
+        },
+        {
+          "hold": 0.06
+        },
+        {
+          "scroll": "#story",
+          "offset": 560,
+          "frac": 0.22
+        },
+        {
+          "hold": 0.06
+        },
+        {
+          "scroll": "#journey",
+          "offset": -90,
+          "frac": 0.08
+        },
+        {
+          "hold": 0.14
+        },
+        {
+          "scroll": "#timeline",
+          "offset": -90,
+          "frac": 0.06
+        },
+        {
+          "hold": 0.04
+        },
+        {
+          "scroll": "#timeline",
+          "offset": 700,
+          "frac": 0.1
+        }
+      ]
+    },
+    {
+      "id": "05b-classroom",
+      "kind": "record",
+      "narration": "Everything is written with a classroom in mind. Each profile carries a quotation in the inductee's own words where one can be verified, fun facts with their sources, and discussion prompts a teacher can use the same afternoon. Reading level and length were tuned for teenagers, without flattening the history.",
+      "actions": [
+        {
+          "goto": "/inductees/albert-einstein"
+        },
+        {
+          "jump": ".quote",
+          "offset": -200
+        },
+        {
+          "hold": 0.3
+        },
+        {
+          "scroll": "#timeline",
+          "offset": -80,
+          "frac": 0.14
+        },
+        {
+          "hold": 0.2
+        },
+        {
+          "scroll": 420,
+          "frac": 0.14
+        },
+        {
+          "hold": 0.2
+        }
+      ]
+    },
+    {
+      "id": "06-media-docent",
+      "kind": "record",
+      "narration": "The media gallery is where the multimedia asks are answered. Historical recordings from the Internet Archive, and archival photographs and documents from Wikimedia Commons and national collections, each with its licence and a rights note wherever a person still needs to check. The draft-a-label button writes a museum annotation for an artifact using GPT vision, grounded in the cited sources and clearly marked as a draft for editorial review. Below that, the AI docent lets students ask questions in their own words. Answers are generated only from the cited text on the page, and every answer lists the sources it used. If the evidence does not support an answer, the docent says so.",
+      "actions": [
+        {
+          "goto": "/inductees/celia-cruz"
+        },
+        {
+          "jump": "#media",
+          "offset": -90
+        },
+        {
+          "hold": 0.1
+        },
+        {
+          "scroll": ".media-card:nth-of-type(2)",
+          "offset": -170,
+          "frac": 0.06
+        },
+        {
+          "hold": 0.04
+        },
+        {
+          "click": ".media-card:nth-of-type(2) button.chip"
+        },
+        {
+          "hold": 0.2
+        },
+        {
+          "scroll": ".media-card:nth-of-type(2)",
+          "offset": -110,
+          "frac": 0.05
+        },
+        {
+          "hold": 0.08
+        },
+        {
+          "scroll": ".docent",
+          "offset": -110,
+          "frac": 0.06
+        },
+        {
+          "hold": 0.03
+        },
+        {
+          "type": {
+            "selector": ".docent input",
+            "text": "Why did Celia Cruz leave Cuba, and could she ever go back?"
+          }
+        },
+        {
+          "press": "Enter"
+        },
+        {
+          "waitFor": ".docent .answer",
+          "timeout": 40000
+        },
+        {
+          "hold": 0.2
+        },
+        {
+          "scroll": ".docent .answer",
+          "offset": -260,
+          "frac": 0.05
+        },
+        {
+          "hold": 0.1
+        }
+      ]
+    },
+    {
+      "id": "07-notes-sources-timeline",
+      "kind": "record",
+      "narration": "Because we checked everything, we found a few places where the current pages disagree with primary sources, such as arrival years and dates of honours. Those are listed as editorial notes for the team, with the evidence attached, rather than silently corrected. The sources library gathers all seventy-three references across the ten profiles. A script re-checks every link, identifying itself honestly, and records the date; the few publishers that block automated requests were confirmed by a person and dated. And the shared timeline interleaves two centuries of arrivals, so a class can see Levi Strauss, John Muir and Madeleine Albright on one line.",
+      "actions": [
+        {
+          "goto": "/inductees/celia-cruz"
+        },
+        {
+          "jump": "#review",
+          "offset": -90
+        },
+        {
+          "click": "#review details summary"
+        },
+        {
+          "hold": 0.2
+        },
+        {
+          "goto": "/sources"
+        },
+        {
+          "hold": 0.1
+        },
+        {
+          "scroll": 520,
+          "frac": 0.12
+        },
+        {
+          "hold": 0.08
+        },
+        {
+          "click": "button.chip:has-text('manual')"
+        },
+        {
+          "hold": 0.12
+        },
+        {
+          "goto": "/timeline"
+        },
+        {
+          "hold": 0.06
+        },
+        {
+          "scroll": 1400,
+          "frac": 0.22
+        },
+        {
+          "hold": 0.06
+        }
+      ]
+    },
+    {
+      "id": "08-integrate",
+      "kind": "record",
+      "narration": "Integration was designed for WordPress. Every profile exports as a self-contained HTML block, already styled in the site's colours and fonts, which pastes straight into a Custom HTML block. There is also Markdown and JSON, and a documented REST API if the team prefers to render the content their own way. All the data lives in plain JSON files, so an editor can correct a fact without touching code.",
+      "actions": [
+        {
+          "goto": "/integrate"
+        },
+        {
+          "hold": 0.12
+        },
+        {
+          "scroll": 600,
+          "frac": 0.18
+        },
+        {
+          "hold": 0.1
+        },
+        {
+          "goto": "/api/inductees/celia-cruz/export.html"
+        },
+        {
+          "hold": 0.12
+        },
+        {
+          "scroll": 900,
+          "frac": 0.26
+        },
+        {
+          "hold": 0.1
+        }
+      ]
+    },
+    {
+      "id": "09-closing",
+      "kind": "card",
+      "card": "closing",
+      "narration": "To summarise: ten interactive profiles, seventy-three verifiable sources, forty-four licensed media items, AI annotation and an AI docent that cite their evidence, and a one-click path into immigrant hall of honor dot org. Built with Python, FastAPI, React and OpenAI models. Thank you for watching, and thank you to the Immigrant Hall of Honor for honouring the people who built this country."
+    }
+  ]
+}

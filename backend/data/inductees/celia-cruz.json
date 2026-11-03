@@ -1,0 +1,84 @@
+{
+  "slug": "celia-cruz",
+  "name": "Celia Cruz",
+  "birth_name": "Úrsula Hilaria Celia de la Caridad Cruz Alfonso",
+  "tagline": "The Queen of Salsa, exiled from Cuba, who carried Afro-Cuban music to the world",
+  "field": "Music",
+  "tags": ["singer", "salsa", "exile", "Afro-Latina"],
+  "accent": "#E4572E",
+  "born": {"year": 1925, "date": "October 21, 1925", "place": "Havana, Cuba"},
+  "died": {"year": 2003, "date": "July 16, 2003", "place": "Fort Lee, New Jersey"},
+  "origin": {"country": "Cuba", "place": "Santos Suárez, Havana", "flag": "🇨🇺", "region": "The Americas"},
+  "immigration": {"year": 1961, "arrived": "New York City area", "detail": "Cruz left Cuba with La Sonora Matancera on July 15, 1960 for a Mexican tour and never returned. The Castro government barred her re-entry, even to attend her mother's funeral. She settled in the United States in 1961 and became a citizen that year.", "source_ids": ["S1", "S3"]},
+  "citizenship_year": 1961,
+  "occupations": ["Singer", "Recording artist"],
+  "hero_image": {"url": "https://commons.wikimedia.org/wiki/Special:FilePath/Celia_Cruz_1957_color.jpg?width=1200", "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Celia_Cruz_1957_color.jpg?width=600", "credit": "Narcy Studios, Havana, 1957", "license": "Public domain", "license_url": "https://en.wikipedia.org/wiki/Public_domain", "source_url": "https://commons.wikimedia.org/wiki/File:Celia_Cruz_1957_color.jpg"},
+  "summary": "Born in a working-class Havana neighbourhood, Celia Cruz became the voice of La Sonora Matancera, lost her homeland to exile in 1960, and then reinvented herself in New York as the reigning queen of salsa, with a career that ended with a National Medal of Arts and her face on a U.S. quarter.",
+  "biography": [
+    {"text": "Celia Cruz was born on October 21, 1925, in the Santos Suárez neighbourhood of Havana, one of fourteen children in an extended household. She sang lullabies to her younger siblings, won radio talent contests as a teenager, and studied at Cuba's National Conservatory of Music before joining the country's most popular orchestra, La Sonora Matancera, as lead singer in 1950.", "source_ids": ["S1"]},
+    {"text": "With La Sonora Matancera she recorded hits such as 'Burundanga' and became a star of Havana's Tropicana cabaret. On July 15, 1960, eighteen months after the Cuban Revolution, the band left for a tour of Mexico and did not return. Cruz settled in the United States in 1961, became a citizen, and married the orchestra's trumpeter Pedro Knight in 1962. Fidel Castro's government never allowed her back, even when her mother died in 1962.", "source_ids": ["S1", "S3"]},
+    {"text": "In the 1970s she joined Fania Records and the Fania All-Stars, the New York collective that forged salsa out of Cuban son, Puerto Rican rhythms and big-band jazz. Her 1974 album with Johnny Pacheco, Celia & Johnny, with its hit 'Quimbara', made her the genre's undisputed queen. Her shout of '¡Azúcar!'—'Sugar!'—became a trademark heard in stadiums from Madison Square Garden to Lagos.", "source_ids": ["S1", "S3"]},
+    {"text": "Cruz recorded more than 70 albums, won Grammy Awards for Ritmo en el Corazón (1990) and La Negra Tiene Tumbao (2003), and received the National Medal of Arts from President Bill Clinton in 1994. In 1997 she donated a pair of stage shoes to the Smithsonian's National Museum of American History, which later built a biographical portrait around objects from her career.", "source_ids": ["S1", "S2", "S4"]},
+    {"text": "She died of brain cancer at her home in Fort Lee, New Jersey, on July 16, 2003. Tens of thousands filed past her coffin in Miami and New York. In 2024 the U.S. Mint issued a quarter bearing her likeness in the American Women Quarters Program, making her the first Afro-Latina to appear on U.S. currency.", "source_ids": ["S1", "S5"]}
+  ],
+  "achievements": [
+    {"title": "Lead singer of La Sonora Matancera", "year": "1950–1965", "description": "Fronted Cuba's most popular orchestra for fifteen years, recording dozens of hits.", "source_ids": ["S1"]},
+    {"title": "Celia & Johnny with Johnny Pacheco", "year": "1974", "description": "The Fania album, including 'Quimbara', that crowned her Queen of Salsa.", "source_ids": ["S1"]},
+    {"title": "More than 70 albums over six decades", "year": null, "description": "Recorded from the late 1940s until her final album Regalo del Alma (2003), which won a posthumous Grammy.", "source_ids": ["S1"]},
+    {"title": "Smithsonian collections", "year": "1997", "description": "Donated stage shoes to the National Museum of American History; her costumes are held by Smithsonian museums.", "source_ids": ["S4", "S2"]},
+    {"title": "Celia Cruz Foundation", "year": "2002", "description": "Established to support music education for low-income students and cancer research.", "source_ids": ["S6"]}
+  ],
+  "honors": [
+    {"title": "National Medal of Arts, presented by President Clinton", "year": 1994, "source_ids": ["S2"]},
+    {"title": "Grammy Award, Best Tropical Latin Performance (Ritmo en el Corazón)", "year": 1990, "source_ids": ["S1"]},
+    {"title": "Grammy Award, Best Salsa Album (La Negra Tiene Tumbao)", "year": 2003, "source_ids": ["S1"]},
+    {"title": "Star on the Hollywood Walk of Fame", "year": 1987, "source_ids": ["S1"]},
+    {"title": "Grammy Lifetime Achievement Award", "year": 2016, "source_ids": ["S1"]},
+    {"title": "Depicted on a U.S. quarter (American Women Quarters Program)", "year": 2024, "source_ids": ["S5"]}
+  ],
+  "timeline": [
+    {"year": 1925, "date": "October 21, 1925", "title": "Born in Havana", "description": "Born in the Santos Suárez neighbourhood to Simón Cruz and Catalina Alfonso.", "category": "origins", "source_ids": ["S1"]},
+    {"year": 1950, "title": "Joins La Sonora Matancera", "description": "Becomes lead singer of Cuba's leading orchestra.", "category": "career", "source_ids": ["S1"]},
+    {"year": 1960, "date": "July 15, 1960", "title": "Leaves Cuba for the last time", "description": "Departs with the orchestra for Mexico; she is never allowed to return.", "category": "immigration", "source_ids": ["S1", "S3"]},
+    {"year": 1961, "title": "Settles in the United States", "description": "Makes her home in the New York area and becomes a U.S. citizen.", "category": "immigration", "source_ids": ["S1"]},
+    {"year": 1962, "title": "Marries Pedro Knight", "description": "Marries the orchestra's first trumpeter, who later becomes her manager.", "category": "milestone", "source_ids": ["S1"]},
+    {"year": 1974, "title": "Celia & Johnny", "description": "Her Fania debut with Johnny Pacheco, featuring 'Quimbara', defines the salsa era.", "category": "milestone", "source_ids": ["S1"]},
+    {"year": 1990, "title": "First Grammy Award", "description": "Ritmo en el Corazón, recorded with Ray Barretto, wins Best Tropical Latin Performance.", "category": "honor", "source_ids": ["S1"]},
+    {"year": 1994, "title": "National Medal of Arts", "description": "President Clinton presents the nation's highest award for artistic excellence.", "category": "honor", "source_ids": ["S2"]},
+    {"year": 1997, "title": "Smithsonian donation", "description": "Donates stage shoes and costume to the National Museum of American History at a ceremony marking her 50-year career.", "category": "legacy", "source_ids": ["S4"]},
+    {"year": 2003, "date": "July 16, 2003", "title": "Dies in Fort Lee, New Jersey", "description": "Crowds in Miami and New York pay tribute; her final album wins a posthumous Grammy.", "category": "legacy", "source_ids": ["S1"]},
+    {"year": 2024, "title": "A quarter for the Queen", "description": "The U.S. Mint issues a Celia Cruz quarter, the first U.S. coin to depict an Afro-Latina.", "category": "legacy", "source_ids": ["S5"]}
+  ],
+  "quotes": [],
+  "fun_facts": [
+    {"text": "Her catchphrase '¡Azúcar!' began, by her own account, as a reply to a waiter in Miami who asked whether she wanted sugar in her coffee.", "source_ids": ["S1"]},
+    {"text": "She recorded a salsa version of 'I Will Survive' in 2000, when she was 75.", "source_ids": ["S1"]}
+  ],
+  "discussion_prompts": [
+    "Cruz was never allowed to return to Cuba. How can music keep a homeland alive for someone in exile?",
+    "Salsa was invented in New York by immigrants from many countries. What other art forms were born from cultures meeting in one city?",
+    "Why does it matter who appears on a nation's coins?"
+  ],
+  "media": [
+    {"id": "M1", "kind": "image", "title": "Celia Cruz with La Sonora Matancera, 1950s", "url": "https://commons.wikimedia.org/wiki/File:Celia_Cruz_y_La_Sonora_Matancera.jpg", "embed_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Celia_Cruz_y_La_Sonora_Matancera.jpg?width=1200", "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Celia_Cruz_y_La_Sonora_Matancera.jpg?width=600", "year": "1950s", "credit": "Narcy Studios, Havana, via Wikimedia Commons", "license": "Public domain", "license_url": "https://en.wikipedia.org/wiki/Public_domain", "description": "Cruz on stage in Havana with the orchestra she fronted for fifteen years.", "annotation": "Before exile: the Tropicana years, when Havana was the music capital of the Caribbean.", "source_id": null},
+    {"id": "M2", "kind": "image", "title": "Sequined stage dress by José Enrique Arteaga", "url": "https://commons.wikimedia.org/wiki/File:Celia_Cruz_dress_by_Jos%C3%A9_Enrique_Arteaga.jpg", "embed_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Celia_Cruz_dress_by_Jos%C3%A9_Enrique_Arteaga.jpg?width=1200", "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Celia_Cruz_dress_by_Jos%C3%A9_Enrique_Arteaga.jpg?width=600", "year": "1973–1987", "credit": "Smithsonian National Museum of African American History and Culture", "license": "CC0 (Smithsonian Open Access)", "license_url": "https://creativecommons.org/publicdomain/zero/1.0/", "description": "Red, gold and blue sequin dress with wide open sleeves, designed for Cruz by José Enrique Arteaga.", "annotation": "Museum artifact. Cruz's costumes were built to be seen from the back row of a stadium; the sleeves became wings when she raised her arms.", "source_id": "S2"},
+    {"id": "M3", "kind": "audio", "title": "'Que Jelengue' – early recording (1948)", "url": "https://archive.org/details/que-jelengue", "embed_url": null, "thumbnail": null, "year": "1948", "credit": "Internet Archive (user upload)", "license": "Uploader claims CC0 — not verified", "license_url": "https://creativecommons.org/publicdomain/zero/1.0/", "description": "A recording from the start of her career, before La Sonora Matancera.", "annotation": null, "rights_note": "Under the U.S. Music Modernization Act, sound recordings made in 1947–1956 remain protected until 2058 regardless of the uploader's CC0 claim. Link to the archive page; do not embed or re-host without a rights check.", "source_id": null},
+    {"id": "M4", "kind": "document", "title": "Celia Cruz exhibits and legacy", "url": "https://celiacruz.com/exhibits/", "embed_url": null, "thumbnail": null, "year": null, "credit": "Celia Cruz Foundation / estate", "license": "© Celia Cruz estate (link only)", "license_url": null, "description": "The estate's record of museum exhibitions about her life, including Smithsonian and Latin American presentations.", "annotation": null, "source_id": "S6"}
+  ],
+  "review_notes": [
+    {"ihh_statement": "Won 2 Grammy Awards (1988, 2003)", "finding": "Her first Grammy was presented in 1990 (for the 1988 album Ritmo en el Corazón). The album year and award year differ.", "severity": "clarification", "source_ids": ["S1"]},
+    {"ihh_statement": "Honored as the first Afro-Latina woman on a US quarter (2023)", "finding": "The U.S. Mint announced the 2024 designs in 2023; the Celia Cruz quarter was issued in 2024.", "severity": "clarification", "source_ids": ["S5"]},
+    {"ihh_statement": "Awarded the Congressional Gold Medal (2005)", "finding": "Legislation to award her a Congressional Gold Medal was introduced in Congress, but we could not confirm that it was enacted. Recommend checking congress.gov before publishing.", "severity": "unverified", "source_ids": ["S1"]}
+  ],
+  "sources": [
+    {"id": "S1", "title": "Celia Cruz", "publisher": "Wikipedia (with cited references)", "url": "https://en.wikipedia.org/wiki/Celia_Cruz", "kind": "encyclopedia"},
+    {"id": "S2", "title": "Celia Cruz – National Medal of Arts 1994", "publisher": "National Endowment for the Arts", "url": "https://www.arts.gov/honors/medals/celia-cruz", "kind": "government"},
+    {"id": "S3", "title": "Celia Cruz – Dress worn by Celia Cruz (object record, Smithsonian Open Access)", "publisher": "Wikimedia Commons / Smithsonian NMAAHC", "url": "https://commons.wikimedia.org/wiki/File:Celia_Cruz_dress_by_Jos%C3%A9_Enrique_Arteaga.jpg", "kind": "museum"},
+    {"id": "S4", "title": "Shoes, worn by Celia Cruz (object nmah_834815)", "publisher": "Smithsonian National Museum of American History", "url": "https://www.si.edu/object/shoes-worn-celia-cruz:nmah_834815", "kind": "museum", "note": "si.edu blocks automated link checks; open in a browser to confirm."},
+    {"id": "S5", "title": "Celia Cruz Quarter – American Women Quarters Program", "publisher": "United States Mint", "url": "https://www.usmint.gov/coins/coin-medal-programs/american-women-quarters/celia-cruz", "kind": "government", "note": "usmint.gov blocks automated link checks; open in a browser to confirm."},
+    {"id": "S6", "title": "Exhibits", "publisher": "Celia Cruz Foundation (official site)", "url": "https://celiacruz.com/exhibits/", "kind": "official"},
+    {"id": "S7", "title": "Inductee: Celia Cruz", "publisher": "Immigrant Hall of Honor", "url": "https://immigranthallofhonor.org/inductees/inductee-celia-cruz/", "kind": "organization", "note": "Existing IHH profile used as the starting point."}
+  ],
+  "ihh_page_url": "https://immigranthallofhonor.org/inductees/inductee-celia-cruz/",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Celia_Cruz"
+}

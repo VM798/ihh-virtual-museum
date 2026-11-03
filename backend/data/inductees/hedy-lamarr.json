@@ -1,0 +1,82 @@
+{
+  "slug": "hedy-lamarr",
+  "name": "Hedy Lamarr",
+  "birth_name": "Hedwig Eva Maria Kiesler",
+  "tagline": "Hollywood star and inventor whose 1942 patent underlies Wi-Fi, Bluetooth and GPS",
+  "field": "Invention & Film",
+  "tags": ["inventor", "actress", "refugee", "wireless"],
+  "accent": "#6A4C93",
+  "born": {"year": 1914, "date": "November 9, 1914", "place": "Vienna, Austria-Hungary"},
+  "died": {"year": 2000, "date": "January 19, 2000", "place": "Casselberry, Florida"},
+  "origin": {"country": "Austria", "place": "Vienna", "flag": "🇦🇹", "region": "Europe"},
+  "immigration": {"year": 1937, "arrived": "Hollywood, California", "detail": "Escaping an oppressive marriage to arms manufacturer Fritz Mandl and the rising threat to Austria's Jews, Kiesler fled to London in 1937, met MGM chief Louis B. Mayer, and sailed with him to New York on the SS Normandie with a Hollywood contract and a new name.", "source_ids": ["S1", "S2"]},
+  "citizenship_year": 1953,
+  "occupations": ["Actress", "Inventor"],
+  "hero_image": {"url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hedy_Lamarr_Publicity_Photo_for_The_Heavenly_Body_1944.jpg?width=1200", "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Hedy_Lamarr_Publicity_Photo_for_The_Heavenly_Body_1944.jpg?width=600", "credit": "MGM publicity photograph for The Heavenly Body, 1944", "license": "Public domain (published without copyright notice)", "license_url": "https://en.wikipedia.org/wiki/Public_domain", "source_url": "https://commons.wikimedia.org/wiki/File:Hedy_Lamarr_Publicity_Photo_for_The_Heavenly_Body_1944.jpg"},
+  "summary": "Billed by MGM as the most beautiful woman in the world, Viennese-born Hedy Lamarr spent her evenings at a drafting table. In 1942 she and composer George Antheil patented a frequency-hopping 'Secret Communication System' to guide torpedoes past jamming; the idea now sits inside every Wi-Fi router, Bluetooth headset and GPS receiver.",
+  "biography": [
+    {"text": "Hedwig Eva Maria Kiesler was born in Vienna on November 9, 1914, the only child of a bank director and a concert pianist, both of Jewish descent. Fascinated by machines as a girl, she took apart her music box to see how it worked, but it was the stage that claimed her first. By nineteen she had starred in the Czech film Ecstasy (1933), whose frank content made her notorious across Europe.", "source_ids": ["S1", "S2"]},
+    {"text": "In 1933 she married Friedrich Mandl, a munitions manufacturer who sold arms to fascist governments and controlled her life. Listening at his dinner table she absorbed discussions of weapons and radio-controlled torpedoes. In 1937 she escaped to London, where MGM's Louis B. Mayer offered her a contract on the voyage to New York and renamed her Hedy Lamarr. Her Hollywood debut in Algiers (1938) made her an overnight star.", "source_ids": ["S1", "S2"]},
+    {"text": "During the Second World War, troubled by news of German submarines sinking ships carrying refugee children, Lamarr worked with avant-garde composer George Antheil on a way to keep radio-guided torpedoes from being jammed: transmitter and receiver would hop together across 88 frequencies, synchronised like a player-piano roll. U.S. Patent 2,292,387, 'Secret Communication System', was granted on August 11, 1942 in her married name, Hedy Kiesler Markey.", "source_ids": ["S3", "S1", "S4"]},
+    {"text": "The Navy shelved the idea during the war, and Lamarr instead raised an estimated $25 million in war bonds. She became a U.S. citizen in April 1953. Spread-spectrum techniques were adopted by the military in the 1960s and later became fundamental to Wi-Fi, Bluetooth, CDMA mobile phones and GPS, but her patent had expired and she was never paid for it.", "source_ids": ["S1", "S2", "S4"]},
+    {"text": "Recognition came late. In 1997 the Electronic Frontier Foundation gave Lamarr and Antheil its Pioneer Award, and she was the first woman to receive the Invention Convention's BULBIE Gnass Spirit of Achievement Award. She died in Casselberry, Florida, on January 19, 2000. In 2014 she and Antheil were inducted into the National Inventors Hall of Fame, and her birthday, November 9, is celebrated as Inventors' Day in German-speaking countries.", "source_ids": ["S5", "S4", "S2"]}
+  ],
+  "achievements": [
+    {"title": "U.S. Patent 2,292,387, 'Secret Communication System'", "year": "1942", "description": "A frequency-hopping radio guidance system co-invented with George Antheil, the conceptual ancestor of modern spread-spectrum wireless.", "source_ids": ["S3", "S4"]},
+    {"title": "Hollywood stardom in Algiers, Boom Town and Samson and Delilah", "year": "1938–1949", "description": "Starred in more than 30 films; Samson and Delilah (1949) was the top-grossing film of its year.", "source_ids": ["S2"]},
+    {"title": "War-bond drives", "year": "1942", "description": "Raised an estimated $25 million for the war effort on a single tour.", "source_ids": ["S2"]},
+    {"title": "Other inventions", "year": null, "description": "Designed an improved traffic signal and a tablet that turned water into a carbonated drink; Howard Hughes gave her equipment to experiment with aircraft wing shapes.", "source_ids": ["S1", "S2"]}
+  ],
+  "honors": [
+    {"title": "Electronic Frontier Foundation Pioneer Award (with George Antheil)", "year": 1997, "source_ids": ["S5"]},
+    {"title": "BULBIE Gnass Spirit of Achievement Award, first woman recipient", "year": 1997, "source_ids": ["S2"]},
+    {"title": "Inducted into the National Inventors Hall of Fame", "year": 2014, "source_ids": ["S4"]},
+    {"title": "Star on the Hollywood Walk of Fame", "year": 1960, "source_ids": ["S2"]}
+  ],
+  "timeline": [
+    {"year": 1914, "date": "November 9, 1914", "title": "Born in Vienna", "description": "Born Hedwig Eva Maria Kiesler to Emil Kiesler and Gertrud Lichtwitz.", "category": "origins", "source_ids": ["S1", "S2"]},
+    {"year": 1933, "title": "Ecstasy and a controlling marriage", "description": "Stars in the Czech film Ecstasy and marries arms manufacturer Fritz Mandl.", "category": "origins", "source_ids": ["S2"]},
+    {"year": 1937, "title": "Escape to London, then Hollywood", "description": "Flees Mandl and Austria; signs with MGM and arrives in the United States as Hedy Lamarr.", "category": "immigration", "source_ids": ["S1", "S2"]},
+    {"year": 1938, "title": "Algiers", "description": "Her first American film makes her a star opposite Charles Boyer.", "category": "career", "source_ids": ["S2"]},
+    {"year": 1941, "title": "Frequency hopping", "description": "With George Antheil, files the patent application for a jam-proof torpedo guidance system.", "category": "milestone", "source_ids": ["S3", "S4"]},
+    {"year": 1942, "date": "August 11, 1942", "title": "Patent granted", "description": "U.S. Patent 2,292,387 'Secret Communication System' is issued to Hedy Kiesler Markey and George Antheil.", "category": "milestone", "source_ids": ["S3"]},
+    {"year": 1949, "title": "Samson and Delilah", "description": "Cecil B. DeMille's epic becomes the highest-grossing film of the year.", "category": "career", "source_ids": ["S2"]},
+    {"year": 1953, "date": "April 10, 1953", "title": "Becomes a U.S. citizen", "description": "Naturalized sixteen years after arriving in Hollywood.", "category": "immigration", "source_ids": ["S2"]},
+    {"year": 1997, "title": "EFF Pioneer Award", "description": "The Electronic Frontier Foundation honours Lamarr and Antheil for spread-spectrum communications.", "category": "honor", "source_ids": ["S5"]},
+    {"year": 2000, "date": "January 19, 2000", "title": "Dies in Florida", "description": "Dies at 85 in Casselberry, Florida; her ashes are later scattered in the Vienna Woods.", "category": "legacy", "source_ids": ["S2"]},
+    {"year": 2014, "title": "National Inventors Hall of Fame", "description": "Inducted posthumously with George Antheil.", "category": "legacy", "source_ids": ["S4"]}
+  ],
+  "quotes": [
+    {"text": "Any girl can be glamorous. All you have to do is stand still and look stupid.", "context": "A remark she made about her screen image, from her 1966 autobiography Ecstasy and Me", "source_id": "S6"}
+  ],
+  "fun_facts": [
+    {"text": "The patent used 88 frequencies, the number of keys on a piano, because Antheil's synchronisation idea came from the player-piano rolls he used in his music.", "source_ids": ["S3", "S1"]},
+    {"text": "November 9, her birthday, is observed as Inventors' Day in Austria, Germany and Switzerland.", "source_ids": ["S2"]}
+  ],
+  "discussion_prompts": [
+    "Lamarr's invention was ignored for twenty years partly because of who she was. What assumptions stop people from being taken seriously today?",
+    "She never earned a dollar from a patent that underpins trillion-dollar industries. Should inventors be rewarded after their patents expire?",
+    "Look at page 3 of the patent file. What can a technical drawing tell you that a photograph cannot?"
+  ],
+  "media": [
+    {"id": "M1", "kind": "document", "title": "U.S. Patent 2,292,387: Secret Communication System", "url": "https://patents.google.com/patent/US2292387A/en", "embed_url": null, "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Patent_Case_File_No._2,292,387,_Secret_Communication_System,_Inventors_Hedy_Kiesler_Markey_and_George_Antheil_-_DPLA_-_128f022cfd9421aa10de72958a7edf90_(page_3).jpg?width=600", "year": "1942", "credit": "U.S. Patent and Trademark Office, via Google Patents", "license": "Public domain (U.S. patent document)", "license_url": null, "description": "The full text and drawings of the frequency-hopping patent, filed June 10, 1941 and granted August 11, 1942.", "annotation": "The inventors are listed as 'Hedy Kiesler Markey' (her married name at the time) and George Antheil.", "source_id": "S3"},
+    {"id": "M2", "kind": "image", "title": "Patent case file, page 3 (National Archives)", "url": "https://commons.wikimedia.org/wiki/File:Patent_Case_File_No._2,292,387,_Secret_Communication_System,_Inventors_Hedy_Kiesler_Markey_and_George_Antheil_-_DPLA_-_128f022cfd9421aa10de72958a7edf90_(page_3).jpg", "embed_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Patent_Case_File_No._2,292,387,_Secret_Communication_System,_Inventors_Hedy_Kiesler_Markey_and_George_Antheil_-_DPLA_-_128f022cfd9421aa10de72958a7edf90_(page_3).jpg?width=1200", "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Patent_Case_File_No._2,292,387,_Secret_Communication_System,_Inventors_Hedy_Kiesler_Markey_and_George_Antheil_-_DPLA_-_128f022cfd9421aa10de72958a7edf90_(page_3).jpg?width=600", "year": "1941", "credit": "National Archives and Records Administration, via the Digital Public Library of America and Wikimedia Commons", "license": "Public domain (U.S. federal record)", "license_url": "https://en.wikipedia.org/wiki/Public_domain", "description": "A page from the original Patent Office case file for the Secret Communication System.", "annotation": "Museum artifact. The case file is the government's own record of the application, examiner correspondence and grant.", "source_id": null},
+    {"id": "M3", "kind": "video", "title": "Algiers (1938) – her American debut", "url": "https://archive.org/details/Algiers_1938", "embed_url": "https://archive.org/embed/Algiers_1938", "thumbnail": "https://archive.org/services/img/Algiers_1938", "year": "1938", "credit": "Walter Wanger Productions / United Artists, via Internet Archive", "license": "Public Domain Mark 1.0 (copyright not renewed)", "license_url": "https://creativecommons.org/publicdomain/mark/1.0/", "description": "The film that introduced Lamarr to American audiences opposite Charles Boyer.", "annotation": null, "rights_note": "Public-domain status is as marked by the uploader; confirm before re-hosting.", "source_id": null},
+    {"id": "M4", "kind": "video", "title": "Dishonored Lady (1947)", "url": "https://archive.org/details/dishonored_lady", "embed_url": "https://archive.org/embed/dishonored_lady", "thumbnail": "https://archive.org/services/img/dishonored_lady", "year": "1947", "credit": "Hunt Stromberg Productions, via Internet Archive", "license": "Public domain (as marked by the Internet Archive)", "license_url": "http://creativecommons.org/licenses/publicdomain/", "description": "A film noir Lamarr produced herself through her own company.", "annotation": null, "rights_note": "Public-domain status is as marked by the uploader; confirm before re-hosting.", "source_id": null},
+    {"id": "M5", "kind": "image", "title": "MGM publicity portrait by Clarence Bull, 1940", "url": "https://commons.wikimedia.org/wiki/File:Hedy_lamarr_-_1940.jpg", "embed_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hedy_lamarr_-_1940.jpg?width=1200", "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Hedy_lamarr_-_1940.jpg?width=600", "year": "1940", "credit": "MGM / Clarence Bull, via Wikimedia Commons", "license": "Public domain (published without copyright notice)", "license_url": "https://en.wikipedia.org/wiki/Public_domain", "description": "Portrait made for the film Comrade X, the year before she filed her patent.", "annotation": null, "source_id": null}
+  ],
+  "review_notes": [
+    {"ihh_statement": "Co-Invention of Frequency-Hopping Spread Spectrum (1941); Patent for Secret Communication System (1942)", "finding": "Consistent with the patent record: application filed June 10, 1941; patent granted August 11, 1942.", "severity": "clarification", "source_ids": ["S3"]}
+  ],
+  "sources": [
+    {"id": "S1", "title": "Hedy Lamarr – Inductee profile", "publisher": "National Inventors Hall of Fame", "url": "https://www.invent.org/inductees/hedy-lamarr", "kind": "organization"},
+    {"id": "S2", "title": "Hedy Lamarr", "publisher": "Wikipedia (with cited references)", "url": "https://en.wikipedia.org/wiki/Hedy_Lamarr", "kind": "encyclopedia"},
+    {"id": "S3", "title": "US2292387A – Secret communication system", "publisher": "Google Patents (U.S. Patent and Trademark Office record)", "url": "https://patents.google.com/patent/US2292387A/en", "kind": "patent"},
+    {"id": "S4", "title": "Hedy Lamarr (official site)", "publisher": "Hedy Lamarr estate", "url": "https://www.hedylamarr.com/", "kind": "official"},
+    {"id": "S5", "title": "EFF Pioneer Awards 1997 – press release", "publisher": "Electronic Frontier Foundation", "url": "https://w2.eff.org/awards/pioneer/1997.php", "kind": "organization"},
+    {"id": "S6", "title": "Hedy Lamarr – Wikiquote (sourced quotations)", "publisher": "Wikiquote", "url": "https://en.wikiquote.org/wiki/Hedy_Lamarr", "kind": "encyclopedia"},
+    {"id": "S7", "title": "Inductee: Hedy Lamarr", "publisher": "Immigrant Hall of Honor", "url": "https://immigranthallofhonor.org/inductees/inductee-hedy-lamarr/", "kind": "organization", "note": "Existing IHH profile used as the starting point."}
+  ],
+  "ihh_page_url": "https://immigranthallofhonor.org/inductees/inductee-hedy-lamarr/",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Hedy_Lamarr"
+}

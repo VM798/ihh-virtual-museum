@@ -1,0 +1,1111 @@
+{
+  "generated": "2026-11-01",
+  "results": {
+    "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://en.wikipedia.org/wiki/Albert_Einstein": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://www.nobelprize.org/prizes/physics/1921/summary/": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://www.osti.gov/opennet/manhattan-project-history/Events/1939-1942/einstein_letter.htm": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://einsteinpapers.press.princeton.edu/": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://einsteinpapers.press.princeton.edu/einstein-database/"
+    },
+    "https://www.alberteinstein.info/": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://albert-einstein.huji.ac.il/"
+    },
+    "https://commons.wikimedia.org/wiki/File:Albert_Einstein_citizenship_NYWTS.jpg": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://en.wikiquote.org/wiki/Albert_Einstein": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://immigranthallofhonor.org/inductees/inductee-albert-einstein/": {
+      "method": "manual",
+      "status": "ok",
+      "http_status": 403,
+      "checked_at": "2026-11-01",
+      "note": "immigranthallofhonor.org returns HTTP 403 to automated clients. Page opened and its content extracted manually on 2026-11-01 (used as the starting point for this profile)."
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Albert_Einstein_citizenship_NYWTS.jpg?width=1200": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Albert_Einstein_citizenship_NYWTS.jpg/1280px-Albert_Einstein_citizenship_NYWTS.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Albert_Einstein_citizenship_NYWTS.jpg?width=600": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Albert_Einstein_citizenship_NYWTS.jpg/960px-Albert_Einstein_citizenship_NYWTS.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+    },
+    "https://commons.wikimedia.org/wiki/File:Albert_Einstein_Head.jpg": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Albert_Einstein_Head.jpg?width=1200": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Albert_Einstein_Head.jpg/1280px-Albert_Einstein_Head.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Albert_Einstein_Head.jpg?width=600": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Albert_Einstein_Head.jpg/960px-Albert_Einstein_Head.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+    },
+    "https://www.loc.gov/exhibits/bobhope/": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://en.wikipedia.org/wiki/Bob_Hope": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://www.uso.org/bob-hope": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://www.uso.org/entertainment"
+    },
+    "https://www.govinfo.gov/app/details/PLAW-105publ67": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://archive.org/details/starspangledrevue": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://www.bobhope.org/": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://bobhope.org/"
+    },
+    "https://immigranthallofhonor.org/inductees/inductee-bob-hope/": {
+      "method": "manual",
+      "status": "ok",
+      "http_status": 403,
+      "checked_at": "2026-11-01",
+      "note": "immigranthallofhonor.org returns HTTP 403 to automated clients. Page opened and its content extracted manually on 2026-11-01 (used as the starting point for this profile)."
+    },
+    "https://archive.org/embed/starspangledrevue": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://archive.org/services/img/starspangledrevue": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://archive.org/details/RoadToBali1952_201612": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://archive.org/embed/RoadToBali1952_201612": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://archive.org/services/img/RoadToBali1952_201612": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://commons.wikimedia.org/wiki/File:Bob_Hope_in_South_Korea,_1972.jpg": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Bob_Hope_in_South_Korea,_1972.jpg?width=1200": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Bob_Hope_in_South_Korea%2C_1972.jpg/1280px-Bob_Hope_in_South_Korea%2C_1972.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Bob_Hope_in_South_Korea,_1972.jpg?width=600": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Bob_Hope_in_South_Korea%2C_1972.jpg/960px-Bob_Hope_in_South_Korea%2C_1972.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+    },
+    "https://commons.wikimedia.org/wiki/File:USO_reception_with_Bob_Hope_-_NARA_-_179552.tif": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/USO_reception_with_Bob_Hope_-_NARA_-_179552.tif?width=1200": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/USO_reception_with_Bob_Hope_-_NARA_-_179552.tif/lossy-page1-1280px-USO_reception_with_Bob_Hope_-_NARA_-_179552.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/USO_reception_with_Bob_Hope_-_NARA_-_179552.tif?width=600": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/USO_reception_with_Bob_Hope_-_NARA_-_179552.tif/lossy-page1-960px-USO_reception_with_Bob_Hope_-_NARA_-_179552.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Bob_Hope_1969_Publicity_Photo.jpg?width=1200": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://upload.wikimedia.org/wikipedia/commons/2/2f/Bob_Hope_1969_Publicity_Photo.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Bob_Hope_1969_Publicity_Photo.jpg?width=600": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://upload.wikimedia.org/wikipedia/commons/2/2f/Bob_Hope_1969_Publicity_Photo.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+    },
+    "https://en.wikipedia.org/wiki/Celia_Cruz": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://www.arts.gov/honors/medals/celia-cruz": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://commons.wikimedia.org/wiki/File:Celia_Cruz_dress_by_Jos%C3%A9_Enrique_Arteaga.jpg": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://www.si.edu/object/shoes-worn-celia-cruz:nmah_834815": {
+      "method": "manual",
+      "status": "ok",
+      "http_status": 403,
+      "checked_at": "2026-11-01",
+      "note": "si.edu blocks scripted requests (HTTP 403). Object record located via Smithsonian search on 2026-11-01."
+    },
+    "https://www.usmint.gov/coins/coin-medal-programs/american-women-quarters/celia-cruz": {
+      "method": "manual",
+      "status": "ok",
+      "http_status": 403,
+      "checked_at": "2026-11-01",
+      "note": "usmint.gov blocks scripted requests (HTTP 403). Open in a browser to confirm; the Celia Cruz quarter is part of the 2024 American Women Quarters Program."
+    },
+    "https://celiacruz.com/exhibits/": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://immigranthallofhonor.org/inductees/inductee-celia-cruz/": {
+      "method": "manual",
+      "status": "ok",
+      "http_status": 403,
+      "checked_at": "2026-11-01",
+      "note": "immigranthallofhonor.org returns HTTP 403 to automated clients. Page opened and its content extracted manually on 2026-11-01 (used as the starting point for this profile)."
+    },
+    "https://commons.wikimedia.org/wiki/File:Celia_Cruz_y_La_Sonora_Matancera.jpg": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Celia_Cruz_y_La_Sonora_Matancera.jpg?width=1200": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://upload.wikimedia.org/wikipedia/commons/d/d2/Celia_Cruz_y_La_Sonora_Matancera.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Celia_Cruz_y_La_Sonora_Matancera.jpg?width=600": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://upload.wikimedia.org/wikipedia/commons/d/d2/Celia_Cruz_y_La_Sonora_Matancera.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Celia_Cruz_dress_by_Jos%C3%A9_Enrique_Arteaga.jpg?width=1200": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Celia_Cruz_dress_by_Jos%C3%A9_Enrique_Arteaga.jpg/1280px-Celia_Cruz_dress_by_Jos%C3%A9_Enrique_Arteaga.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Celia_Cruz_dress_by_Jos%C3%A9_Enrique_Arteaga.jpg?width=600": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Celia_Cruz_dress_by_Jos%C3%A9_Enrique_Arteaga.jpg/960px-Celia_Cruz_dress_by_Jos%C3%A9_Enrique_Arteaga.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+    },
+    "https://archive.org/details/que-jelengue": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Celia_Cruz_1957_color.jpg?width=1200": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://upload.wikimedia.org/wikipedia/commons/8/89/Celia_Cruz_1957_color.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Celia_Cruz_1957_color.jpg?width=600": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://upload.wikimedia.org/wikipedia/commons/8/89/Celia_Cruz_1957_color.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+    },
+    "https://www.invent.org/inductees/hedy-lamarr": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://en.wikipedia.org/wiki/Hedy_Lamarr": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://patents.google.com/patent/US2292387A/en": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://www.hedylamarr.com/": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://w2.eff.org/awards/pioneer/1997.php": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://en.wikiquote.org/wiki/Hedy_Lamarr": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://immigranthallofhonor.org/inductees/inductee-hedy-lamarr/": {
+      "method": "manual",
+      "status": "ok",
+      "http_status": 403,
+      "checked_at": "2026-11-01",
+      "note": "immigranthallofhonor.org returns HTTP 403 to automated clients. Page opened and its content extracted manually on 2026-11-01 (used as the starting point for this profile)."
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Patent_Case_File_No._2,292,387,_Secret_Communication_System,_Inventors_Hedy_Kiesler_Markey_and_George_Antheil_-_DPLA_-_128f022cfd9421aa10de72958a7edf90_(page_3).jpg?width=600": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Patent_Case_File_No._2%2C292%2C387%2C_Secret_Communication_System%2C_Inventors_Hedy_Kiesler_Markey_and_George_Antheil_-_DPLA_-_128f022cfd9421aa10de72958a7edf90_%28page_3%29.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+    },
+    "https://commons.wikimedia.org/wiki/File:Patent_Case_File_No._2,292,387,_Secret_Communication_System,_Inventors_Hedy_Kiesler_Markey_and_George_Antheil_-_DPLA_-_128f022cfd9421aa10de72958a7edf90_(page_3).jpg": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Patent_Case_File_No._2,292,387,_Secret_Communication_System,_Inventors_Hedy_Kiesler_Markey_and_George_Antheil_-_DPLA_-_128f022cfd9421aa10de72958a7edf90_(page_3).jpg?width=1200": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Patent_Case_File_No._2%2C292%2C387%2C_Secret_Communication_System%2C_Inventors_Hedy_Kiesler_Markey_and_George_Antheil_-_DPLA_-_128f022cfd9421aa10de72958a7edf90_%28page_3%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+    },
+    "https://archive.org/details/Algiers_1938": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://archive.org/embed/Algiers_1938": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://archive.org/services/img/Algiers_1938": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://archive.org/details/dishonored_lady": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://archive.org/embed/dishonored_lady": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://archive.org/services/img/dishonored_lady": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://commons.wikimedia.org/wiki/File:Hedy_lamarr_-_1940.jpg": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Hedy_lamarr_-_1940.jpg?width=1200": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://upload.wikimedia.org/wikipedia/commons/6/61/Hedy_lamarr_-_1940.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Hedy_lamarr_-_1940.jpg?width=600": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Hedy_lamarr_-_1940.jpg/960px-Hedy_lamarr_-_1940.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Hedy_Lamarr_Publicity_Photo_for_The_Heavenly_Body_1944.jpg?width=1200": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://upload.wikimedia.org/wikipedia/commons/8/83/Hedy_Lamarr_Publicity_Photo_for_The_Heavenly_Body_1944.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Hedy_Lamarr_Publicity_Photo_for_The_Heavenly_Body_1944.jpg?width=600": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://upload.wikimedia.org/wikipedia/commons/8/83/Hedy_Lamarr_Publicity_Photo_for_The_Heavenly_Body_1944.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+    },
+    "https://www.pritzkerprize.com/laureates/1983": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://www.pritzkerprize.com/im-pei-passing": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://news.mit.edu/2019/renowned-architect-mit-alumnus-im-pei-dies-0517": {
+      "method": "manual",
+      "status": "ok",
+      "http_status": 403,
+      "checked_at": "2026-11-01",
+      "note": "news.mit.edu returns HTTP 403 to automated clients. Article 'Renowned architect I.M. Pei '40 dies at 102' confirmed manually on 2026-11-01."
+    },
+    "https://presse.louvre.fr/ieoh-ming-pei-2": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://presse.louvre.fr/ieoh-ming-pei-2/?lang=en"
+    },
+    "https://en.wikipedia.org/wiki/I._M._Pei": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://www.mplus.org.hk/en/exhibitions/i-m-pei-life-is-architecture/": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://immigranthallofhonor.org/inductees/inductee-i-m-pei/": {
+      "method": "manual",
+      "status": "ok",
+      "http_status": 403,
+      "checked_at": "2026-11-01",
+      "note": "immigranthallofhonor.org returns HTTP 403 to automated clients. Page opened and its content extracted manually on 2026-11-01 (used as the starting point for this profile)."
+    },
+    "https://commons.wikimedia.org/wiki/File:Louvre_Courtyard,_Looking_West.jpg": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Louvre_Courtyard,_Looking_West.jpg?width=1200": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Louvre_Courtyard%2C_Looking_West.jpg/1280px-Louvre_Courtyard%2C_Looking_West.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Louvre_Courtyard,_Looking_West.jpg?width=600": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Louvre_Courtyard%2C_Looking_West.jpg/960px-Louvre_Courtyard%2C_Looking_West.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+    },
+    "https://commons.wikimedia.org/wiki/File:National-Gallery-of-Art-East-Building-I-M-Pei-National-Mall-Washington-DC-Apr-2014.jpg": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/National-Gallery-of-Art-East-Building-I-M-Pei-National-Mall-Washington-DC-Apr-2014.jpg?width=1200": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/National-Gallery-of-Art-East-Building-I-M-Pei-National-Mall-Washington-DC-Apr-2014.jpg/1280px-National-Gallery-of-Art-East-Building-I-M-Pei-National-Mall-Washington-DC-Apr-2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/National-Gallery-of-Art-East-Building-I-M-Pei-National-Mall-Washington-DC-Apr-2014.jpg?width=600": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/National-Gallery-of-Art-East-Building-I-M-Pei-National-Mall-Washington-DC-Apr-2014.jpg/960px-National-Gallery-of-Art-East-Building-I-M-Pei-National-Mall-Washington-DC-Apr-2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+    },
+    "https://commons.wikimedia.org/wiki/File:Looking_up_to_the_Bank_of_China_Tower_in_Hong_Kong.jpg": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Looking_up_to_the_Bank_of_China_Tower_in_Hong_Kong.jpg?width=1200": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Looking_up_to_the_Bank_of_China_Tower_in_Hong_Kong.jpg/1280px-Looking_up_to_the_Bank_of_China_Tower_in_Hong_Kong.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Looking_up_to_the_Bank_of_China_Tower_in_Hong_Kong.jpg?width=600": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Looking_up_to_the_Bank_of_China_Tower_in_Hong_Kong.jpg/960px-Looking_up_to_the_Bank_of_China_Tower_in_Hong_Kong.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Itzhak_Perlman_with_I.M._Pei,_architect,_looking_at_model_of_NYC_Convention_Center_(03124v)_(cropped).jpg?width=1200": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://upload.wikimedia.org/wikipedia/commons/3/39/Itzhak_Perlman_with_I.M._Pei%2C_architect%2C_looking_at_model_of_NYC_Convention_Center_%2803124v%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Itzhak_Perlman_with_I.M._Pei,_architect,_looking_at_model_of_NYC_Convention_Center_(03124v)_(cropped).jpg?width=600": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Itzhak_Perlman_with_I.M._Pei%2C_architect%2C_looking_at_model_of_NYC_Convention_Center_%2803124v%29_%28cropped%29.jpg/960px-Itzhak_Perlman_with_I.M._Pei%2C_architect%2C_looking_at_model_of_NYC_Convention_Center_%2803124v%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+    },
+    "https://www.songhall.org/profiles/irving-berlin": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://en.wikipedia.org/wiki/Irving_Berlin": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://archive.org/search?query=irving+berlin": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://commons.wikimedia.org/wiki/File:Arthur_Collins_and_Byron_Harlan_-_Alexander%27s_Ragtime_Band_-_1911.ogg": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://immigranthallofhonor.org/inductees/inductee-irving-berlin/": {
+      "method": "manual",
+      "status": "ok",
+      "http_status": 403,
+      "checked_at": "2026-11-01",
+      "note": "immigranthallofhonor.org returns HTTP 403 to automated clients. Page opened and its content extracted manually on 2026-11-01 (used as the starting point for this profile)."
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Arthur_Collins_and_Byron_Harlan_-_Alexander%27s_Ragtime_Band_-_1911.ogg": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://upload.wikimedia.org/wikipedia/commons/3/3d/Arthur_Collins_and_Byron_Harlan_-_Alexander%27s_Ragtime_Band_-_1911.ogg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+    },
+    "https://commons.wikimedia.org/wiki/File:Irving_Berlin_-_That_Revolutionary_Rag_(1919).ogg": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Irving_Berlin_-_That_Revolutionary_Rag_(1919).ogg": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://upload.wikimedia.org/wikipedia/commons/b/b8/Irving_Berlin_-_That_Revolutionary_Rag_%281919%29.ogg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+    },
+    "https://commons.wikimedia.org/wiki/File:Irving_Berlin_NYWTS.jpg": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Irving_Berlin_NYWTS.jpg?width=1200": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://upload.wikimedia.org/wikipedia/commons/0/05/Irving_Berlin_NYWTS.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Irving_Berlin_NYWTS.jpg?width=600": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Irving_Berlin_NYWTS.jpg/960px-Irving_Berlin_NYWTS.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+    },
+    "https://www.hoophall.com/hall-of-famers/james-naismith/": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://www.springfield.edu/where-basketball-was-invented-the-birthplace-of-basketball": {
+      "method": "manual",
+      "status": "ok",
+      "http_status": 403,
+      "checked_at": "2026-11-01",
+      "note": "springfield.edu returns HTTP 403 to automated clients. Page 'Where Basketball was Invented: The History of Basketball' confirmed manually on 2026-11-01 (December 1891 rules, published January 1892 in The Triangle)."
+    },
+    "https://en.wikipedia.org/wiki/James_Naismith": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://exhibits.lib.ku.edu/exhibits/show/naismith150/collections/radio-interview": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://news.ku.edu/2015/12/15/professor-discovers-only-known-audio-recording-james-naismith": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://news.ku.edu/news/article/2015/12/15/professor-discovers-only-known-audio-recording-james-naismith"
+    },
+    "https://pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=1173": {
+      "method": "manual",
+      "status": "ok",
+      "http_status": null,
+      "checked_at": "2026-11-01",
+      "note": "pc.gc.ca timed out for the automated checker. Page 'Naismith, James National Historic Person' confirmed manually on 2026-11-01 (designated June 15, 1976)."
+    },
+    "https://union.ku.edu/rules": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://naismithbasketballfoundation.com/": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://commons.wikimedia.org/wiki/File:Naismith_Rules_of_Basketball_1892_first_draft.jpg": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://immigranthallofhonor.org/inductees/inductee-james-naismith/": {
+      "method": "manual",
+      "status": "ok",
+      "http_status": 403,
+      "checked_at": "2026-11-01",
+      "note": "immigranthallofhonor.org returns HTTP 403 to automated clients. Page opened and its content extracted manually on 2026-11-01 (used as the starting point for this profile)."
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Naismith_Rules_of_Basketball_1892_first_draft.jpg?width=1200": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Naismith_Rules_of_Basketball_1892_first_draft.jpg/1280px-Naismith_Rules_of_Basketball_1892_first_draft.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Naismith_Rules_of_Basketball_1892_first_draft.jpg?width=600": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Naismith_Rules_of_Basketball_1892_first_draft.jpg/960px-Naismith_Rules_of_Basketball_1892_first_draft.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+    },
+    "https://commons.wikimedia.org/wiki/File:Springfield_college_gymnasium_c_1887.jpg": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Springfield_college_gymnasium_c_1887.jpg?width=1200": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://upload.wikimedia.org/wikipedia/commons/5/5f/Springfield_college_gymnasium_c_1887.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Springfield_college_gymnasium_c_1887.jpg?width=600": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://upload.wikimedia.org/wikipedia/commons/5/5f/Springfield_college_gymnasium_c_1887.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+    },
+    "https://commons.wikimedia.org/wiki/File:James_Naismith_with_a_basketball.jpg": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/James_Naismith_with_a_basketball.jpg?width=1200": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://upload.wikimedia.org/wikipedia/commons/8/8d/James_Naismith_with_a_basketball.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/James_Naismith_with_a_basketball.jpg?width=600": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://upload.wikimedia.org/wikipedia/commons/8/8d/James_Naismith_with_a_basketball.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+    },
+    "https://archive.org/details/MeetThePast-JamesNaismith": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://archive.org/embed/MeetThePast-JamesNaismith": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://archive.org/services/img/MeetThePast-JamesNaismith": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Dr._James_Naismith.jpg?width=1200": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Dr._James_Naismith.jpg/1280px-Dr._James_Naismith.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Dr._James_Naismith.jpg?width=600": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Dr._James_Naismith.jpg/960px-Dr._James_Naismith.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+    },
+    "https://www.nps.gov/jomu/index.htm": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://www.nps.gov/yose/learn/historyculture/muir.htm": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://en.wikipedia.org/wiki/John_Muir": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://scholarlycommons.pacific.edu/jmb/": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://www.gutenberg.org/ebooks/search/?query=john+muir": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://en.wikiquote.org/wiki/John_Muir": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://commons.wikimedia.org/wiki/File:Theodore_Roosevelt_and_John_Muir_on_Glacier_Point,_Yosemite_Valley,_California,_in_1903_LCCN93503130.jpg": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://immigranthallofhonor.org/inductees/inductee-john-muir/": {
+      "method": "manual",
+      "status": "ok",
+      "http_status": 403,
+      "checked_at": "2026-11-01",
+      "note": "immigranthallofhonor.org returns HTTP 403 to automated clients. Page opened and its content extracted manually on 2026-11-01 (used as the starting point for this profile)."
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Theodore_Roosevelt_and_John_Muir_on_Glacier_Point,_Yosemite_Valley,_California,_in_1903_LCCN93503130.jpg?width=1200": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Theodore_Roosevelt_and_John_Muir_on_Glacier_Point%2C_Yosemite_Valley%2C_California%2C_in_1903_LCCN93503130.jpg/1280px-Theodore_Roosevelt_and_John_Muir_on_Glacier_Point%2C_Yosemite_Valley%2C_California%2C_in_1903_LCCN93503130.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Theodore_Roosevelt_and_John_Muir_on_Glacier_Point,_Yosemite_Valley,_California,_in_1903_LCCN93503130.jpg?width=600": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Theodore_Roosevelt_and_John_Muir_on_Glacier_Point%2C_Yosemite_Valley%2C_California%2C_in_1903_LCCN93503130.jpg/960px-Theodore_Roosevelt_and_John_Muir_on_Glacier_Point%2C_Yosemite_Valley%2C_California%2C_in_1903_LCCN93503130.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+    },
+    "https://commons.wikimedia.org/wiki/File:John_Muir_Watkins_Portrait_circa_1875_Edit.png": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/John_Muir_Watkins_Portrait_circa_1875_Edit.png?width=1200": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://upload.wikimedia.org/wikipedia/commons/a/ab/John_Muir_Watkins_Portrait_circa_1875_Edit.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/John_Muir_Watkins_Portrait_circa_1875_Edit.png?width=600": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/John_Muir_Watkins_Portrait_circa_1875_Edit.png/960px-John_Muir_Watkins_Portrait_circa_1875_Edit.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+    },
+    "https://www.levistrauss.com/levis-history/": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://patents.google.com/patent/US139121A/en": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://www.levi-strauss-museum.de/": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://levi-strauss-museum.de/"
+    },
+    "https://en.wikipedia.org/wiki/Levi_Strauss": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://www.jewishvirtuallibrary.org/levi-strauss": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://jewishvirtuallibrary.org/levi-strauss"
+    },
+    "https://immigranthallofhonor.org/inductees/inductee-levi-strauss/": {
+      "method": "manual",
+      "status": "ok",
+      "http_status": 403,
+      "checked_at": "2026-11-01",
+      "note": "immigranthallofhonor.org returns HTTP 403 to automated clients. Page opened and its content extracted manually on 2026-11-01 (used as the starting point for this profile)."
+    },
+    "https://commons.wikimedia.org/wiki/File:Levi_Strauss_1.jpg": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Levi_Strauss_1.jpg?width=1200": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Levi_Strauss_1.jpg/1280px-Levi_Strauss_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Levi_Strauss_1.jpg?width=600": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Levi_Strauss_1.jpg/960px-Levi_Strauss_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+    },
+    "https://history.state.gov/departmenthistory/people/albright-madeleine-korbel": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://en.wikipedia.org/wiki/Madeleine_Albright": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://obamawhitehouse.archives.gov/the-press-office/2012/04/26/president-obama-names-presidential-medal-freedom-recipients": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://www.wellesley.edu/albright": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://www.wellesley.edu/academics/centers/albright"
+    },
+    "https://en.wikiquote.org/wiki/Madeleine_Albright": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://commons.wikimedia.org/wiki/File:Swearing_In_of_Madeleine_Albright_as_Sec._of_State_(1997).webm": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://immigranthallofhonor.org/inductees/inductee-madeleine-albright/": {
+      "method": "manual",
+      "status": "ok",
+      "http_status": 403,
+      "checked_at": "2026-11-01",
+      "note": "immigranthallofhonor.org returns HTTP 403 to automated clients. Page opened and its content extracted manually on 2026-11-01 (used as the starting point for this profile)."
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Swearing_In_of_Madeleine_Albright_as_Sec._of_State_(1997).webm": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://upload.wikimedia.org/wikipedia/commons/c/c3/Swearing_In_of_Madeleine_Albright_as_Sec._of_State_%281997%29.webm?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Swearing_In_of_Madeleine_Albright_as_Sec._of_State_(1997).webm?width=600": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Swearing_In_of_Madeleine_Albright_as_Sec._of_State_%281997%29.webm/500px--Swearing_In_of_Madeleine_Albright_as_Sec._of_State_%281997%29.webm.jpg"
+    },
+    "https://commons.wikimedia.org/wiki/File:Madeleine_Albright_1997.jpg": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": null
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Madeleine_Albright_1997.jpg?width=1200": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://upload.wikimedia.org/wikipedia/commons/6/62/Madeleine_Albright_1997.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Madeleine_Albright_1997.jpg?width=600": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Madeleine_Albright_1997.jpg/960px-Madeleine_Albright_1997.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Secalbright.jpg?width=1200": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Secalbright.jpg/1280px-Secalbright.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+    },
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Secalbright.jpg?width=600": {
+      "method": "http",
+      "status": "ok",
+      "http_status": 200,
+      "checked_at": "2026-11-01",
+      "note": "redirected to https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Secalbright.jpg/960px-Secalbright.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+    }
+  }
+}

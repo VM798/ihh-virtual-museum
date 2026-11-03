@@ -1,0 +1,86 @@
+{
+  "slug": "bob-hope",
+  "name": "Bob Hope",
+  "birth_name": "Leslie Townes Hope",
+  "tagline": "English-born comedian who became America's entertainer-in-chief to its troops for fifty years",
+  "field": "Entertainment",
+  "tags": ["comedian", "actor", "USO", "radio", "television"],
+  "accent": "#C8102E",
+  "born": {"year": 1903, "date": "May 29, 1903", "place": "Eltham, London, England"},
+  "died": {"year": 2003, "date": "July 27, 2003", "place": "Toluca Lake, California"},
+  "origin": {"country": "England", "place": "Eltham, London", "flag": "🇬🇧", "region": "Europe"},
+  "immigration": {"year": 1908, "arrived": "Ellis Island, then Cleveland, Ohio", "detail": "Hope's father, a stonemason, moved the family of seven boys to Cleveland in 1908 in search of work. Leslie, then four, grew up selling newspapers and winning amateur talent contests; he became a U.S. citizen in 1920 through his father's naturalization.", "source_ids": ["S1", "S2"]},
+  "citizenship_year": 1920,
+  "occupations": ["Comedian", "Actor", "Radio and television host"],
+  "hero_image": {"url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bob_Hope_1969_Publicity_Photo.jpg?width=1200", "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Bob_Hope_1969_Publicity_Photo.jpg?width=600", "credit": "NBC Television publicity photo, 1969", "license": "Public domain (published without copyright notice)", "license_url": "https://en.wikipedia.org/wiki/Public_domain", "source_url": "https://commons.wikimedia.org/wiki/File:Bob_Hope_1969_Publicity_Photo.jpg"},
+  "summary": "A stonemason's son from south London who grew up in Cleveland, Bob Hope conquered vaudeville, Broadway, radio, film and television, and spent every Christmas from 1941 to 1991 performing for American service members around the world, a devotion that led Congress to name him the first honorary veteran of the U.S. Armed Forces.",
+  "biography": [
+    {"text": "Leslie Townes Hope was born in Eltham, in south-east London, on May 29, 1903, the fifth of seven sons of a stonemason and a Welsh light-opera singer. In 1908 the family emigrated to Cleveland, Ohio, where the boy sold newspapers, boxed briefly under the name Packy East, and won a Charlie Chaplin impersonation contest. He became an American citizen in 1920 when his father was naturalized.", "source_ids": ["S1", "S2"]},
+    {"text": "Renamed Bob, he worked his way up through vaudeville in the 1920s, reached Broadway in Roberta (1933) and Ziegfeld Follies of 1936, and introduced the Cole Porter song 'It's De-Lovely'. In The Big Broadcast of 1938 he sang 'Thanks for the Memory', which became his lifelong theme. His NBC radio show, launched in 1938, made him one of the most listened-to voices in America.", "source_ids": ["S1", "S2"]},
+    {"text": "Beginning with Road to Singapore (1940), Hope and Bing Crosby made seven 'Road' pictures that remain comedy classics, and Hope went on to appear in more than 50 films. He hosted the Academy Awards ceremony a record 19 times, joking that at his house Oscar night was known as 'Passover'.", "source_ids": ["S2"]},
+    {"text": "In May 1941 Hope performed his first show for troops at March Field, California, and for the next fifty years he took his Christmas shows to service members in the Second World War, Korea, Vietnam, Lebanon and the Persian Gulf, logging millions of miles with the USO. 'For the first time in my life,' he wrote of his wartime tours, 'I was in a situation where they were giving me more than I was giving them.'", "source_ids": ["S1", "S3"]},
+    {"text": "Congress awarded him a Congressional Gold Medal (presented by President Kennedy in 1963), President Johnson gave him the Presidential Medal of Freedom in 1969, and in 1997 a joint resolution of Congress made him the first and only person named an honorary veteran of the U.S. Armed Forces. The Library of Congress holds his archive of more than 85,000 pages of jokes. He died at his home in Toluca Lake, California, on July 27, 2003, two months after his 100th birthday.", "source_ids": ["S1", "S4", "S2"]}
+  ],
+  "achievements": [
+    {"title": "Fifty years of USO tours", "year": "1941–1991", "description": "Performed for American service members in every major conflict from the Second World War to the Gulf War, usually at Christmas.", "source_ids": ["S1", "S3"]},
+    {"title": "The 'Road' pictures with Bing Crosby", "year": "1940–1962", "description": "Seven comedies beginning with Road to Singapore that defined the buddy movie.", "source_ids": ["S2"]},
+    {"title": "Hosted the Academy Awards 19 times", "year": "1940–1978", "description": "More than any other host in the history of the ceremony.", "source_ids": ["S2"]},
+    {"title": "Six decades on radio and television", "year": "1938–1996", "description": "His NBC radio show ran from 1938 to 1955 and his television specials for NBC continued until 1996.", "source_ids": ["S1", "S2"]},
+    {"title": "The Bob Hope joke file", "year": null, "description": "An archive of roughly 85,000 pages of jokes, now preserved and exhibited by the Library of Congress.", "source_ids": ["S1"]}
+  ],
+  "honors": [
+    {"title": "Congressional Gold Medal (authorized 1962, presented by President Kennedy)", "year": 1963, "source_ids": ["S2"]},
+    {"title": "Presidential Medal of Freedom, from President Johnson", "year": 1969, "source_ids": ["S2"]},
+    {"title": "Honorary Knight Commander of the Order of the British Empire", "year": 1998, "source_ids": ["S2"]},
+    {"title": "First honorary veteran of the U.S. Armed Forces (Public Law 105-67)", "year": 1997, "source_ids": ["S4"]},
+    {"title": "National Medal of Arts", "year": 1995, "source_ids": ["S2"]},
+    {"title": "Five honorary Academy Awards", "year": null, "source_ids": ["S2"]}
+  ],
+  "timeline": [
+    {"year": 1903, "date": "May 29, 1903", "title": "Born in Eltham, London", "description": "Born Leslie Townes Hope, fifth of seven sons of William Henry Hope and Avis Townes.", "category": "origins", "source_ids": ["S1", "S2"]},
+    {"year": 1908, "title": "Emigrates to Cleveland", "description": "The family passes through Ellis Island and settles in Cleveland, Ohio.", "category": "immigration", "source_ids": ["S1", "S2"]},
+    {"year": 1920, "title": "Becomes a U.S. citizen", "description": "Gains citizenship through his father's naturalization.", "category": "immigration", "source_ids": ["S2"]},
+    {"year": 1933, "title": "Broadway breakthrough", "description": "Appears in the musical Roberta with Fred MacMurray and George Murphy.", "category": "career", "source_ids": ["S2"]},
+    {"year": 1938, "title": "'Thanks for the Memory' and NBC radio", "description": "Sings his signature song in The Big Broadcast of 1938 and launches The Pepsodent Show on NBC.", "category": "milestone", "source_ids": ["S1", "S2"]},
+    {"year": 1940, "title": "Road to Singapore", "description": "First of the seven 'Road' films with Bing Crosby and Dorothy Lamour.", "category": "career", "source_ids": ["S2"]},
+    {"year": 1941, "date": "May 6, 1941", "title": "First show for the troops", "description": "Broadcasts his radio show from March Field, California, beginning fifty years of military entertainment.", "category": "milestone", "source_ids": ["S1", "S3"]},
+    {"year": 1950, "date": "April 9, 1950", "title": "First television special", "description": "The Star Spangled Revue airs on NBC on Easter Sunday.", "category": "career", "source_ids": ["S5"]},
+    {"year": 1969, "title": "Presidential Medal of Freedom", "description": "President Johnson honours him for his service to the armed forces.", "category": "honor", "source_ids": ["S2"]},
+    {"year": 1997, "date": "October 30, 1997", "title": "Honorary veteran", "description": "Public Law 105-67 makes him the first honorary veteran of the U.S. Armed Forces.", "category": "honor", "source_ids": ["S4"]},
+    {"year": 2003, "date": "July 27, 2003", "title": "Dies at 100", "description": "Dies at home in Toluca Lake, California, two months after his centenary.", "category": "legacy", "source_ids": ["S2"]}
+  ],
+  "quotes": [
+    {"text": "Joint resolution to confer status as an honorary veteran of the United States Armed Forces on Leslie Townes (Bob) Hope.", "context": "Title of Public Law 105-67, enacted October 30, 1997, the only such honour ever conferred", "source_id": "S4"}
+  ],
+  "fun_facts": [
+    {"text": "The Library of Congress preserves Hope's joke file: about 85,000 pages, organised by topic, which he kept in a fireproof vault.", "source_ids": ["S1"]},
+    {"text": "Hope's first USO-style broadcast in 1941 was a radio show from an air base; the laughter was so loud that he made the troops his audience for the rest of the war.", "source_ids": ["S1", "S3"]}
+  ],
+  "discussion_prompts": [
+    "Hope said the troops gave him more than he gave them. Why might making people laugh matter most in the hardest places?",
+    "He arrived as a four-year-old immigrant and became a symbol of America to soldiers abroad. What makes someone 'American' in other people's eyes?",
+    "Watch a clip from a 1950 television special. How has comedy changed since then, and what still works?"
+  ],
+  "media": [
+    {"id": "M1", "kind": "video", "title": "The Star Spangled Revue with Bob Hope (NBC, Easter Sunday 1950)", "url": "https://archive.org/details/starspangledrevue", "embed_url": "https://archive.org/embed/starspangledrevue", "thumbnail": "https://archive.org/services/img/starspangledrevue", "year": "1950", "credit": "Internet Archive", "license": "Public domain (as marked by the Internet Archive)", "license_url": "http://creativecommons.org/licenses/publicdomain/", "description": "Hope's first television special, with comedy, dance and piano sketches.", "annotation": "Television was three years old as a mass medium. Notice how Hope plays to a studio audience as if on a vaudeville stage.", "rights_note": "Public-domain status is as marked by the uploader; confirm before re-hosting.", "source_id": "S5"},
+    {"id": "M2", "kind": "video", "title": "Road to Bali (1952)", "url": "https://archive.org/details/RoadToBali1952_201612", "embed_url": "https://archive.org/embed/RoadToBali1952_201612", "thumbnail": "https://archive.org/services/img/RoadToBali1952_201612", "year": "1952", "credit": "Paramount Pictures, via Internet Archive", "license": "Public Domain Mark 1.0 (copyright not renewed)", "license_url": "http://creativecommons.org/publicdomain/mark/1.0/", "description": "The sixth 'Road' picture with Bing Crosby and Dorothy Lamour, the only one filmed in colour and now in the public domain.", "annotation": null, "rights_note": "Public-domain status is as marked by the uploader; confirm before re-hosting.", "source_id": null},
+    {"id": "M3", "kind": "image", "title": "Bob Hope backstage at Camp Casey, South Korea, December 1972", "url": "https://commons.wikimedia.org/wiki/File:Bob_Hope_in_South_Korea,_1972.jpg", "embed_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bob_Hope_in_South_Korea,_1972.jpg?width=1200", "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Bob_Hope_in_South_Korea,_1972.jpg?width=600", "year": "1972", "credit": "Bill Charles, via Wikimedia Commons", "license": "CC BY-SA 3.0", "license_url": "https://creativecommons.org/licenses/by-sa/3.0/", "description": "Hope before a Christmas show for troops near the Korean Demilitarized Zone.", "annotation": "Thirty-one years into his tours, and still on the road at Christmas.", "source_id": null},
+    {"id": "M4", "kind": "image", "title": "USO reception for Bob Hope at the White House, May 24, 1978", "url": "https://commons.wikimedia.org/wiki/File:USO_reception_with_Bob_Hope_-_NARA_-_179552.tif", "embed_url": "https://commons.wikimedia.org/wiki/Special:FilePath/USO_reception_with_Bob_Hope_-_NARA_-_179552.tif?width=1200", "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/USO_reception_with_Bob_Hope_-_NARA_-_179552.tif?width=600", "year": "1978", "credit": "National Archives and Records Administration (Carter White House photographs)", "license": "Public domain (U.S. federal government work)", "license_url": "https://en.wikipedia.org/wiki/Public_domain", "description": "President Carter hosts a USO reception honouring Hope.", "annotation": null, "source_id": null},
+    {"id": "M5", "kind": "document", "title": "Bob Hope and American Variety – Library of Congress exhibition", "url": "https://www.loc.gov/exhibits/bobhope/", "embed_url": null, "thumbnail": null, "year": null, "credit": "Library of Congress", "license": "Public domain (U.S. federal government work); some items under copyright", "license_url": null, "description": "Online exhibition drawn from the Bob Hope Collection, including the joke file, scripts and photographs.", "annotation": null, "source_id": "S1"}
+  ],
+  "review_notes": [
+    {"ihh_statement": "Bob Hope immigrated to Cleveland, Ohio, in 1920.", "finding": "The family emigrated in 1908 (as the IHH infobox states); 1920 is the year he became a citizen. The biography text and infobox on the current page disagree.", "severity": "correction", "source_ids": ["S1", "S2"]},
+    {"ihh_statement": "Congressional Gold Medal from President Kennedy (1963)", "finding": "Congress authorized the medal in 1962 and President Kennedy presented it in September 1963; both years appear in sources.", "severity": "clarification", "source_ids": ["S2"]}
+  ],
+  "sources": [
+    {"id": "S1", "title": "Bob Hope and American Variety (online exhibition)", "publisher": "Library of Congress", "url": "https://www.loc.gov/exhibits/bobhope/", "kind": "archive"},
+    {"id": "S2", "title": "Bob Hope", "publisher": "Wikipedia (with cited references)", "url": "https://en.wikipedia.org/wiki/Bob_Hope", "kind": "encyclopedia"},
+    {"id": "S3", "title": "Bob Hope and the USO", "publisher": "United Service Organizations (USO)", "url": "https://www.uso.org/bob-hope", "kind": "organization"},
+    {"id": "S4", "title": "Public Law 105-67 – Joint resolution to confer status as an honorary veteran of the United States Armed Forces on Leslie Townes (Bob) Hope", "publisher": "U.S. Government Publishing Office (govinfo)", "url": "https://www.govinfo.gov/app/details/PLAW-105publ67", "kind": "government"},
+    {"id": "S5", "title": "The Star Spangled Revue with Bob Hope (1950) – item record", "publisher": "Internet Archive", "url": "https://archive.org/details/starspangledrevue", "kind": "archive"},
+    {"id": "S6", "title": "Bob Hope Legacy (official site)", "publisher": "Bob & Dolores Hope Foundation", "url": "https://www.bobhope.org/", "kind": "official"},
+    {"id": "S7", "title": "Inductee: Bob Hope", "publisher": "Immigrant Hall of Honor", "url": "https://immigranthallofhonor.org/inductees/inductee-bob-hope/", "kind": "organization", "note": "Existing IHH profile used as the starting point."}
+  ],
+  "ihh_page_url": "https://immigranthallofhonor.org/inductees/inductee-bob-hope/",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bob_Hope"
+}

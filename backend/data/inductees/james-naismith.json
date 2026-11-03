@@ -1,0 +1,491 @@
+{
+  "slug": "james-naismith",
+  "name": "James Naismith",
+  "birth_name": "James Naismith",
+  "tagline": "Canadian teacher who nailed up two peach baskets and invented basketball",
+  "field": "Sport & Education",
+  "tags": [
+    "inventor",
+    "educator",
+    "coach",
+    "physician"
+  ],
+  "accent": "#D97706",
+  "born": {
+    "year": 1861,
+    "date": "November 6, 1861",
+    "place": "Almonte, Ontario, Canada"
+  },
+  "died": {
+    "year": 1939,
+    "date": "November 28, 1939",
+    "place": "Lawrence, Kansas"
+  },
+  "origin": {
+    "country": "Canada",
+    "place": "Almonte, Ontario",
+    "flag": "🇨🇦",
+    "region": "The Americas"
+  },
+  "immigration": {
+    "year": 1890,
+    "arrived": "Springfield, Massachusetts",
+    "detail": "After degrees in philosophy and theology at McGill University and its Presbyterian College, Naismith chose physical education over the pulpit and in 1890 enrolled at the International YMCA Training School in Springfield, Massachusetts, where he became an instructor.",
+    "source_ids": [
+      "S1",
+      "S2"
+    ]
+  },
+  "citizenship_year": 1925,
+  "occupations": [
+    "Physical educator",
+    "Coach",
+    "Physician",
+    "Chaplain"
+  ],
+  "hero_image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dr._James_Naismith.jpg?width=1200",
+    "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Dr._James_Naismith.jpg?width=600",
+    "credit": "Unknown photographer, before 1939",
+    "license": "Public domain",
+    "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Dr._James_Naismith.jpg"
+  },
+  "summary": "Orphaned at nine in rural Ontario, James Naismith was a 30-year-old gym instructor in Springfield, Massachusetts, when, in December 1891, he was asked for an indoor game to keep restless students busy through winter. He typed thirteen rules, nailed two peach baskets to a balcony, and basketball was born. He went on to found the sport at the University of Kansas and lived to see it enter the Olympics.",
+  "biography": [
+    {
+      "text": "James Naismith was born on November 6, 1861, near Almonte, Ontario. Both parents died of typhoid fever in 1870 and he was raised by an uncle, leaving school to work as a lumberjack before returning to finish his education. At McGill University in Montreal he excelled at rugby and gymnastics, graduated in 1887, and completed a theology diploma in 1890, but decided he could do more good through sport than from a pulpit.",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "text": "That year he moved to the International YMCA Training School (now Springfield College) in Springfield, Massachusetts. In December 1891 the school's superintendent, Luther Gulick, gave him two weeks to invent an indoor game for a class of unruly students during the New England winter. Naismith drew on a childhood game, 'duck on a rock', and wrote thirteen rules for a non-contact game played with a soccer ball and two peach baskets nailed to the gymnasium balcony ten feet up. The first game was played in late December 1891, and the rules were published in the school newspaper, The Triangle, on January 15, 1892.",
+      "source_ids": [
+        "S2",
+        "S3",
+        "S7"
+      ]
+    },
+    {
+      "text": "Basketball spread through the YMCA network across the world within a few years. Naismith moved to Denver in 1895, earned a medical degree from Gross Medical College in 1898, and that year joined the University of Kansas as chapel director and physical education instructor. He coached the first Kansas basketball team from 1898 to 1907, remains the only KU basketball coach with a losing record, and remained on the faculty until 1937. He became a U.S. citizen in 1925.",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    {
+      "text": "In 1936 he travelled to Berlin to watch basketball become an Olympic sport and presented the medals. On January 31, 1939, he described the first game in a short radio interview on the program We the People, the only known recording of his voice, rediscovered in 2015 by a University of Kansas professor in the WOR radio collection at the Library of Congress. Naismith died in Lawrence, Kansas, on November 28, 1939.",
+      "source_ids": [
+        "S4",
+        "S5",
+        "S3"
+      ]
+    },
+    {
+      "text": "The Naismith Memorial Basketball Hall of Fame in Springfield, which opened in 1959 with Naismith as a charter inductee, bears his name, as does the annual award for the best college player. His original typed rules were bought at auction in 2010 for $4.3 million by University of Kansas alumni David and Suzanne Booth and are displayed in the DeBruce Center on the Kansas campus. Canada has designated him a National Historic Person.",
+      "source_ids": [
+        "S1",
+        "S6",
+        "S7",
+        "S8"
+      ]
+    }
+  ],
+  "achievements": [
+    {
+      "title": "Invented basketball",
+      "year": "1891",
+      "description": "Devised the game and its original thirteen rules at the YMCA Training School in Springfield, Massachusetts.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "title": "Founded basketball at the University of Kansas",
+      "year": "1898",
+      "description": "Coached the first Jayhawks team and hired his successor Forrest 'Phog' Allen; Kansas became one of the sport's great programs.",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "title": "Physician and educator",
+      "year": "1898–1937",
+      "description": "Earned an M.D. in 1898 and served nearly four decades at Kansas as chapel director, physical education professor and campus doctor.",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    {
+      "title": "Saw basketball enter the Olympic Games",
+      "year": "1936",
+      "description": "Attended the Berlin Olympics, where basketball debuted as a medal sport, and presented the medals.",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "title": "Early football helmet",
+      "year": "1890s",
+      "description": "Devised a padded headgear to protect his own ears while playing football, an early ancestor of the modern helmet.",
+      "source_ids": [
+        "S3"
+      ]
+    }
+  ],
+  "honors": [
+    {
+      "title": "Charter inductee, Naismith Memorial Basketball Hall of Fame",
+      "year": 1959,
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "title": "Canada's Sports Hall of Fame",
+      "year": 1955,
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "title": "National Historic Person of Canada",
+      "year": 1976,
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "title": "FIBA Hall of Fame",
+      "year": 2007,
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "title": "Canada Post commemorative stamp",
+      "year": 1991,
+      "source_ids": [
+        "S3"
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1861,
+      "date": "November 6, 1861",
+      "title": "Born near Almonte, Ontario",
+      "description": "Born to Scottish immigrants John Naismith and Margaret Young.",
+      "category": "origins",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    {
+      "year": 1870,
+      "title": "Orphaned",
+      "description": "Both parents die of typhoid fever; he is raised by his uncle Peter Young.",
+      "category": "origins",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "year": 1887,
+      "title": "Graduates from McGill University",
+      "description": "Earns a B.A. in philosophy and Hebrew while starring in rugby and gymnastics.",
+      "category": "origins",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "year": 1890,
+      "title": "Moves to Springfield, Massachusetts",
+      "description": "Joins the International YMCA Training School as a student and instructor.",
+      "category": "immigration",
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "year": 1891,
+      "date": "December 1891",
+      "title": "Basketball is born",
+      "description": "Writes the thirteen rules and stages the first game with peach baskets.",
+      "category": "milestone",
+      "source_ids": [
+        "S2",
+        "S7"
+      ]
+    },
+    {
+      "year": 1892,
+      "date": "January 15, 1892",
+      "title": "The rules are published",
+      "description": "The Triangle, the school newspaper, prints 'Basket Ball' and its thirteen rules.",
+      "category": "milestone",
+      "source_ids": [
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "year": 1898,
+      "title": "Doctor and Jayhawk",
+      "description": "Earns an M.D. in Denver and joins the University of Kansas, coaching its first basketball team.",
+      "category": "career",
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    {
+      "year": 1925,
+      "title": "Becomes a U.S. citizen",
+      "description": "Naturalized after 35 years in the United States.",
+      "category": "immigration",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "year": 1936,
+      "title": "Olympic debut",
+      "description": "Watches basketball's first Olympic tournament in Berlin and hands out the medals.",
+      "category": "milestone",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "year": 1939,
+      "date": "January 31, 1939",
+      "title": "The only recording of his voice",
+      "description": "Describes the first game on the WOR radio program We the People.",
+      "category": "legacy",
+      "source_ids": [
+        "S4",
+        "S5"
+      ]
+    },
+    {
+      "year": 1939,
+      "date": "November 28, 1939",
+      "title": "Dies in Lawrence, Kansas",
+      "description": "Dies of a brain haemorrhage at 78.",
+      "category": "legacy",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "year": 2010,
+      "title": "The rules come home to Kansas",
+      "description": "His original typed rules sell at auction for $4.3 million and are donated to the University of Kansas.",
+      "category": "legacy",
+      "source_ids": [
+        "S7"
+      ]
+    }
+  ],
+  "quotes": [
+    {
+      "text": "It certainly was murder.",
+      "context": "Describing the chaotic first game, in his 1939 radio interview on We the People, the only recording of his voice",
+      "source_id": "S4"
+    }
+  ],
+  "fun_facts": [
+    {
+      "text": "The first game was played with a soccer ball, and someone had to climb a ladder to retrieve the ball after every score because the peach baskets still had their bottoms.",
+      "source_ids": [
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "text": "Naismith refused to let the new sport be called 'Naismith ball'; a student suggested 'basket ball' instead.",
+      "source_ids": [
+        "S3"
+      ]
+    }
+  ],
+  "discussion_prompts": [
+    "Naismith solved a practical problem, bored students in winter, and changed world sport. What small problems around you might have big solutions?",
+    "Listen to the 1939 recording. Why does hearing a historical figure's actual voice feel different from reading about them?",
+    "Read the thirteen original rules. Which ones still apply, and which have changed?"
+  ],
+  "media": [
+    {
+      "id": "M1",
+      "kind": "audio",
+      "title": "Radio interview on We the People, January 31, 1939 (the only recording of Naismith's voice)",
+      "url": "https://exhibits.lib.ku.edu/exhibits/show/naismith150/collections/radio-interview",
+      "embed_url": null,
+      "thumbnail": null,
+      "year": "1939",
+      "credit": "WOR radio collection, Library of Congress; presented by University of Kansas Libraries",
+      "license": "© WOR / Library of Congress; streamed by KU Libraries (link only)",
+      "license_url": null,
+      "description": "A two-and-a-half-minute interview in which Naismith recalls nailing up the peach baskets and the rough first game in 1891.",
+      "annotation": "Discovered in 2015 by KU professor Michael Zogry while researching a book on Naismith and religion.",
+      "rights_note": "Rights are held by the recording's owners; link to the KU exhibit page rather than copying the audio.",
+      "source_id": "S4"
+    },
+    {
+      "id": "M2",
+      "kind": "image",
+      "title": "The original rules of 'Basket Ball', typed December 1891",
+      "url": "https://commons.wikimedia.org/wiki/File:Naismith_Rules_of_Basketball_1892_first_draft.jpg",
+      "embed_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Naismith_Rules_of_Basketball_1892_first_draft.jpg?width=1200",
+      "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Naismith_Rules_of_Basketball_1892_first_draft.jpg?width=600",
+      "year": "1891",
+      "credit": "James Naismith, via Wikimedia Commons",
+      "license": "Public domain",
+      "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+      "description": "The typewritten first draft of the thirteen rules, signed by Naismith in 1931; the original is displayed at the DeBruce Center, University of Kansas.",
+      "annotation": "Museum artifact. Rule 5 bans shouldering, holding, pushing, tripping or striking an opponent: basketball was designed from the start as a non-contact game.",
+      "source_id": "S9"
+    },
+    {
+      "id": "M3",
+      "kind": "image",
+      "title": "The gymnasium where basketball was invented, Springfield, c. 1887",
+      "url": "https://commons.wikimedia.org/wiki/File:Springfield_college_gymnasium_c_1887.jpg",
+      "embed_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Springfield_college_gymnasium_c_1887.jpg?width=1200",
+      "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Springfield_college_gymnasium_c_1887.jpg?width=600",
+      "year": "c. 1887",
+      "credit": "School for Christian Workers (Springfield College), via Wikimedia Commons",
+      "license": "Public domain",
+      "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+      "description": "The gym of the School for Christian Workers, later the International YMCA Training School, a few years before the first game.",
+      "annotation": "The running track balcony was ten feet above the floor, which is why the basket is still ten feet high today.",
+      "source_id": null
+    },
+    {
+      "id": "M4",
+      "kind": "image",
+      "title": "Naismith with a basketball",
+      "url": "https://commons.wikimedia.org/wiki/File:James_Naismith_with_a_basketball.jpg",
+      "embed_url": "https://commons.wikimedia.org/wiki/Special:FilePath/James_Naismith_with_a_basketball.jpg?width=1200",
+      "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/James_Naismith_with_a_basketball.jpg?width=600",
+      "year": null,
+      "credit": "Wikimedia Commons",
+      "license": "Public domain",
+      "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+      "description": "The inventor with a laced leather ball of the early twentieth century.",
+      "annotation": null,
+      "source_id": null
+    },
+    {
+      "id": "M5",
+      "kind": "video",
+      "title": "'Meet the Past': an actor portrays James Naismith in conversation (KCPT)",
+      "url": "https://archive.org/details/MeetThePast-JamesNaismith",
+      "embed_url": "https://archive.org/embed/MeetThePast-JamesNaismith",
+      "thumbnail": "https://archive.org/services/img/MeetThePast-JamesNaismith",
+      "year": null,
+      "credit": "Kansas City Public Library / KCPT, via Internet Archive",
+      "license": "CC BY-NC-ND 3.0 US",
+      "license_url": "http://creativecommons.org/licenses/by-nc-nd/3.0/us/",
+      "description": "Historian Crosby Kemper III interviews an actor in character as Naismith about his life and the invention of the game.",
+      "annotation": "A dramatisation, not a historical recording, but an engaging introduction for students.",
+      "rights_note": "Licensed for non-commercial use without modification; attribute Kansas City Public Library and KCPT.",
+      "source_id": null
+    }
+  ],
+  "review_notes": [
+    {
+      "ihh_statement": "Authored the original 13 rules of Basketball (1892)",
+      "finding": "Naismith typed the rules in December 1891 (the document is dated December 1891); they were first published on January 15, 1892. Both years are defensible depending on whether writing or publication is meant.",
+      "severity": "clarification",
+      "source_ids": [
+        "S2",
+        "S9"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "James Naismith – Hall of Famer",
+      "publisher": "Naismith Memorial Basketball Hall of Fame",
+      "url": "https://www.hoophall.com/hall-of-famers/james-naismith/",
+      "kind": "organization"
+    },
+    {
+      "id": "S2",
+      "title": "Where Basketball Was Invented: The Birthplace of Basketball",
+      "publisher": "Springfield College",
+      "url": "https://www.springfield.edu/where-basketball-was-invented-the-birthplace-of-basketball",
+      "kind": "academic"
+    },
+    {
+      "id": "S3",
+      "title": "James Naismith",
+      "publisher": "Wikipedia (with cited references)",
+      "url": "https://en.wikipedia.org/wiki/James_Naismith",
+      "kind": "encyclopedia"
+    },
+    {
+      "id": "S4",
+      "title": "Radio Interview, 1939 – James Naismith's Life and Legacy",
+      "publisher": "University of Kansas Libraries Exhibits",
+      "url": "https://exhibits.lib.ku.edu/exhibits/show/naismith150/collections/radio-interview",
+      "kind": "academic"
+    },
+    {
+      "id": "S5",
+      "title": "Professor discovers only known audio recording of James Naismith (December 15, 2015)",
+      "publisher": "KU News, University of Kansas",
+      "url": "https://news.ku.edu/2015/12/15/professor-discovers-only-known-audio-recording-james-naismith",
+      "kind": "academic"
+    },
+    {
+      "id": "S6",
+      "title": "Naismith, James – National Historic Person",
+      "publisher": "Parks Canada, Directory of Federal Heritage Designations",
+      "url": "https://pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=1173",
+      "kind": "government"
+    },
+    {
+      "id": "S7",
+      "title": "The Original Rules of Basketball – DeBruce Center",
+      "publisher": "KU Memorial Unions, University of Kansas",
+      "url": "https://union.ku.edu/rules",
+      "kind": "academic"
+    },
+    {
+      "id": "S8",
+      "title": "Naismith Basketball Foundation (Almonte, Ontario)",
+      "publisher": "Naismith Basketball Foundation",
+      "url": "https://naismithbasketballfoundation.com/",
+      "kind": "organization"
+    },
+    {
+      "id": "S9",
+      "title": "Naismith Rules of Basketball 1892 first draft – file description",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Naismith_Rules_of_Basketball_1892_first_draft.jpg",
+      "kind": "archive"
+    },
+    {
+      "id": "S10",
+      "title": "Inductee: James Naismith",
+      "publisher": "Immigrant Hall of Honor",
+      "url": "https://immigranthallofhonor.org/inductees/inductee-james-naismith/",
+      "kind": "organization",
+      "note": "Existing IHH profile used as the starting point."
+    }
+  ],
+  "ihh_page_url": "https://immigranthallofhonor.org/inductees/inductee-james-naismith/",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/James_Naismith"
+}

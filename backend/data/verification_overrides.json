@@ -1,0 +1,66 @@
+{
+  "https://www.levistrauss.com/levis-history/": {
+    "checked_at": "2026-11-01",
+    "note": "Publisher blocks scripted requests (HTTP 403). Page content confirmed manually on 2026-11-01: states 1853 move to San Francisco and the 1873 patent with Jacob Davis."
+  },
+  "https://www.usmint.gov/coins/coin-medal-programs/american-women-quarters/celia-cruz": {
+    "checked_at": "2026-11-01",
+    "note": "usmint.gov blocks scripted requests (HTTP 403). Open in a browser to confirm; the Celia Cruz quarter is part of the 2024 American Women Quarters Program."
+  },
+  "https://www.si.edu/object/shoes-worn-celia-cruz:nmah_834815": {
+    "checked_at": "2026-11-01",
+    "note": "si.edu blocks scripted requests (HTTP 403). Object record located via Smithsonian search on 2026-11-01."
+  },
+  "https://immigranthallofhonor.org/inductees/inductee-albert-einstein/": {
+    "checked_at": "2026-11-01",
+    "note": "immigranthallofhonor.org returns HTTP 403 to automated clients. Page opened and its content extracted manually on 2026-11-01 (used as the starting point for this profile)."
+  },
+  "https://immigranthallofhonor.org/inductees/inductee-bob-hope/": {
+    "checked_at": "2026-11-01",
+    "note": "immigranthallofhonor.org returns HTTP 403 to automated clients. Page opened and its content extracted manually on 2026-11-01 (used as the starting point for this profile)."
+  },
+  "https://immigranthallofhonor.org/inductees/inductee-celia-cruz/": {
+    "checked_at": "2026-11-01",
+    "note": "immigranthallofhonor.org returns HTTP 403 to automated clients. Page opened and its content extracted manually on 2026-11-01 (used as the starting point for this profile)."
+  },
+  "https://immigranthallofhonor.org/inductees/inductee-hedy-lamarr/": {
+    "checked_at": "2026-11-01",
+    "note": "immigranthallofhonor.org returns HTTP 403 to automated clients. Page opened and its content extracted manually on 2026-11-01 (used as the starting point for this profile)."
+  },
+  "https://immigranthallofhonor.org/inductees/inductee-i-m-pei/": {
+    "checked_at": "2026-11-01",
+    "note": "immigranthallofhonor.org returns HTTP 403 to automated clients. Page opened and its content extracted manually on 2026-11-01 (used as the starting point for this profile)."
+  },
+  "https://immigranthallofhonor.org/inductees/inductee-irving-berlin/": {
+    "checked_at": "2026-11-01",
+    "note": "immigranthallofhonor.org returns HTTP 403 to automated clients. Page opened and its content extracted manually on 2026-11-01 (used as the starting point for this profile)."
+  },
+  "https://immigranthallofhonor.org/inductees/inductee-james-naismith/": {
+    "checked_at": "2026-11-01",
+    "note": "immigranthallofhonor.org returns HTTP 403 to automated clients. Page opened and its content extracted manually on 2026-11-01 (used as the starting point for this profile)."
+  },
+  "https://immigranthallofhonor.org/inductees/inductee-john-muir/": {
+    "checked_at": "2026-11-01",
+    "note": "immigranthallofhonor.org returns HTTP 403 to automated clients. Page opened and its content extracted manually on 2026-11-01 (used as the starting point for this profile)."
+  },
+  "https://immigranthallofhonor.org/inductees/inductee-levi-strauss/": {
+    "checked_at": "2026-11-01",
+    "note": "immigranthallofhonor.org returns HTTP 403 to automated clients. Page opened and its content extracted manually on 2026-11-01 (used as the starting point for this profile)."
+  },
+  "https://immigranthallofhonor.org/inductees/inductee-madeleine-albright/": {
+    "checked_at": "2026-11-01",
+    "note": "immigranthallofhonor.org returns HTTP 403 to automated clients. Page opened and its content extracted manually on 2026-11-01 (used as the starting point for this profile)."
+  },
+  "https://news.mit.edu/2019/renowned-architect-mit-alumnus-im-pei-dies-0517": {
+    "checked_at": "2026-11-01",
+    "note": "news.mit.edu returns HTTP 403 to automated clients. Article 'Renowned architect I.M. Pei '40 dies at 102' confirmed manually on 2026-11-01."
+  },
+  "https://www.springfield.edu/where-basketball-was-invented-the-birthplace-of-basketball": {
+    "checked_at": "2026-11-01",
+    "note": "springfield.edu returns HTTP 403 to automated clients. Page 'Where Basketball was Invented: The History of Basketball' confirmed manually on 2026-11-01 (December 1891 rules, published January 1892 in The Triangle)."
+  },
+  "https://pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=1173": {
+    "checked_at": "2026-11-01",
+    "note": "pc.gc.ca timed out for the automated checker. Page 'Naismith, James National Historic Person' confirmed manually on 2026-11-01 (designated June 15, 1976)."
+  }
+}
