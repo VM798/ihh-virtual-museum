@@ -10,7 +10,7 @@ from fastapi.staticfiles import StaticFiles
 
 from .config import get_settings
 from .repository import Repository
-from .routers import collections, docent, inductees
+from .routers import auth, collections, community, docent, images, inductees
 
 
 @asynccontextmanager
@@ -30,11 +30,14 @@ def create_app() -> FastAPI:
         lifespan=lifespan,
     )
     app.add_middleware(
-        CORSMiddleware, allow_origins=settings.cors_origins, allow_methods=["*"], allow_headers=["*"],
+        CORSMiddleware, allow_origins=settings.cors_origins, allow_credentials=True, allow_methods=["*"], allow_headers=["*"],
     )
     app.include_router(inductees.router)
     app.include_router(collections.router)
     app.include_router(docent.router)
+    app.include_router(community.router)
+    app.include_router(images.router)
+    app.include_router(auth.router)
 
     @app.get("/api/health", tags=["meta"])
     def health():

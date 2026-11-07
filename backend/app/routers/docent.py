@@ -3,7 +3,7 @@ from __future__ import annotations
 from fastapi import APIRouter, HTTPException, Request
 from pydantic import BaseModel, Field
 
-from .. import docent
+from .. import chat, docent
 from ..config import get_settings
 from ..models import DocentAnswer, DocentQuestion
 
@@ -40,3 +40,10 @@ def status():
     live = settings.docent_enabled and docent._has_credentials()
     return {"enabled": settings.docent_enabled, "model": settings.docent_model,
             "annotation_model": settings.annotation_model, "live": live, "provider": "openai"}
+
+
+@router.post("/chat", response_model=chat.ChatReply, summary="Museum guide: chat about any inductee or the site")
+def museum_chat(request: Request, payload: chat.ChatRequest):
+    if payload.messages[-1].role != "user":
+        raise HTTPException(status_code=422, detail="The last message must come from the visitor")
+    return chat.reply(request.app.state.repo, payload)

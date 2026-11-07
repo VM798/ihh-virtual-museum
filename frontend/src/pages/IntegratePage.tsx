@@ -18,7 +18,7 @@ export default function IntegratePage() {
         </p>
 
         <div className="grid cols-3" style={{ margin: "28px 0" }}>
-          <div className="card"><div className="icon-circle">1</div><strong>HTML block</strong><p className="muted" style={{ fontSize: "0.9rem", margin: "6px 0 0" }}>Self-contained, inline-styled, no scripts. Paste into a WordPress <em>Custom HTML</em> block or a page template.</p></div>
+          <div className="card"><div className="icon-circle">1</div><strong>HTML block</strong><p className="muted" style={{ fontSize: "0.9rem", margin: "6px 0 0" }}>Self-contained, inline-styled, no scripts: the full seven-room exhibition with pictures, context, audio-guide script and sources. Paste into a WordPress <em>Custom HTML</em> block or a page template.</p></div>
           <div className="card"><div className="icon-circle">2</div><strong>Markdown</strong><p className="muted" style={{ fontSize: "0.9rem", margin: "6px 0 0" }}>For editors who want to rewrite in the IHH voice while keeping the footnoted sources.</p></div>
           <div className="card"><div className="icon-circle">3</div><strong>JSON API</strong><p className="muted" style={{ fontSize: "0.9rem", margin: "6px 0 0" }}>Structured data for a custom WordPress block, a React widget, or the future storytelling platform.</p></div>
         </div>
@@ -41,10 +41,15 @@ export default function IntegratePage() {
           </table>
         </div>
 
+        <h3>Audio guides</h3>
+        <p className="muted">Each profile has a spoken introduction of about ninety seconds, scripted only from the cited passages. With an OpenAI key in <code>backend/.env</code>, run <code>python scripts/narrate.py</code> once to generate MP3 files; until then the site reads the same script aloud with the visitor's browser.</p>
+
         <h3>API endpoints</h3>
         <pre><code>{`GET  ${origin}/api/inductees                 # summaries (filter: ?field=Music&region=Europe)
 GET  ${origin}/api/inductees/{slug}          # full profile with sources, media, timeline
-GET  ${origin}/api/inductees/{slug}/export.html|md|json
+GET  ${origin}/api/inductees/{slug}/export.html|md|json   # seven-room exhibition, cited
+GET  ${origin}/api/inductees/{slug}/lesson.md        # classroom packet
+GET  ${origin}/api/inductees/{slug}/narration        # audio-guide script (+ narration.mp3 when generated)
 GET  ${origin}/api/inductees/search?q=patent
 GET  ${origin}/api/timeline                  # all events, chronological
 GET  ${origin}/api/sources                   # every citation with its last link check

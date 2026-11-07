@@ -20,3 +20,13 @@ video/out/
 ~$*
 # scratch
 backend/data/__pycache__/
+# visitor submissions (stories, contact messages)
+backend/data/community/
+# generated review sheets for timeline scene images (scripts/find_scenes.py --sheet)
+backend/data/scenes_review_*.jpg
+# generated audio guides (scripts/narrate.py)
+backend/data/audio/
+# proxied image cache for the 3D hall
+backend/data/cache/
+# editor settings
+.vscode/

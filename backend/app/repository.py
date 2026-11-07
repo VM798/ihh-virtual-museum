@@ -8,7 +8,7 @@ from datetime import date
 from pathlib import Path
 
 from .models import (
-    GlobalTimelineEvent, Inductee, InducteeSummary, SearchHit, SourceWithOwner, Stats, Verification,
+    EventImage, ExploreLink, GlobalTimelineEvent, HistoricalContext, Inductee, InducteeSummary, SearchHit, SourceWithOwner, Stats, Verification,
 )
 
 
@@ -22,6 +22,10 @@ class Repository:
     # ---------------------------------------------------------------- loading
     def load(self) -> None:
         verification = self._load_verification()
+        scenes = self._load_scenes()
+        context = self._load_context()
+        self.explore_links: list[ExploreLink] = [ExploreLink.model_validate(x) for x in context.get("explore_further", [])]
+        eras = [(e, HistoricalContext.model_validate({k: v for k, v in e.items() if k not in ("from", "to")})) for e in context.get("eras", [])]
         items: list[Inductee] = []
         for path in sorted((self.data_dir / "inductees").glob("*.json")):
             raw = json.loads(path.read_text(encoding="utf-8"))
@@ -29,10 +33,30 @@ class Repository:
             for source in inductee.sources:
                 if source.url in verification:
                     source.verification = Verification.model_validate(verification[source.url])
+            # Scene pictures for the timeline (scripts/find_scenes.py) live in scenes.json, keyed by moment.
+            for raw_era, era in eras:
+                if raw_era["from"] <= inductee.immigration.year <= raw_era["to"]:
+                    inductee.historical_context = era
+                    break
+            for scene in scenes.get(inductee.slug, []):
+                for event in inductee.timeline:
+                    if event.year == scene["year"] and event.title.lower().startswith(scene["title"].lower()):
+                        event.image = EventImage.model_validate(scene["image"])
+                        break
             items.append(inductee)
         items.sort(key=lambda i: i.name.split()[-1])
         self._inductees = {i.slug: i for i in items}
         self._order = [i.slug for i in items]
+
+    def _load_context(self) -> dict:
+        path = self.data_dir / "context.json"
+        return json.loads(path.read_text(encoding="utf-8")) if path.exists() else {}
+
+    def _load_scenes(self) -> dict[str, list[dict]]:
+        path = self.data_dir / "scenes.json"
+        if not path.exists():
+            return {}
+        return json.loads(path.read_text(encoding="utf-8")).get("scenes", {})
 
     def _load_verification(self) -> dict[str, dict]:
         path = self.data_dir / "verification.json"

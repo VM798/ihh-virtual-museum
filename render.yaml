@@ -1,0 +1,15 @@
+# One-click deploy on Render (https://render.com): New + Blueprint, pick this repository.
+# The free plan sleeps after 15 minutes idle and loses files written at runtime (visitor stories, accounts),
+# so add a persistent disk or upgrade the plan before a public launch.
+services:
+  - type: web
+    name: ihh-virtual-museum
+    runtime: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /api/health
+    envVars:
+      - key: IHH_SECURE_COOKIES
+        value: "1"
+      - key: OPENAI_API_KEY
+        sync: false   # set in the Render dashboard; optional, the docent and guide work offline without it

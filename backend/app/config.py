@@ -22,6 +22,7 @@ class Settings(BaseModel):
     docent_model: str = "gpt-5.4-mini"
     annotation_model: str = "gpt-5.4"
     docent_enabled: bool = True
+    secure_cookies: bool = False  # set IHH_SECURE_COOKIES=1 behind HTTPS
 
 
 @lru_cache
@@ -39,4 +40,6 @@ def get_settings() -> Settings:
         overrides["annotation_model"] = os.environ["IHH_ANNOTATION_MODEL"]
     if os.getenv("IHH_DOCENT_ENABLED"):
         overrides["docent_enabled"] = os.environ["IHH_DOCENT_ENABLED"].lower() in {"1", "true", "yes"}
+    if os.getenv("IHH_SECURE_COOKIES"):
+        overrides["secure_cookies"] = os.environ["IHH_SECURE_COOKIES"].lower() in {"1", "true", "yes"}
     return Settings(**overrides)

@@ -73,6 +73,17 @@ class Honor(BaseModel):
     source_ids: list[str] = Field(default_factory=list)
 
 
+class EventImage(BaseModel):
+    """An archival picture that illustrates a moment: the inductee's own media or a dated image of the setting."""
+    url: str
+    thumbnail: str | None = None
+    title: str
+    credit: str
+    license: str
+    source_url: str
+    year: int | None = None
+
+
 class TimelineEvent(BaseModel):
     year: int
     date: str | None = None
@@ -80,6 +91,7 @@ class TimelineEvent(BaseModel):
     description: str
     category: EventCategory
     source_ids: list[str] = Field(default_factory=list)
+    image: EventImage | None = None
 
 
 class Quote(BaseModel):
@@ -130,6 +142,60 @@ class HeroImage(BaseModel):
     source_url: str
 
 
+class ContextSource(BaseModel):
+    title: str
+    publisher: str
+    url: str
+
+
+class HistoricalContext(BaseModel):
+    """What U.S. immigration looked like when this inductee arrived (data/context.json, matched by immigration year)."""
+    id: str
+    title: str
+    span: str
+    text: str
+    sources: list[ContextSource]
+
+
+class ExploreLink(BaseModel):
+    title: str
+    publisher: str
+    url: str
+    note: str | None = None
+
+
+class MuseumItem(BaseModel):
+    id: str
+    kind: str
+    title: str
+    year: str | None
+    description: str
+    credit: str
+    license: str
+    url: str
+    thumbnail: str
+
+
+class MuseumBay(BaseModel):
+    """One alcove of the walkable hall: the inductee's portrait, nameplate facts and up to three artifacts."""
+    slug: str
+    name: str
+    tagline: str
+    field: str
+    accent: str
+    origin_flag: str
+    origin_country: str
+    born_year: int
+    died_year: int | None
+    immigration_year: int
+    portrait: str
+    portrait_credit: str
+    summary: str
+    items: list[MuseumItem]
+    scenes: list[MuseumItem] = Field(default_factory=list, description="Dated pictures from the timeline, for the salon wall")
+    featured: MuseumItem | None = Field(default=None, description="The object in the display case in front of the bay")
+
+
 class Inductee(BaseModel):
     slug: str
     name: str
@@ -158,6 +224,7 @@ class Inductee(BaseModel):
     sources: list[Source]
     ihh_page_url: str
     wikipedia_url: str
+    historical_context: HistoricalContext | None = None
 
     @model_validator(mode="after")
     def _check_source_references(self) -> "Inductee":

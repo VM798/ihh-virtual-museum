@@ -7,7 +7,7 @@ const ICONS: Record<Media["kind"], string> = { image: "🖼", audio: "🎧", vid
 
 function Thumb({ m, onOpen }: { m: Media; onOpen: () => void }) {
   if (m.kind === "image" && (m.thumbnail || m.embed_url)) {
-    return <div className="thumb" onClick={onOpen}><img src={m.thumbnail ?? m.embed_url ?? ""} alt={m.title} loading="lazy" /></div>;
+    return <div className="thumb" onClick={onOpen}><img className="thumb-fill" src={m.thumbnail ?? m.embed_url ?? ""} alt="" aria-hidden="true" loading="lazy" /><img src={m.thumbnail ?? m.embed_url ?? ""} alt={m.title} loading="lazy" /></div>;
   }
   if (m.kind === "video" && m.embed_url && m.embed_url.includes("archive.org/embed/")) {
     return <iframe className="video-frame" src={m.embed_url} title={m.title} allowFullScreen loading="lazy" />;
@@ -17,7 +17,7 @@ function Thumb({ m, onOpen }: { m: Media; onOpen: () => void }) {
   }
   return (
     <a className="thumb" href={m.url} target="_blank" rel="noreferrer" style={{ fontSize: "2.6rem" }}>
-      {m.thumbnail ? <img src={m.thumbnail} alt={m.title} loading="lazy" /> : ICONS[m.kind]}
+      {m.thumbnail ? <><img className="thumb-fill" src={m.thumbnail} alt="" aria-hidden="true" loading="lazy" /><img src={m.thumbnail} alt={m.title} loading="lazy" /></> : ICONS[m.kind]}
     </a>
   );
 }

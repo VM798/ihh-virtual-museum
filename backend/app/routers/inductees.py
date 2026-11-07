@@ -1,10 +1,11 @@
 from __future__ import annotations
 
 from fastapi import APIRouter, HTTPException, Query, Request
-from fastapi.responses import PlainTextResponse, HTMLResponse
+from fastapi.responses import FileResponse, HTMLResponse, PlainTextResponse
 
-from ..export import to_html, to_markdown
+from ..export import to_html, to_lesson_markdown, to_markdown
 from ..models import Inductee, InducteeSummary, SearchHit
+from ..narration import Narration, audio_path, build_script
 
 router = APIRouter(prefix="/api/inductees", tags=["inductees"])
 
@@ -34,6 +35,33 @@ def export_markdown(request: Request, slug: str):
         raise HTTPException(status_code=404, detail=f"No inductee with slug '{slug}'")
     return PlainTextResponse(to_markdown(inductee), media_type="text/markdown; charset=utf-8",
                              headers={"Content-Disposition": f'attachment; filename="{slug}.md"'})
+
+
+@router.get("/{slug}/lesson.md", response_class=PlainTextResponse, summary="Classroom packet (Markdown)")
+def export_lesson(request: Request, slug: str):
+    inductee = request.app.state.repo.get(slug)
+    if not inductee:
+        raise HTTPException(status_code=404, detail="Inductee not found")
+    return PlainTextResponse(to_lesson_markdown(inductee), media_type="text/markdown; charset=utf-8",
+                             headers={"Content-Disposition": f'attachment; filename="{slug}-classroom-packet.md"'})
+
+
+@router.get("/{slug}/narration", response_model=Narration, summary="Audio-guide script built from cited passages")
+def narration(request: Request, slug: str):
+    inductee = request.app.state.repo.get(slug)
+    if not inductee:
+        raise HTTPException(status_code=404, detail="Inductee not found")
+    return build_script(inductee)
+
+
+@router.get("/{slug}/narration.mp3", summary="Audio guide (generated with scripts/narrate.py)")
+def narration_audio(request: Request, slug: str):
+    if not request.app.state.repo.get(slug):
+        raise HTTPException(status_code=404, detail="Inductee not found")
+    path = audio_path(slug)
+    if not path.exists():
+        raise HTTPException(status_code=404, detail="Audio not generated yet; run scripts/narrate.py with an OpenAI key")
+    return FileResponse(path, media_type="audio/mpeg", filename=f"{slug}-audio-guide.mp3")
 
 
 @router.get("/{slug}/export.html", response_class=HTMLResponse)

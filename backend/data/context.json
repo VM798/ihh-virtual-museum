@@ -1,0 +1,76 @@
+{
+  "_about": "Historical context for the 'exhibition' view of each profile: what U.S. immigration looked like in the years an inductee arrived. Each inductee is matched to the era containing their immigration year. Sources are public institutions; links are checked by scripts/verify_sources.py.",
+  "eras": [
+    {
+      "id": "open-doors",
+      "from": 1820,
+      "to": 1879,
+      "title": "The age of open doors",
+      "span": "1820s–1870s",
+      "text": "Before 1875 the federal government set almost no limits on who could enter the United States; arriving ships were met by state and port officials, and from 1855 New York processed newcomers at Castle Garden at the tip of Manhattan. The 1840s and 1850s brought the first great surge: famine drove more than a million Irish across the Atlantic, and German-speaking emigrants, including refugees from the failed revolutions of 1848, settled from New York to Wisconsin and Texas. The California Gold Rush of 1849 pulled migrants west from every direction.",
+      "sources": [
+        {"title": "Immigration and Relocation in U.S. History: German and Irish", "publisher": "Library of Congress", "url": "https://www.loc.gov/classroom-materials/immigration/"},
+        {"title": "Castle Clinton National Monument: Castle Garden emigrant depot", "publisher": "National Park Service", "url": "https://www.nps.gov/cacl/index.htm"}
+      ]
+    },
+    {
+      "id": "great-wave",
+      "from": 1880,
+      "to": 1923,
+      "title": "Ellis Island and the great wave",
+      "span": "1880–1923",
+      "text": "Between 1880 and the First World War more than twenty million people arrived, increasingly from southern and eastern Europe. Ellis Island opened as the federal inspection station for the port of New York on January 1, 1892, and 1907 was its busiest year. Jewish families fleeing pogroms and restrictive laws in the Russian Empire were among the largest groups. The same period produced the first sweeping federal restriction: the Chinese Exclusion Act of 1882 barred Chinese labourers, while the land border with Canada remained largely open.",
+      "sources": [
+        {"title": "Ellis Island: history of the immigration station", "publisher": "National Park Service", "url": "https://www.nps.gov/elis/index.htm"},
+        {"title": "Chinese Immigration and the Chinese Exclusion Acts", "publisher": "U.S. Department of State, Office of the Historian", "url": "https://history.state.gov/milestones/1866-1898/chinese-immigration"},
+        {"title": "Immigration and Relocation in U.S. History: Polish/Russian", "publisher": "Library of Congress", "url": "https://www.loc.gov/classroom-materials/immigration/polish-russian/"}
+      ]
+    },
+    {
+      "id": "quotas",
+      "from": 1924,
+      "to": 1944,
+      "title": "Quotas, exclusion and refugees",
+      "span": "1924–1944",
+      "text": "The Immigration Act of 1924 set national-origins quotas that sharply limited arrivals from southern and eastern Europe and barred most immigration from Asia. When the Nazi regime took power in 1933, refugees from Germany and later Austria could enter only within those quotas, and many who sought visas were turned away. Chinese Exclusion stayed in force until 1943, although students, teachers and merchants were among the classes still allowed to enter. The inductees who arrived in these years came as a world-famous scientist, a film star under studio contract and a teenage architecture student, each through one of the narrow doors that remained open.",
+      "sources": [
+        {"title": "The Immigration Act of 1924 (The Johnson-Reed Act)", "publisher": "U.S. Department of State, Office of the Historian", "url": "https://history.state.gov/milestones/1921-1936/immigration-act"},
+        {"title": "Immigration to the United States, 1933–41", "publisher": "United States Holocaust Memorial Museum", "url": "https://encyclopedia.ushmm.org/content/en/article/immigration-to-the-united-states-1933-41"},
+        {"title": "Repeal of the Chinese Exclusion Act, 1943", "publisher": "U.S. Department of State, Office of the Historian", "url": "https://history.state.gov/milestones/1937-1945/chinese-exclusion-act-repeal"}
+      ]
+    },
+    {
+      "id": "displaced-persons",
+      "from": 1945,
+      "to": 1958,
+      "title": "Displaced persons and the early Cold War",
+      "span": "1945–1958",
+      "text": "After the Second World War, millions of Europeans were left stateless or unwilling to return to countries now under Communist rule. The Displaced Persons Act of 1948 and the Refugee Relief Act of 1953 admitted several hundred thousand of them outside the normal quotas, which otherwise remained in force. Families fleeing the 1948 Communist takeover of Czechoslovakia were among those who found a new home in the United States under these laws.",
+      "sources": [
+        {"title": "The United States and the Displaced Persons Act", "publisher": "United States Holocaust Memorial Museum", "url": "https://encyclopedia.ushmm.org/content/en/article/united-states-immigration-and-refugee-law-1921-1980"},
+        {"title": "Immigration and Relocation in U.S. History", "publisher": "Library of Congress", "url": "https://www.loc.gov/classroom-materials/immigration/"}
+      ]
+    },
+    {
+      "id": "cuban-exodus",
+      "from": 1959,
+      "to": 1979,
+      "title": "The Cuban exodus and the end of quotas",
+      "span": "1959–1979",
+      "text": "After the 1959 Cuban revolution, hundreds of thousands of Cubans left for the United States, many expecting a short exile that became permanent. The federal Cuban Refugee Program, created in 1961, helped new arrivals resettle, and the Cuban Adjustment Act of 1966 allowed them to become permanent residents. In 1965 the Immigration and Nationality Act abolished the national-origins quotas of 1924, opening the way for the far more diverse immigration of the decades that followed.",
+      "sources": [
+        {"title": "Immigration and Relocation in U.S. History: Cuban", "publisher": "Library of Congress", "url": "https://www.loc.gov/classroom-materials/immigration/cuban/"},
+        {"title": "The Immigration and Nationality Act of 1965", "publisher": "U.S. House of Representatives, Office of the Historian", "url": "https://history.house.gov/Historical-Highlights/1951-2000/Immigration-and-Nationality-Act-of-1965/"}
+      ]
+    }
+  ],
+  "explore_further": [
+    {"title": "Angel Island Immigration Museum: virtual exhibition", "publisher": "Angel Island Immigration Station Foundation", "url": "https://www.aiisf.org/", "note": "Personal stories and policy history of arrivals from Asia on the West Coast."},
+    {"title": "California Migration Museum", "publisher": "California Migration Museum", "url": "https://www.calmigration.org/", "note": "A 'museum without walls' with immersive and 360° tours."},
+    {"title": "Immigration Museum, Melbourne", "publisher": "Museums Victoria", "url": "https://museumsvictoria.com.au/immigrationmuseum/", "note": "Virtual tours, immigrant stories and audio experiences."},
+    {"title": "DOMiD Virtual Migration Museum", "publisher": "DOMiD, Cologne", "url": "https://domid.org/en/", "note": "A navigable virtual museum built on 150,000 migration-history objects."},
+    {"title": "Immigrant stories collection", "publisher": "Immigration History Research Center, University of Minnesota", "url": "https://cla.umn.edu/ihrc", "note": "A large archive of first-person immigrant stories."},
+    {"title": "Immigration statistics and policy", "publisher": "Migration Policy Institute", "url": "https://www.migrationpolicy.org/", "note": "Data and analysis on migration worldwide."},
+    {"title": "IPUMS census data", "publisher": "IPUMS, University of Minnesota", "url": "https://www.ipums.org/", "note": "Historical U.S. and international census microdata for classroom and research use."}
+  ]
+}

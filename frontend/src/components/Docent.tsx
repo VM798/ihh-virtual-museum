@@ -29,7 +29,7 @@ export default function Docent({ i }: { i: Inductee }) {
       <h3 style={{ marginTop: 6 }}>Have a question about {i.name}?</h3>
       <p className="muted" style={{ margin: "6px 0 0", fontSize: "0.9rem" }}>
         Answers come only from this profile's cited passages, with source numbers you can check below.
-        {status && (status.live ? ` Powered by ${status.model}.` : " Running in offline retrieval mode until an Anthropic API key is configured.")}
+        {status && (status.live ? ` Powered by ${status.model}.` : " Running in offline retrieval mode until an OpenAI API key is configured.")}
       </p>
       <form onSubmit={(e) => { e.preventDefault(); submit(q); }}>
         <input value={q} onChange={(e) => setQ(e.target.value)} placeholder="Type a question…" maxLength={500} />

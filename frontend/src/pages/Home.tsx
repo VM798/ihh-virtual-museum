@@ -1,6 +1,10 @@
 import { motion } from "framer-motion";
+import type { CSSProperties, MouseEvent } from "react";
 import { Link } from "react-router-dom";
+import { IHH_LINKS } from "../components/Social";
 import InducteeCard from "../components/InducteeCard";
+import { Suspense, lazy } from "react";
+const MuseumHall = lazy(() => import("../components/MuseumHall"));
 import Loader, { ErrorBox } from "../components/Loader";
 import Reveal from "../components/Reveal";
 import { api } from "../lib/api";
@@ -21,26 +25,34 @@ export default function Home() {
   if (error) return <ErrorBox message={error} />;
   if (!people) return <Loader />;
   const featured = people.slice(0, 4);
+  // Move the hero spotlight with the cursor (CSS reads --mx / --my).
+  const spotlight = (e: MouseEvent<HTMLElement>) => {
+    const r = e.currentTarget.getBoundingClientRect();
+    e.currentTarget.style.setProperty("--mx", `${((e.clientX - r.left) / r.width) * 100}%`);
+    e.currentTarget.style.setProperty("--my", `${((e.clientY - r.top) / r.height) * 100}%`);
+  };
 
   return (
     <>
-      <section className="hero">
+      <section className="hero" onMouseMove={spotlight}>
         <div className="container">
-          <motion.span className="eyebrow" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>Immigrant Hall of Honor · Virtual Museum</motion.span>
+          <motion.span className="eyebrow" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>A new museum coming to Central Texas</motion.span>
           <motion.h1 initial={{ opacity: 0, y: 30 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.8, delay: 0.1 }}>
-            They arrived with little. <em style={{ color: "var(--yellow)", fontStyle: "normal" }}>They changed everything.</em>
+            Honoring the contribution of immigrants <em>from all over the world</em>
           </motion.h1>
           <motion.p className="lead" initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.4 }}>
-            Ten inductees, {stats?.timeline_events ?? "hundreds of"} dated moments, {stats?.sources ?? "dozens of"} checked sources, and open-access photographs, recordings and documents.
-            Every fact on this site links to the evidence behind it.
+            Discover the stories that shape America. Ten inductees, {stats?.timeline_events ?? "hundreds of"} dated moments, {stats?.sources ?? "dozens of"} checked sources,
+            and open-access photographs, recordings and documents. Every fact on this site links to the evidence behind it.
           </motion.p>
           <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.6 }} style={{ display: "flex", gap: 12, flexWrap: "wrap" }}>
-            <Link className="btn btn-primary" to="/inductees">Enter the gallery →</Link>
+            <a className="btn btn-primary" href="#walk">Walk the museum →</a>
+            <Link className="btn" to="/inductees">Meet the inductees</Link>
             <Link className="btn" to="/timeline">Walk the timeline</Link>
+            <Link className="btn" to="/share">Share your story</Link>
           </motion.div>
           <motion.div className="portrait-wall" style={{ marginTop: 56 }} initial={{ opacity: 0, y: 30 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.7, duration: 0.8 }}>
             {people.map((p) => (
-              <Link key={p.slug} to={`/inductees/${p.slug}`} title={p.name}>
+              <Link key={p.slug} to={`/inductees/${p.slug}`} title={p.name} style={{ "--accent": p.accent } as CSSProperties}>
                 <img src={p.thumbnail} alt={p.name} loading="lazy" />
                 <span>{p.name}</span>
               </Link>
@@ -49,13 +61,22 @@ export default function Home() {
         </div>
       </section>
 
+      <section className="section hall-section" id="walk">
+        <div className="container">
+          <div className="section-head">
+            <div><span className="eyebrow">Walk the museum</span><h2>Step inside the hall of the inductees</h2>
+              <p>A gallery you can move through as you would in person. Click the floor to walk, drag to look around, pinch to zoom, and click any portrait or artifact to read its label.</p></div>
+          </div>
+        </div>
+        <div className="container"><Suspense fallback={<div className="hall"><div className="hall-loading">Opening the doors…</div></div>}><MuseumHall /></Suspense></div>
+      </section>
+
       {stats && (
         <section className="section" style={{ paddingTop: 20 }}>
           <div className="container kpi-row">
             <Counter value={stats.inductees} label="inductees profiled" />
-            <Counter value={`${stats.verified_sources}/${stats.sources}`} label="sources with a passing link check" />
             <Counter value={stats.media} label="open-access media items" />
-            <Counter value={`${stats.span_start}–${stats.span_end}`} label="years of history" />
+            <Counter value={stats.span_end - stats.span_start} label={`years of history, ${stats.span_start} to ${stats.span_end}`} />
           </div>
         </section>
       )}
@@ -69,6 +90,25 @@ export default function Home() {
           <div className="grid cols-4">
             {featured.map((p, idx) => <InducteeCard key={p.slug} i={p} index={idx} />)}
           </div>
+        </div>
+      </section>
+
+      <section className="section" style={{ paddingTop: 0 }}>
+        <div className="container cta-band">
+          <Link to="/share" className="cta-card cta-share">
+            <span className="cta-emoji">✍️</span>
+            <span className="eyebrow">Share a Story</span>
+            <h3>Tell your family's immigration story</h3>
+            <p>Every family has a journey. Add yours to the record, and the IHH team will read it.</p>
+            <span className="cta-go">Start writing →</span>
+          </Link>
+          <a href={IHH_LINKS.nominate} target="_blank" rel="noreferrer" className="cta-card cta-nominate">
+            <span className="cta-emoji">🏅</span>
+            <span className="eyebrow">Nominate</span>
+            <h3>Know someone who belongs here?</h3>
+            <p>Put forward an immigrant whose contribution deserves honoring, on the official IHH site.</p>
+            <span className="cta-go">Nominate someone ↗</span>
+          </a>
         </div>
       </section>
 
@@ -95,6 +135,7 @@ export default function Home() {
                 ["🔗", "Checked", "Links are re-verified by script; results are shown on each source."],
                 ["🎧", "Multimedia", "1911 recordings, 1950 television, patent files, stereographs."],
                 ["🤖", "AI docent", "Ask questions; answers are grounded in the cited text only."],
+                ["🏫", "For classrooms", "Seven-room exhibitions, printable packets, and live virtual visits."],
               ].map(([icon, title, body]) => (
                 <div className="card" key={title}>
                   <div className="icon-circle">{icon}</div>

@@ -1,0 +1,14 @@
+**/node_modules
+**/.venv
+**/__pycache__
+**/.pytest_cache
+frontend/dist
+backend/data/community
+backend/data/cache
+backend/data/audio
+backend/.env
+video
+*.mp4
+*.pdf
+*.pptx
+.git

@@ -1,0 +1,1551 @@
+{
+ "generated_by": "scripts/find_scenes.py",
+ "scenes": {
+  "levi-strauss": [
+   {
+    "year": 1829,
+    "title": "Born in Buttenheim",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Levi-Strauss-Haus_Buttenheim_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Levi-Strauss-Haus_Buttenheim_1.jpg/960px-Levi-Strauss-Haus_Buttenheim_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Levi-Strauss-Haus Buttenheim 1",
+     "credit": "Philipp Jost (Mascobado) · via Wikimedia Commons",
+     "license": "CC BY-SA 3.0",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Levi-Strauss-Haus_Buttenheim_1.jpg",
+     "year": null,
+     "commons_file": "File:Levi-Strauss-Haus Buttenheim 1.jpg"
+    }
+   },
+   {
+    "year": 1853,
+    "title": "Citizen, and off",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/SanFrancisco1851a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/SanFrancisco1851a.jpg/960px-SanFrancisco1851a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "SanFrancisco1851a",
+     "credit": "Unknown authorUnknown author · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:SanFrancisco1851a.jpg",
+     "year": 1851,
+     "commons_file": "File:SanFrancisco1851a.jpg"
+    }
+   },
+   {
+    "year": 1902,
+    "title": "Dies in San Francisco",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Market_Street%2C_San_Francisco_LCCN2015647623.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Market_Street%2C_San_Francisco_LCCN2015647623.jpg/960px-Market_Street%2C_San_Francisco_LCCN2015647623.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Market Street, San Francisco LCCN2015647623",
+     "credit": "Detroit Photographic Co. · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Market_Street,_San_Francisco_LCCN2015647623.jpg",
+     "year": 1900,
+     "commons_file": "File:Market Street, San Francisco LCCN2015647623.jpg"
+    }
+   },
+   {
+    "year": 2000,
+    "title": "Levi Strauss Museum",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Levi_Strauss-Museum_Buttenheim_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Levi_Strauss-Museum_Buttenheim_01.JPG/960px-Levi_Strauss-Museum_Buttenheim_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Levi Strauss-Museum Buttenheim 01",
+     "credit": "Immanuel Giel · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Levi_Strauss-Museum_Buttenheim_01.JPG",
+     "year": 2008,
+     "commons_file": "File:Levi Strauss-Museum Buttenheim 01.JPG"
+    }
+   },
+   {
+    "year": 1847,
+    "title": "Emigrates to New York",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Bay_and_Harbor_of_New_York_from_Bedlow%27s_Island_MET_ADA3628.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Bay_and_Harbor_of_New_York_from_Bedlow%27s_Island_MET_ADA3628.jpg/960px-Bay_and_Harbor_of_New_York_from_Bedlow%27s_Island_MET_ADA3628.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Bay and Harbor of New York from Bedlow's Island",
+     "credit": "anonymous · via Wikimedia Commons",
+     "license": "CC0",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Bay_and_Harbor_of_New_York_from_Bedlow%27s_Island_MET_ADA3628.jpg",
+     "year": 1850,
+     "commons_file": "File:Bay and Harbor of New York from Bedlow's Island MET ADA3628.jpg"
+    }
+   },
+   {
+    "year": 1872,
+    "title": "A letter from Reno",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Virginia_%26_Truckee_Railroad_No._11%2C_Reno._At_Carson_City_with_the_Lightning_Express._1878.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/6/60/Virginia_%26_Truckee_Railroad_No._11%2C_Reno._At_Carson_City_with_the_Lightning_Express._1878.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "title": "Virginia & Truckee Railroad No. 11, Reno. At Carson City with the Lightning Express. 1878",
+     "credit": "Unknown authorUnknown author · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Virginia_%26_Truckee_Railroad_No._11,_Reno._At_Carson_City_with_the_Lightning_Express._1878.jpg",
+     "year": 1878,
+     "commons_file": "File:Virginia & Truckee Railroad No. 11, Reno. At Carson City with the Lightning Express. 1878.jpg"
+    }
+   },
+   {
+    "year": 1890,
+    "title": "Lot 501",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Closeup_of_copper_rivet_on_jeans.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Closeup_of_copper_rivet_on_jeans.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "title": "Closeup of copper rivet on jeans",
+     "credit": "Marcos André · via Wikimedia Commons",
+     "license": "CC BY 2.0",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Closeup_of_copper_rivet_on_jeans.jpg",
+     "year": 2006,
+     "commons_file": "File:Closeup of copper rivet on jeans.jpg"
+    }
+   },
+   {
+    "year": 1897,
+    "title": "Scholarships",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/University_of_California%2C_Berkeley%2C_Calif_%28NYPL_b12647398-62350%29.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/University_of_California%2C_Berkeley%2C_Calif_%28NYPL_b12647398-62350%29.tiff/lossy-page1-960px-University_of_California%2C_Berkeley%2C_Calif_%28NYPL_b12647398-62350%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "University of California, Berkeley, Calif (NYPL b12647398-62350)",
+     "credit": "Detroit Publishing Company · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:University_of_California,_Berkeley,_Calif_(NYPL_b12647398-62350).tiff",
+     "year": 1898,
+     "commons_file": "File:University of California, Berkeley, Calif (NYPL b12647398-62350).tiff"
+    }
+   },
+   {
+    "year": 1873,
+    "title": "The blue jean",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/US139121.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/8/82/US139121.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "title": "US139121",
+     "credit": "Unknown · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:US139121.png",
+     "year": null,
+     "commons_file": "File:US139121.png"
+    }
+   }
+  ],
+  "john-muir": [
+   {
+    "year": 1838,
+    "title": "Born in Dunbar",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/John_Muir%27s_Birthplace%2C_Dunbar_Scotland.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/John_Muir%27s_Birthplace%2C_Dunbar_Scotland.JPG/960px-John_Muir%27s_Birthplace%2C_Dunbar_Scotland.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "John Muir's Birthplace, Dunbar Scotland",
+     "credit": "Kim Traynor · via Wikimedia Commons",
+     "license": "CC BY-SA 3.0",
+     "source_url": "https://commons.wikimedia.org/wiki/File:John_Muir%27s_Birthplace,_Dunbar_Scotland.JPG",
+     "year": 2012,
+     "commons_file": "File:John Muir's Birthplace, Dunbar Scotland.JPG"
+    }
+   },
+   {
+    "year": 1849,
+    "title": "Emigrates to Wisconsin",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/JohnMuirFountianLakeFarm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/JohnMuirFountianLakeFarm.jpg/960px-JohnMuirFountianLakeFarm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "JohnMuirFountianLakeFarm",
+     "credit": "User Royalbroil on en.wikipedia · via Wikimedia Commons",
+     "license": "CC BY-SA 2.5",
+     "source_url": "https://commons.wikimedia.org/wiki/File:JohnMuirFountianLakeFarm.jpg",
+     "year": 2007,
+     "commons_file": "File:JohnMuirFountianLakeFarm.jpg"
+    }
+   },
+   {
+    "year": 1867,
+    "title": "The accident",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/John_Muir_-_A_Thousand_Mile_Walk_to_the_Gulf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/John_Muir_-_A_Thousand_Mile_Walk_to_the_Gulf.jpg/960px-John_Muir_-_A_Thousand_Mile_Walk_to_the_Gulf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "John Muir - A Thousand Mile Walk to the Gulf",
+     "credit": "John Muir · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:John_Muir_-_A_Thousand_Mile_Walk_to_the_Gulf.jpg",
+     "year": 1916,
+     "commons_file": "File:John Muir - A Thousand Mile Walk to the Gulf.jpg"
+    }
+   },
+   {
+    "year": 1868,
+    "title": "First sight of Yosemite",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Carleton_Watkins%2C_Yosemite_Valley%2C_California%2C_ca._1865.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Carleton_Watkins%2C_Yosemite_Valley%2C_California%2C_ca._1865.jpg/960px-Carleton_Watkins%2C_Yosemite_Valley%2C_California%2C_ca._1865.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Carleton Watkins, Yosemite Valley, California, ca. 1865",
+     "credit": "Carleton Watkins · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Carleton_Watkins,_Yosemite_Valley,_California,_ca._1865.jpg",
+     "year": 1865,
+     "commons_file": "File:Carleton Watkins, Yosemite Valley, California, ca. 1865.jpg"
+    }
+   },
+   {
+    "year": 1880,
+    "title": "Marries",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Views_at_John_Muir_National_Historic_Site%2C_California_%2839133bd2-48c3-433a-a395-2b9446878db2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Views_at_John_Muir_National_Historic_Site%2C_California_%2839133bd2-48c3-433a-a395-2b9446878db2%29.jpg/960px-Views_at_John_Muir_National_Historic_Site%2C_California_%2839133bd2-48c3-433a-a395-2b9446878db2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Views at John Muir National Historic Site, California",
+     "credit": "NPS staff · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Views_at_John_Muir_National_Historic_Site,_California_(39133bd2-48c3-433a-a395-2b9446878db2).jpg",
+     "year": 2004,
+     "commons_file": "File:Views at John Muir National Historic Site, California (39133bd2-48c3-433a-a395-2b9446878db2).jpg"
+    }
+   },
+   {
+    "year": 1890,
+    "title": "Yosemite National Park",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Tenaya_Canyon_and_Half_Dome_in_Yosemite%2C_ca._1897-1900_-_DPLA_-_9e68cfb9e60041291938812cc956c17d.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Tenaya_Canyon_and_Half_Dome_in_Yosemite%2C_ca._1897-1900_-_DPLA_-_9e68cfb9e60041291938812cc956c17d.jpg/960px-Tenaya_Canyon_and_Half_Dome_in_Yosemite%2C_ca._1897-1900_-_DPLA_-_9e68cfb9e60041291938812cc956c17d.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Tenaya Canyon and Half Dome in Yosemite, ca. 1897-1900",
+     "credit": "Arthur Clarence Pillsbury · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Tenaya_Canyon_and_Half_Dome_in_Yosemite,_ca._1897-1900_-_DPLA_-_9e68cfb9e60041291938812cc956c17d.jpg",
+     "year": 1897,
+     "commons_file": "File:Tenaya Canyon and Half Dome in Yosemite, ca. 1897-1900 - DPLA - 9e68cfb9e60041291938812cc956c17d.jpg"
+    }
+   },
+   {
+    "year": 1892,
+    "title": "Founds the Sierra Club",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Sierra_Club_bulletin_%281906%29_%2814586456267%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Sierra_Club_bulletin_%281906%29_%2814586456267%29.jpg/960px-Sierra_Club_bulletin_%281906%29_%2814586456267%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Sierra Club bulletin (1906) (14586456267)",
+     "credit": "Internet Archive Book Images · via Wikimedia Commons",
+     "license": "No restrictions",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Sierra_Club_bulletin_(1906)_(14586456267).jpg",
+     "year": 1906,
+     "commons_file": "File:Sierra Club bulletin (1906) (14586456267).jpg"
+    }
+   },
+   {
+    "year": 1903,
+    "title": "Camping with the President",
+    "image": {
+     "url": "https://commons.wikimedia.org/wiki/File:Theodore_Roosevelt_and_John_Muir_on_Glacier_Point,_Yosemite_Valley,_California,_in_1903_LCCN93503130.jpg",
+     "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Theodore_Roosevelt_and_John_Muir_on_Glacier_Point,_Yosemite_Valley,_California,_in_1903_LCCN93503130.jpg?width=600",
+     "title": "Theodore Roosevelt and John Muir on Glacier Point, Yosemite, 1903",
+     "credit": "Underwood & Underwood stereograph, Library of Congress (LCCN 93503130)",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Theodore_Roosevelt_and_John_Muir_on_Glacier_Point,_Yosemite_Valley,_California,_in_1903_LCCN93503130.jpg",
+     "year": 1903,
+     "commons_file": null
+    }
+   },
+   {
+    "year": 1913,
+    "title": "Hetch Hetchy",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Hetch_Hetchy_Valley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Hetch_Hetchy_Valley.jpg/960px-Hetch_Hetchy_Valley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Hetch Hetchy Valley",
+     "credit": "Isaiah West Taber · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Hetch_Hetchy_Valley.jpg",
+     "year": 1908,
+     "commons_file": "File:Hetch Hetchy Valley.jpg"
+    }
+   },
+   {
+    "year": 1914,
+    "title": "Dies in Los Angeles",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/John_Muir_Cane.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/2a/John_Muir_Cane.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "title": "John Muir Cane",
+     "credit": "Francis M. Fritz · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:John_Muir_Cane.JPG",
+     "year": 1907,
+     "commons_file": "File:John Muir Cane.JPG"
+    }
+   },
+   {
+    "year": 1860,
+    "title": "Inventor",
+    "image": {
+     "url": "https://commons.wikimedia.org/wiki/File:John_Muir_Watkins_Portrait_circa_1875_Edit.png",
+     "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/John_Muir_Watkins_Portrait_circa_1875_Edit.png?width=600",
+     "title": "Portrait by Carleton Watkins, c. 1875",
+     "credit": "Carleton E. Watkins, via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:John_Muir_Watkins_Portrait_circa_1875_Edit.png",
+     "year": 1875,
+     "commons_file": null
+    }
+   }
+  ],
+  "james-naismith": [
+   {
+    "year": 1892,
+    "title": "The rules are published",
+    "image": {
+     "url": "https://commons.wikimedia.org/wiki/File:Naismith_Rules_of_Basketball_1892_first_draft.jpg",
+     "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Naismith_Rules_of_Basketball_1892_first_draft.jpg?width=600",
+     "title": "The original rules of 'Basket Ball', typed December 1891",
+     "credit": "James Naismith, via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Naismith_Rules_of_Basketball_1892_first_draft.jpg",
+     "year": 1891,
+     "commons_file": null
+    }
+   },
+   {
+    "year": 1898,
+    "title": "Doctor and Jayhawk",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Kansas_U_team_1899.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Kansas_U_team_1899.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "title": "Kansas U team 1899",
+     "credit": "Unknown authorUnknown author · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Kansas_U_team_1899.jpg",
+     "year": 1899,
+     "commons_file": "File:Kansas U team 1899.jpg"
+    }
+   },
+   {
+    "year": 1936,
+    "title": "Olympic debut",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Basketball_Olympiade_1936_Berlin_Stadion_Arena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Basketball_Olympiade_1936_Berlin_Stadion_Arena.jpg/960px-Basketball_Olympiade_1936_Berlin_Stadion_Arena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Basketball Olympiade 1936 Berlin Stadion Arena",
+     "credit": "Nadeldose · via Wikimedia Commons",
+     "license": "CC BY-SA 3.0",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Basketball_Olympiade_1936_Berlin_Stadion_Arena.jpg",
+     "year": 2012,
+     "commons_file": "File:Basketball Olympiade 1936 Berlin Stadion Arena.jpg"
+    }
+   },
+   {
+    "year": 1939,
+    "title": "The only recording",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Announcer_Carl-Erik_Creutz_at_work_in_the_radio_studio%2C_1930s..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Announcer_Carl-Erik_Creutz_at_work_in_the_radio_studio%2C_1930s..jpg/960px-Announcer_Carl-Erik_Creutz_at_work_in_the_radio_studio%2C_1930s..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Announcer Carl-Erik Creutz at work in the radio studio, 1930s.",
+     "credit": "Yle Archives - Yle Arkisto · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Announcer_Carl-Erik_Creutz_at_work_in_the_radio_studio,_1930s..jpg",
+     "year": 1930,
+     "commons_file": "File:Announcer Carl-Erik Creutz at work in the radio studio, 1930s..jpg"
+    }
+   },
+   {
+    "year": 1861,
+    "title": "Born near Almonte",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Mill_Street_in_Almonte%2C_Ontario_%2840003728190%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Mill_Street_in_Almonte%2C_Ontario_%2840003728190%29.jpg/960px-Mill_Street_in_Almonte%2C_Ontario_%2840003728190%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Mill Street in Almonte, Ontario (40003728190)",
+     "credit": "Ross Dunn: Thanks -10million views! · via Wikimedia Commons",
+     "license": "CC BY-SA 2.0",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Mill_Street_in_Almonte,_Ontario_(40003728190).jpg",
+     "year": 2018,
+     "commons_file": "File:Mill Street in Almonte, Ontario (40003728190).jpg"
+    }
+   },
+   {
+    "year": 1870,
+    "title": "Orphaned",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Barn_raising_in_Lansing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Barn_raising_in_Lansing.jpg/960px-Barn_raising_in_Lansing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Barn raising in Lansing",
+     "credit": "Alexander W. Galbraith · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Barn_raising_in_Lansing.jpg",
+     "year": 1900,
+     "commons_file": "File:Barn raising in Lansing.jpg"
+    }
+   },
+   {
+    "year": 1887,
+    "title": "Graduates from McGill",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Hockey_Match%2C_McGill_Grounds%2C_Montreal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Hockey_Match%2C_McGill_Grounds%2C_Montreal.jpg/960px-Hockey_Match%2C_McGill_Grounds%2C_Montreal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Hockey Match, McGill Grounds, Montreal",
+     "credit": "Unknown authorUnknown author · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Hockey_Match,_McGill_Grounds,_Montreal.jpg",
+     "year": 1903,
+     "commons_file": "File:Hockey Match, McGill Grounds, Montreal.jpg"
+    }
+   },
+   {
+    "year": 1890,
+    "title": "Moves to Springfield",
+    "image": {
+     "url": "https://commons.wikimedia.org/wiki/File:Springfield_college_gymnasium_c_1887.jpg",
+     "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Springfield_college_gymnasium_c_1887.jpg?width=600",
+     "title": "The gymnasium where basketball was invented, Springfield, c. 1887",
+     "credit": "School for Christian Workers (Springfield College), via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Springfield_college_gymnasium_c_1887.jpg",
+     "year": 1887,
+     "commons_file": null
+    }
+   },
+   {
+    "year": 1891,
+    "title": "Basketball is born",
+    "image": {
+     "url": "https://commons.wikimedia.org/wiki/File:James_Naismith_with_a_basketball.jpg",
+     "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/James_Naismith_with_a_basketball.jpg?width=600",
+     "title": "Naismith with a basketball",
+     "credit": "Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:James_Naismith_with_a_basketball.jpg",
+     "year": null,
+     "commons_file": null
+    }
+   },
+   {
+    "year": 1925,
+    "title": "Becomes a U.S. citizen",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Massachusetts_Street_in_downtown_Lawrence%2C_Kansas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Massachusetts_Street_in_downtown_Lawrence%2C_Kansas.jpg/960px-Massachusetts_Street_in_downtown_Lawrence%2C_Kansas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Massachusetts Street in downtown Lawrence, Kansas",
+     "credit": "Voidxor · via Wikimedia Commons",
+     "license": "CC BY-SA 4.0",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Massachusetts_Street_in_downtown_Lawrence,_Kansas.jpg",
+     "year": 2014,
+     "commons_file": "File:Massachusetts Street in downtown Lawrence, Kansas.jpg"
+    }
+   },
+   {
+    "year": 1939,
+    "title": "Dies in Lawrence",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Naismith_Memorial_Basketball_Hall_of_Fame_%28Springfield%2C_MA%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Naismith_Memorial_Basketball_Hall_of_Fame_%28Springfield%2C_MA%29.jpg/960px-Naismith_Memorial_Basketball_Hall_of_Fame_%28Springfield%2C_MA%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Naismith Memorial Basketball Hall of Fame (Springfield, MA)",
+     "credit": "Quintin Soloviev · via Wikimedia Commons",
+     "license": "CC BY 4.0",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Naismith_Memorial_Basketball_Hall_of_Fame_(Springfield,_MA).jpg",
+     "year": 2026,
+     "commons_file": "File:Naismith Memorial Basketball Hall of Fame (Springfield, MA).jpg"
+    }
+   },
+   {
+    "year": 2010,
+    "title": "The rules come home",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/AllenFieldHousephone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/8/8e/AllenFieldHousephone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "title": "AllenFieldHousephone",
+     "credit": "No machine-readable author provided. Bigal888~commonswiki assumed (based on copy · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:AllenFieldHousephone.jpg",
+     "year": 2005,
+     "commons_file": "File:AllenFieldHousephone.jpg"
+    }
+   }
+  ],
+  "albert-einstein": [
+   {
+    "year": 1879,
+    "title": "Born in Ulm",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Westturm_des_Ulmer_M%C3%BCnster_mit_Blick_nach_Osten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Westturm_des_Ulmer_M%C3%BCnster_mit_Blick_nach_Osten.jpg/960px-Westturm_des_Ulmer_M%C3%BCnster_mit_Blick_nach_Osten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Westturm des Ulmer Münster mit Blick nach Osten",
+     "credit": "Nikekai · via Wikimedia Commons",
+     "license": "CC BY-SA 4.0",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Westturm_des_Ulmer_M%C3%BCnster_mit_Blick_nach_Osten.jpg",
+     "year": 1890,
+     "commons_file": "File:Westturm des Ulmer Münster mit Blick nach Osten.jpg"
+    }
+   },
+   {
+    "year": 1901,
+    "title": "Diploma",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/ETH-BIB-Z%C3%BCrich%2C_Polytechnikum-Ans_03131.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/ETH-BIB-Z%C3%BCrich%2C_Polytechnikum-Ans_03131.tif/lossy-page1-960px-ETH-BIB-Z%C3%BCrich%2C_Polytechnikum-Ans_03131.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Zürich, Polytechnikum",
+     "credit": "Photoglob AG (Zürich) · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:ETH-BIB-Z%C3%BCrich,_Polytechnikum-Ans_03131.tif",
+     "year": 1897,
+     "commons_file": "File:ETH-BIB-Zürich, Polytechnikum-Ans 03131.tif"
+    }
+   },
+   {
+    "year": 1915,
+    "title": "General relativity",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Einstein_Die_Grundlage_der_allgemeinen_Relativit%C3%A4tstheorie_Sonderdruck_1916_Titel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Einstein_Die_Grundlage_der_allgemeinen_Relativit%C3%A4tstheorie_Sonderdruck_1916_Titel.jpg/960px-Einstein_Die_Grundlage_der_allgemeinen_Relativit%C3%A4tstheorie_Sonderdruck_1916_Titel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Einstein Die Grundlage der allgemeinen Relativitätstheorie Sonderdruck 1916 Titel",
+     "credit": "Albert Einstein · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Einstein_Die_Grundlage_der_allgemeinen_Relativit%C3%A4tstheorie_Sonderdruck_1916_Titel.jpg",
+     "year": 1916,
+     "commons_file": "File:Einstein Die Grundlage der allgemeinen Relativitätstheorie Sonderdruck 1916 Titel.jpg"
+    }
+   },
+   {
+    "year": 1933,
+    "title": "Arrives in Princeton",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Fuld_Hall%2C_Institute_for_Advanced_Study%2C_Princeton%2C_NJ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Fuld_Hall%2C_Institute_for_Advanced_Study%2C_Princeton%2C_NJ.jpg/960px-Fuld_Hall%2C_Institute_for_Advanced_Study%2C_Princeton%2C_NJ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Fuld Hall, Institute for Advanced Study, Princeton, NJ",
+     "credit": "Zeete · via Wikimedia Commons",
+     "license": "CC BY-SA 4.0",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Fuld_Hall,_Institute_for_Advanced_Study,_Princeton,_NJ.jpg",
+     "year": 2023,
+     "commons_file": "File:Fuld Hall, Institute for Advanced Study, Princeton, NJ.jpg"
+    }
+   },
+   {
+    "year": 1939,
+    "title": "Letter to President Roosevelt",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Einstein-Roosevelt-letter.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Einstein-Roosevelt-letter.png/960px-Einstein-Roosevelt-letter.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Einstein-Roosevelt-letter",
+     "credit": "Albert Einstein · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Einstein-Roosevelt-letter.png",
+     "year": null,
+     "commons_file": "File:Einstein-Roosevelt-letter.png"
+    }
+   },
+   {
+    "year": 1940,
+    "title": "Becomes a U.S. citizen",
+    "image": {
+     "url": "https://commons.wikimedia.org/wiki/File:Albert_Einstein_citizenship_NYWTS.jpg",
+     "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Albert_Einstein_citizenship_NYWTS.jpg?width=600",
+     "title": "Einstein receives his certificate of U.S. citizenship, October 1, 1940",
+     "credit": "Al Aumuller, New York World-Telegram & Sun; Library of Congress",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Albert_Einstein_citizenship_NYWTS.jpg",
+     "year": 1940,
+     "commons_file": null
+    }
+   },
+   {
+    "year": 1955,
+    "title": "Dies in Princeton",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/2023-12-02_15_23_35_Close_view_of_the_Albert_Einstein_House_on_Mercer_County_Route_583_%28Mercer_Street%29_in_Princeton%2C_Mercer_County%2C_New_Jersey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/2023-12-02_15_23_35_Close_view_of_the_Albert_Einstein_House_on_Mercer_County_Route_583_%28Mercer_Street%29_in_Princeton%2C_Mercer_County%2C_New_Jersey.jpg/960px-2023-12-02_15_23_35_Close_view_of_the_Albert_Einstein_House_on_Mercer_County_Route_583_%28Mercer_Street%29_in_Princeton%2C_Mercer_County%2C_New_Jersey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "2023-12-02 15 23 35 Close view of the Albert Einstein House on Mercer County Route 583 (Mercer Street) in Princeton, Mercer County, New Jers",
+     "credit": "Famartin · via Wikimedia Commons",
+     "license": "CC BY-SA 4.0",
+     "source_url": "https://commons.wikimedia.org/wiki/File:2023-12-02_15_23_35_Close_view_of_the_Albert_Einstein_House_on_Mercer_County_Route_583_(Mercer_Street)_in_Princeton,_Mercer_County,_New_Jersey.jpg",
+     "year": 2023,
+     "commons_file": "File:2023-12-02 15 23 35 Close view of the Albert Einstein House on Mercer County Route 583 (Mercer Street) in Princeton, Mercer County, New Jersey.jpg"
+    }
+   },
+   {
+    "year": 1905,
+    "title": "The miracle year",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Einstein_patentoffice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Einstein_patentoffice.jpg/960px-Einstein_patentoffice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Einstein patentoffice",
+     "credit": "Lucien Chavan [1] (1868 - 1942), a friend of Einstein's when he was living in Be · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Einstein_patentoffice.jpg",
+     "year": 1904,
+     "commons_file": "File:Einstein patentoffice.jpg"
+    }
+   },
+   {
+    "year": 1922,
+    "title": "Nobel Prize",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg/960px-Einstein_1921_by_F_Schmutzer_-_restoration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Einstein 1921 by F Schmutzer - restoration",
+     "credit": "Ferdinand Schmutzer / Adam Cuerden · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Einstein_1921_by_F_Schmutzer_-_restoration.jpg",
+     "year": 1921,
+     "commons_file": "File:Einstein 1921 by F Schmutzer - restoration.jpg"
+    }
+   },
+   {
+    "year": 1952,
+    "title": "Declines",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Albert_Einstein_Head.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Albert_Einstein_Head.jpg/960px-Albert_Einstein_Head.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Albert Einstein Head",
+     "credit": "Photograph by Orren Jack Turner, Princeton, N.J. Modified with Photoshop by PM_P · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Albert_Einstein_Head.jpg",
+     "year": 1947,
+     "commons_file": "File:Albert Einstein Head.jpg"
+    }
+   }
+  ],
+  "irving-berlin": [
+   {
+    "year": 1893,
+    "title": "Arrives at Ellis Island",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Immigrants_at_Ellis_Island_LCCN2014688795.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Immigrants_at_Ellis_Island_LCCN2014688795.jpg/960px-Immigrants_at_Ellis_Island_LCCN2014688795.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Immigrants at Ellis Island LCCN2014688795",
+     "credit": "Bain News Service, publisher · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Immigrants_at_Ellis_Island_LCCN2014688795.jpg",
+     "year": 1900,
+     "commons_file": "File:Immigrants at Ellis Island LCCN2014688795.jpg"
+    }
+   },
+   {
+    "year": 1911,
+    "title": "'Alexander",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Alexander%27s_Ragtime_Band_3.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/4/42/Alexander%27s_Ragtime_Band_3.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "title": "Alexander's Ragtime Band 3",
+     "credit": "Berlin, Irving · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Alexander%27s_Ragtime_Band_3.jpeg",
+     "year": 1911,
+     "commons_file": "File:Alexander's Ragtime Band 3.jpeg"
+    }
+   },
+   {
+    "year": 1942,
+    "title": "'White Christmas'",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Bing_Crosby_-_White_Christmas_1942_10_inch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Bing_Crosby_-_White_Christmas_1942_10_inch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "title": "Bing Crosby - White Christmas 1942 10 inch",
+     "credit": "Decca · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Bing_Crosby_-_White_Christmas_1942_10_inch.jpg",
+     "year": 1942,
+     "commons_file": "File:Bing Crosby - White Christmas 1942 10 inch.jpg"
+    }
+   },
+   {
+    "year": 1946,
+    "title": "Annie Get Your Gun",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Ethel_Merman-Ray_Middleton_in_Annie_Get_Your_Gun.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Ethel_Merman-Ray_Middleton_in_Annie_Get_Your_Gun.jpg/960px-Ethel_Merman-Ray_Middleton_in_Annie_Get_Your_Gun.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Ethel Merman-Ray Middleton in Annie Get Your Gun",
+     "credit": "unknown (Wide World Photos, New York) · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Ethel_Merman-Ray_Middleton_in_Annie_Get_Your_Gun.jpg",
+     "year": 1946,
+     "commons_file": "File:Ethel Merman-Ray Middleton in Annie Get Your Gun.jpg"
+    }
+   },
+   {
+    "year": 1888,
+    "title": "Born Israel Beilin",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Mogilev._Vilenskaya_Str.%2C_Synagogue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Mogilev._Vilenskaya_Str.%2C_Synagogue.jpg/960px-Mogilev._Vilenskaya_Str.%2C_Synagogue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Mogilev. Vilenskaya Str., Synagogue",
+     "credit": "Ostankevich · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Mogilev._Vilenskaya_Str.,_Synagogue.jpg",
+     "year": 1890,
+     "commons_file": "File:Mogilev. Vilenskaya Str., Synagogue.jpg"
+    }
+   },
+   {
+    "year": 1907,
+    "title": "First published song",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Bowery%2C_New_York_City%2C_ca._1898.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Bowery%2C_New_York_City%2C_ca._1898.jpg/960px-Bowery%2C_New_York_City%2C_ca._1898.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Bowery, New York City, ca. 1898",
+     "credit": "Detroit Publishing Co. · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Bowery,_New_York_City,_ca._1898.jpg",
+     "year": 1900,
+     "commons_file": "File:Bowery, New York City, ca. 1898.jpg"
+    }
+   },
+   {
+    "year": 1918,
+    "title": "Soldier and citizen",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Irving_Berlin%2C_now_a_sergeant_in_the_United_States_Army%2C_who_has_written_the_military_revue_%22Yip%2C_Yip%2C_Yaphank%22_at_the_Century_Theatre%2C_beginning_Monday%2C_Aug._19th_LCCN2016652339.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Irving_Berlin%2C_now_a_sergeant_in_the_United_States_Army%2C_who_has_written_the_military_revue_%22Yip%2C_Yip%2C_Yaphank%22_at_the_Century_Theatre%2C_beginning_Monday%2C_Aug._19th_LCCN2016652339.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Irving Berlin, now a sergeant in the United States Army, who has written the military revue \"Yip, Yip, Yaphank\" at the Century Theatre, begi",
+     "credit": "White Studio (New York, N.Y.), photographer · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Irving_Berlin,_now_a_sergeant_in_the_United_States_Army,_who_has_written_the_military_revue_%22Yip,_Yip,_Yaphank%22_at_the_Century_Theatre,_beginning_Monday,_Aug._19th_LCCN2016652339.jpg",
+     "year": 1918,
+     "commons_file": "File:Irving Berlin, now a sergeant in the United States Army, who has written the military revue \"Yip, Yip, Yaphank\" at the Century Theatre, beginning Monday, Aug. 19th LCCN2016652339.jpg"
+    }
+   },
+   {
+    "year": 1938,
+    "title": "'God Bless America'",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Kate_Smith_Aldrich_Family_Kate_Smith_Hour_1938.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Kate_Smith_Aldrich_Family_Kate_Smith_Hour_1938.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "title": "Kate Smith Aldrich Family Kate Smith Hour 1938",
+     "credit": "Columbia Broadcasting System-CBS · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Kate_Smith_Aldrich_Family_Kate_Smith_Hour_1938.JPG",
+     "year": 1938,
+     "commons_file": "File:Kate Smith Aldrich Family Kate Smith Hour 1938.JPG"
+    }
+   },
+   {
+    "year": 1955,
+    "title": "Congressional Gold Medal",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/President_Eisenhower_Receives_Interstate_Financing_Report_from_Advisory_Committee%2C_1955.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/President_Eisenhower_Receives_Interstate_Financing_Report_from_Advisory_Committee%2C_1955.jpg/960px-President_Eisenhower_Receives_Interstate_Financing_Report_from_Advisory_Committee%2C_1955.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "President Eisenhower Receives Interstate Financing Report from Advisory Committee, 1955",
+     "credit": "FHWA · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:President_Eisenhower_Receives_Interstate_Financing_Report_from_Advisory_Committee,_1955.jpg",
+     "year": 1955,
+     "commons_file": "File:President Eisenhower Receives Interstate Financing Report from Advisory Committee, 1955.jpg"
+    }
+   },
+   {
+    "year": 1977,
+    "title": "Presidential Medal of Freedom",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Photograph_of_President_Gerald_R._Ford_Congratulating_Conductor_Arthur_Fiedler_After_He_Received_the_Presidential_Medal_of_Freedom_-_NARA_-_7840025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Photograph_of_President_Gerald_R._Ford_Congratulating_Conductor_Arthur_Fiedler_After_He_Received_the_Presidential_Medal_of_Freedom_-_NARA_-_7840025.jpg/960px-Photograph_of_President_Gerald_R._Ford_Congratulating_Conductor_Arthur_Fiedler_After_He_Received_the_Presidential_Medal_of_Freedom_-_NARA_-_7840025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Photograph of President Gerald R. Ford Congratulating Conductor Arthur Fiedler After He Received the Presidential Medal of Freedom",
+     "credit": "Unknown authorUnknown author or not provided · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Photograph_of_President_Gerald_R._Ford_Congratulating_Conductor_Arthur_Fiedler_After_He_Received_the_Presidential_Medal_of_Freedom_-_NARA_-_7840025.jpg",
+     "year": 1977,
+     "commons_file": "File:Photograph of President Gerald R. Ford Congratulating Conductor Arthur Fiedler After He Received the Presidential Medal of Freedom - NARA - 7840025.jpg"
+    }
+   },
+   {
+    "year": 1989,
+    "title": "Dies in New York",
+    "image": {
+     "url": "https://commons.wikimedia.org/wiki/File:Irving_Berlin_NYWTS.jpg",
+     "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Irving_Berlin_NYWTS.jpg?width=600",
+     "title": "Irving Berlin watching auditions at the St. James Theatre, 1948",
+     "credit": "Al Aumuller, New York World-Telegram & Sun; Library of Congress collection",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Irving_Berlin_NYWTS.jpg",
+     "year": 1948,
+     "commons_file": null
+    }
+   }
+  ],
+  "bob-hope": [
+   {
+    "year": 1908,
+    "title": "Emigrates to Cleveland",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Arriving_at_Ellis_Island_LCCN2014710703.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Arriving_at_Ellis_Island_LCCN2014710703.tif/lossy-page1-960px-Arriving_at_Ellis_Island_LCCN2014710703.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Arriving at Ellis Island LCCN2014710703",
+     "credit": "Bain News Service, publisher · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Arriving_at_Ellis_Island_LCCN2014710703.tif",
+     "year": 1915,
+     "commons_file": "File:Arriving at Ellis Island LCCN2014710703.tif"
+    }
+   },
+   {
+    "year": 1920,
+    "title": "Becomes a U.S. citizen",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Public_Square_1920_CP04226_-_DPLA_-_f9f4628ba8bf9779a0c656f58f0e6622.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Public_Square_1920_CP04226_-_DPLA_-_f9f4628ba8bf9779a0c656f58f0e6622.jpg/960px-Public_Square_1920_CP04226_-_DPLA_-_f9f4628ba8bf9779a0c656f58f0e6622.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Public Square 1920 CP04226 - DPLA - f9f4628ba8bf9779a0c656f58f0e6622",
+     "credit": "File URL IIIF manifest Catalog record · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Public_Square_1920_CP04226_-_DPLA_-_f9f4628ba8bf9779a0c656f58f0e6622.jpg",
+     "year": 1920,
+     "commons_file": "File:Public Square 1920 CP04226 - DPLA - f9f4628ba8bf9779a0c656f58f0e6622.jpg"
+    }
+   },
+   {
+    "year": 1933,
+    "title": "Broadway breakthrough",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Wrigley_Sign%2C_Times_Square%2C_Wrigley%27s_Spearmint_Gum_%28NBY_4127%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Wrigley_Sign%2C_Times_Square%2C_Wrigley%27s_Spearmint_Gum_%28NBY_4127%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "title": "Wrigley Sign, Times Square, Wrigley's Spearmint Gum (NBY 4127)",
+     "credit": "Unknown authorUnknown author · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Wrigley_Sign,_Times_Square,_Wrigley%27s_Spearmint_Gum_(NBY_4127).jpg",
+     "year": 1936,
+     "commons_file": "File:Wrigley Sign, Times Square, Wrigley's Spearmint Gum (NBY 4127).jpg"
+    }
+   },
+   {
+    "year": 2003,
+    "title": "Dies at 100",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Bob_Hope_%28Hollywood_Walk_of_Fame_star%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Bob_Hope_%28Hollywood_Walk_of_Fame_star%29.jpg/960px-Bob_Hope_%28Hollywood_Walk_of_Fame_star%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Bob Hope (Hollywood Walk of Fame star)",
+     "credit": "Alexis Doine · via Wikimedia Commons",
+     "license": "CC0",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Bob_Hope_(Hollywood_Walk_of_Fame_star).jpg",
+     "year": 2026,
+     "commons_file": "File:Bob Hope (Hollywood Walk of Fame star).jpg"
+    }
+   },
+   {
+    "year": 1903,
+    "title": "Born in Eltham",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Eltham_Palace_%2825098625346%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Eltham_Palace_%2825098625346%29.jpg/960px-Eltham_Palace_%2825098625346%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Eltham Palace (25098625346)",
+     "credit": "Tom Parnell from Dunfermline, Scotland · via Wikimedia Commons",
+     "license": "CC BY-SA 2.0",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Eltham_Palace_(25098625346).jpg",
+     "year": 2015,
+     "commons_file": "File:Eltham Palace (25098625346).jpg"
+    }
+   },
+   {
+    "year": 1938,
+    "title": "'Thanks for the Memory'",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Jerry_colonna_bob_hope_1940_nbc.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Jerry_colonna_bob_hope_1940_nbc.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "title": "Jerry colonna bob hope 1940 nbc",
+     "credit": "NBC-press release is titled \"NBC Photo Service\".\n\nUploaded by We hope at en.wiki · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Jerry_colonna_bob_hope_1940_nbc.JPG",
+     "year": 1940,
+     "commons_file": "File:Jerry colonna bob hope 1940 nbc.JPG"
+    }
+   },
+   {
+    "year": 1940,
+    "title": "Road to Singapore",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Bing_Crosby_in_Road_to_Singapore_trailer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Bing_Crosby_in_Road_to_Singapore_trailer.jpg/960px-Bing_Crosby_in_Road_to_Singapore_trailer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Bing Crosby in Road to Singapore trailer",
+     "credit": "Trailer screenshot · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Bing_Crosby_in_Road_to_Singapore_trailer.jpg",
+     "year": 1940,
+     "commons_file": "File:Bing Crosby in Road to Singapore trailer.jpg"
+    }
+   },
+   {
+    "year": 1941,
+    "title": "First show for the troops",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Bob-Hope_Show_1994athospital.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Bob-Hope_Show_1994athospital.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "title": "Bob-Hope Show 1994athospital",
+     "credit": "loc.gov - US Army · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Bob-Hope_Show_1994athospital.jpg",
+     "year": 1944,
+     "commons_file": "File:Bob-Hope Show 1994athospital.jpg"
+    }
+   },
+   {
+    "year": 1950,
+    "title": "First television special",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Bob_Hope_1950.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Bob_Hope_1950.jpg/960px-Bob_Hope_1950.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Bob Hope 1950",
+     "credit": "NBC Television · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Bob_Hope_1950.jpg",
+     "year": 1950,
+     "commons_file": "File:Bob Hope 1950.jpg"
+    }
+   },
+   {
+    "year": 1969,
+    "title": "Presidential Medal of Freedom",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Barbara_Eden_and_Bob_Hope_NASA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Barbara_Eden_and_Bob_Hope_NASA.jpg/960px-Barbara_Eden_and_Bob_Hope_NASA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Barbara Eden and Bob Hope NASA",
+     "credit": "Unknown authorUnknown author · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Barbara_Eden_and_Bob_Hope_NASA.jpg",
+     "year": 1968,
+     "commons_file": "File:Barbara Eden and Bob Hope NASA.jpg"
+    }
+   },
+   {
+    "year": 1997,
+    "title": "Honorary veteran",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/USNS_Bob_Hope_%28T-AKR_300%29_at_anchorage_in_Souda_harbor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/USNS_Bob_Hope_%28T-AKR_300%29_at_anchorage_in_Souda_harbor.jpg/960px-USNS_Bob_Hope_%28T-AKR_300%29_at_anchorage_in_Souda_harbor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "USNS Bob Hope (T-AKR 300) at anchorage in Souda harbor",
+     "credit": "Paul Farley. Original uploader was Avriette at en.wikipedia · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:USNS_Bob_Hope_(T-AKR_300)_at_anchorage_in_Souda_harbor.jpg",
+     "year": 2004,
+     "commons_file": "File:USNS Bob Hope (T-AKR 300) at anchorage in Souda harbor.jpg"
+    }
+   }
+  ],
+  "hedy-lamarr": [
+   {
+    "year": 1938,
+    "title": "Algiers",
+    "image": {
+     "url": "https://archive.org/details/Algiers_1938",
+     "thumbnail": "https://archive.org/services/img/Algiers_1938",
+     "title": "Algiers (1938) – her American debut",
+     "credit": "Walter Wanger Productions / United Artists, via Internet Archive",
+     "license": "Public Domain Mark 1.0 (copyright not renewed)",
+     "source_url": "https://archive.org/details/Algiers_1938",
+     "year": 1938,
+     "commons_file": null
+    }
+   },
+   {
+    "year": 1941,
+    "title": "Frequency hopping",
+    "image": {
+     "url": "https://commons.wikimedia.org/wiki/File:Patent_Case_File_No._2,292,387,_Secret_Communication_System,_Inventors_Hedy_Kiesler_Markey_and_George_Antheil_-_DPLA_-_128f022cfd9421aa10de72958a7edf90_(page_3).jpg",
+     "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Patent_Case_File_No._2,292,387,_Secret_Communication_System,_Inventors_Hedy_Kiesler_Markey_and_George_Antheil_-_DPLA_-_128f022cfd9421aa10de72958a7edf90_(page_3).jpg?width=600",
+     "title": "Patent case file, page 3 (National Archives)",
+     "credit": "National Archives and Records Administration, via the Digital Public Library of America and Wikimedia Commons",
+     "license": "Public domain (U.S. federal record)",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Patent_Case_File_No._2,292,387,_Secret_Communication_System,_Inventors_Hedy_Kiesler_Markey_and_George_Antheil_-_DPLA_-_128f022cfd9421aa10de72958a7edf90_(page_3).jpg",
+     "year": 1941,
+     "commons_file": null
+    }
+   },
+   {
+    "year": 1942,
+    "title": "Patent granted",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Patent_Case_File_No._2%2C292%2C387%2C_Secret_Communication_System%2C_Inventors_Hedy_Kiesler_Markey_and_George_Antheil_-_DPLA_-_128f022cfd9421aa10de72958a7edf90_%28page_17%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Patent_Case_File_No._2%2C292%2C387%2C_Secret_Communication_System%2C_Inventors_Hedy_Kiesler_Markey_and_George_Antheil_-_DPLA_-_128f022cfd9421aa10de72958a7edf90_%28page_17%29.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Patent Case File No. 2,292,387, Secret Communication System, Inventors Hedy Kiesler Markey and George Antheil",
+     "credit": "Department of Commerce. Patent and Trademark Office. (1975) · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Patent_Case_File_No._2,292,387,_Secret_Communication_System,_Inventors_Hedy_Kiesler_Markey_and_George_Antheil_-_DPLA_-_128f022cfd9421aa10de72958a7edf90_(page_17).jpg",
+     "year": null,
+     "commons_file": "File:Patent Case File No. 2,292,387, Secret Communication System, Inventors Hedy Kiesler Markey and George Antheil - DPLA - 128f022cfd9421aa10de72958a7edf90 (page 17).jpg"
+    }
+   },
+   {
+    "year": 1949,
+    "title": "Samson and Delilah",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Hedy_Lamarr_and_Victor_Mature_in_Samson_and_Delilah_trailer_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Hedy_Lamarr_and_Victor_Mature_in_Samson_and_Delilah_trailer_%281%29.jpg/960px-Hedy_Lamarr_and_Victor_Mature_in_Samson_and_Delilah_trailer_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Hedy Lamarr and Victor Mature in Samson and Delilah trailer (1)",
+     "credit": "Trailer screenshot · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Hedy_Lamarr_and_Victor_Mature_in_Samson_and_Delilah_trailer_(1).jpg",
+     "year": 1949,
+     "commons_file": "File:Hedy Lamarr and Victor Mature in Samson and Delilah trailer (1).jpg"
+    }
+   },
+   {
+    "year": 2000,
+    "title": "Dies in Florida",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Wiener_Zentralfriedhof_-_Gruppe_33_G_-_Grab_von_Hedy_Lamarr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Wiener_Zentralfriedhof_-_Gruppe_33_G_-_Grab_von_Hedy_Lamarr.jpg/960px-Wiener_Zentralfriedhof_-_Gruppe_33_G_-_Grab_von_Hedy_Lamarr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Wiener Zentralfriedhof - Gruppe 33 G - Grab von Hedy Lamarr",
+     "credit": "Haeferl · via Wikimedia Commons",
+     "license": "CC BY-SA 3.0",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Wiener_Zentralfriedhof_-_Gruppe_33_G_-_Grab_von_Hedy_Lamarr.jpg",
+     "year": 2016,
+     "commons_file": "File:Wiener Zentralfriedhof - Gruppe 33 G - Grab von Hedy Lamarr.jpg"
+    }
+   },
+   {
+    "year": 1914,
+    "title": "Born in Vienna",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Urania-Wien-1910.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Urania-Wien-1910.jpg/960px-Urania-Wien-1910.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Urania-Wien-1910",
+     "credit": "Unknown authorUnknown author · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Urania-Wien-1910.jpg",
+     "year": 1910,
+     "commons_file": "File:Urania-Wien-1910.jpg"
+    }
+   },
+   {
+    "year": 1933,
+    "title": "Ecstasy",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Hedy_lamarr_-_1940.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Hedy_lamarr_-_1940.jpg/960px-Hedy_lamarr_-_1940.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Hedy lamarr - 1940",
+     "credit": "MGM / Clarence Bull · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Hedy_lamarr_-_1940.jpg",
+     "year": 1940,
+     "commons_file": "File:Hedy lamarr - 1940.jpg"
+    }
+   },
+   {
+    "year": 1937,
+    "title": "Escape to London",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Hollywood_Hotel_%281937%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Hollywood_Hotel_%281937%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "title": "Hollywood Hotel (1937)",
+     "credit": "Warner Brother · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Hollywood_Hotel_(1937).jpg",
+     "year": 1937,
+     "commons_file": "File:Hollywood Hotel (1937).jpg"
+    }
+   },
+   {
+    "year": 1953,
+    "title": "Becomes a U.S. citizen",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Hedy_Lamarr_by_A._L._Whitey_Schafer%2C_1949.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/0/01/Hedy_Lamarr_by_A._L._Whitey_Schafer%2C_1949.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "title": "Hedy Lamarr by A. L. Whitey Schafer, 1949",
+     "credit": "Whitey Schafer · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Hedy_Lamarr_by_A._L._Whitey_Schafer,_1949.jpg",
+     "year": 1949,
+     "commons_file": "File:Hedy Lamarr by A. L. Whitey Schafer, 1949.jpg"
+    }
+   },
+   {
+    "year": 1997,
+    "title": "EFF Pioneer Award",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Frequency_hopping_Spread_Spectrum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Frequency_hopping_Spread_Spectrum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "title": "Frequency hopping Spread Spectrum",
+     "credit": "Acorletti · via Wikimedia Commons",
+     "license": "CC BY-SA 4.0",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Frequency_hopping_Spread_Spectrum.jpg",
+     "year": 2023,
+     "commons_file": "File:Frequency hopping Spread Spectrum.jpg"
+    }
+   },
+   {
+    "year": 2014,
+    "title": "National Inventors Hall of Fame",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/National_Inventors_Hall_of_Fame_and_Museum_-_2%2C_USPTO_building_in_Alexandria%2C_Virginia%2C_2014-09-24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/7c/National_Inventors_Hall_of_Fame_and_Museum_-_2%2C_USPTO_building_in_Alexandria%2C_Virginia%2C_2014-09-24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "title": "National Inventors Hall of Fame and Museum - 2, USPTO building in Alexandria, Virginia, 2014-09-24",
+     "credit": "Kazuhisa OTSUBO from Tokyo, Japan · via Wikimedia Commons",
+     "license": "CC BY 2.0",
+     "source_url": "https://commons.wikimedia.org/wiki/File:National_Inventors_Hall_of_Fame_and_Museum_-_2,_USPTO_building_in_Alexandria,_Virginia,_2014-09-24.jpg",
+     "year": 2014,
+     "commons_file": "File:National Inventors Hall of Fame and Museum - 2, USPTO building in Alexandria, Virginia, 2014-09-24.jpg"
+    }
+   }
+  ],
+  "i-m-pei": [
+   {
+    "year": 1917,
+    "title": "Born in Guangzhou",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Boat_Life_from_Bund_Canton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Boat_Life_from_Bund_Canton.jpg/960px-Boat_Life_from_Bund_Canton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Boat Life from Bund Canton",
+     "credit": "http://library.duke.edu/digitalcollections/gamble/ · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Boat_Life_from_Bund_Canton.jpg",
+     "year": 1917,
+     "commons_file": "File:Boat Life from Bund Canton.jpg"
+    }
+   },
+   {
+    "year": 1954,
+    "title": "Becomes a U.S. citizen",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/USS_Enterprise_CV-6_1945_NY_Navy_Day.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/USS_Enterprise_CV-6_1945_NY_Navy_Day.jpg/960px-USS_Enterprise_CV-6_1945_NY_Navy_Day.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "USS Enterprise CV-6 1945 NY Navy Day",
+     "credit": "U.S. Navy · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:USS_Enterprise_CV-6_1945_NY_Navy_Day.jpg",
+     "year": 1945,
+     "commons_file": "File:USS Enterprise CV-6 1945 NY Navy Day.jpg"
+    }
+   },
+   {
+    "year": 1964,
+    "title": "Chosen for the Kennedy Library",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/JFK_library_Stitch_Crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/JFK_library_Stitch_Crop.jpg/960px-JFK_library_Stitch_Crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "JFK library Stitch Crop",
+     "credit": "Fcb981, this edit (cropped to pano, corrected distortion) by mixpix 18:33, 28 De · via Wikimedia Commons",
+     "license": "CC BY-SA 3.0",
+     "source_url": "https://commons.wikimedia.org/wiki/File:JFK_library_Stitch_Crop.jpg",
+     "year": 2007,
+     "commons_file": "File:JFK library Stitch Crop.jpg"
+    }
+   },
+   {
+    "year": 1978,
+    "title": "East Building opens",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/National-Gallery-of-Art-East-Building-I-M-Pei-National-Mall-Washington-DC-Apr-2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/National-Gallery-of-Art-East-Building-I-M-Pei-National-Mall-Washington-DC-Apr-2014.jpg/960px-National-Gallery-of-Art-East-Building-I-M-Pei-National-Mall-Washington-DC-Apr-2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "National-Gallery-of-Art-East-Building-I-M-Pei-National-Mall-Washington-DC-Apr-2014",
+     "credit": "Gunnar Klack · via Wikimedia Commons",
+     "license": "CC BY-SA 4.0",
+     "source_url": "https://commons.wikimedia.org/wiki/File:National-Gallery-of-Art-East-Building-I-M-Pei-National-Mall-Washington-DC-Apr-2014.jpg",
+     "year": 2014,
+     "commons_file": "File:National-Gallery-of-Art-East-Building-I-M-Pei-National-Mall-Washington-DC-Apr-2014.jpg"
+    }
+   },
+   {
+    "year": 1989,
+    "title": "The Louvre Pyramid opens",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Cour_Napol%C3%A9on_at_night_-_Louvre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Cour_Napol%C3%A9on_at_night_-_Louvre.jpg/960px-Cour_Napol%C3%A9on_at_night_-_Louvre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Cour Napoléon at night - Louvre",
+     "credit": "Benh LIEU SONG · via Wikimedia Commons",
+     "license": "CC BY 2.5",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Cour_Napol%C3%A9on_at_night_-_Louvre.jpg",
+     "year": 2007,
+     "commons_file": "File:Cour Napoléon at night - Louvre.jpg"
+    }
+   },
+   {
+    "year": 1990,
+    "title": "Bank of China Tower",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/HK_Bank_of_China_Tower_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/22/HK_Bank_of_China_Tower_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "title": "HK Bank of China Tower View",
+     "credit": "WiNG · via Wikimedia Commons",
+     "license": "CC BY 3.0",
+     "source_url": "https://commons.wikimedia.org/wiki/File:HK_Bank_of_China_Tower_View.jpg",
+     "year": 2008,
+     "commons_file": "File:HK Bank of China Tower View.jpg"
+    }
+   },
+   {
+    "year": 2019,
+    "title": "Dies in New York",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Fisherman_on_the_Doha_Corniche_next_to_the_Islamic_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Fisherman_on_the_Doha_Corniche_next_to_the_Islamic_Museum.jpg/960px-Fisherman_on_the_Doha_Corniche_next_to_the_Islamic_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Fisherman on the Doha Corniche next to the Islamic Museum",
+     "credit": "Picture taken by Aju George Chris & uploaded by Creative Commons Qatar @ Flickr. · via Wikimedia Commons",
+     "license": "CC BY 2.0",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Fisherman_on_the_Doha_Corniche_next_to_the_Islamic_Museum.jpg",
+     "year": 2011,
+     "commons_file": "File:Fisherman on the Doha Corniche next to the Islamic Museum.jpg"
+    }
+   },
+   {
+    "year": 1935,
+    "title": "Sails to America",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/S.S._President_Coolidge_at_sea%2C_1930s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/S.S._President_Coolidge_at_sea%2C_1930s.jpg/960px-S.S._President_Coolidge_at_sea%2C_1930s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "S.S. President Coolidge at sea, 1930s",
+     "credit": "Los Angeles Times · via Wikimedia Commons",
+     "license": "CC BY 4.0",
+     "source_url": "https://commons.wikimedia.org/wiki/File:S.S._President_Coolidge_at_sea,_1930s.jpg",
+     "year": 1930,
+     "commons_file": "File:S.S. President Coolidge at sea, 1930s.jpg"
+    }
+   },
+   {
+    "year": 1940,
+    "title": "MIT degree",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Great_dome_of_MIT%2C_Feb_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Great_dome_of_MIT%2C_Feb_2021.jpg/960px-Great_dome_of_MIT%2C_Feb_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Great dome of MIT, Feb 2021",
+     "credit": "Peacearth · via Wikimedia Commons",
+     "license": "CC BY-SA 4.0",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Great_dome_of_MIT,_Feb_2021.jpg",
+     "year": 2021,
+     "commons_file": "File:Great dome of MIT, Feb 2021.jpg"
+    }
+   },
+   {
+    "year": 1946,
+    "title": "Harvard under Gropius",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/WalterGropius-1919.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/b/b5/WalterGropius-1919.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "title": "German:  Der Architekt Walter Gropius, Begründer des Staatlichen Bauhauses Weimar, um 1919label QS:Lde,\"Der Architekt Walter Gropius, Begrün",
+     "credit": "http://museum-digital.de/san/index.php?t=objekt&oges=1791 · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:WalterGropius-1919.jpg",
+     "year": 1919,
+     "commons_file": "File:WalterGropius-1919.jpg"
+    }
+   },
+   {
+    "year": 1955,
+    "title": "Founds his own firm",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Kips_Bay_Towers_Facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Kips_Bay_Towers_Facade.jpg/960px-Kips_Bay_Towers_Facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Kips Bay Towers Facade",
+     "credit": "Transpoman · via Wikimedia Commons",
+     "license": "CC BY-SA 4.0",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Kips_Bay_Towers_Facade.jpg",
+     "year": 2024,
+     "commons_file": "File:Kips Bay Towers Facade.jpg"
+    }
+   },
+   {
+    "year": 1983,
+    "title": "Pritzker Prize",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Louvre_Pyramid_construction_1987.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Louvre_Pyramid_construction_1987.jpg/960px-Louvre_Pyramid_construction_1987.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Louvre Pyramid construction 1987",
+     "credit": "Joseolgon · via Wikimedia Commons",
+     "license": "CC BY-SA 3.0",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Louvre_Pyramid_construction_1987.jpg",
+     "year": 1987,
+     "commons_file": "File:Louvre Pyramid construction 1987.jpg"
+    }
+   }
+  ],
+  "celia-cruz": [
+   {
+    "year": 1925,
+    "title": "Born in Havana",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Havana_-_Morro_Castle%2C_1920s_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Havana_-_Morro_Castle%2C_1920s_01.jpg/960px-Havana_-_Morro_Castle%2C_1920s_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Havana - Morro Castle, 1920s 01",
+     "credit": "J. Duncan Gleason · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Havana_-_Morro_Castle,_1920s_01.jpg",
+     "year": 1925,
+     "commons_file": "File:Havana - Morro Castle, 1920s 01.jpg"
+    }
+   },
+   {
+    "year": 1960,
+    "title": "Leaves Cuba",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Ley_Revolucionaria_Poater._Havana%2C_Cuba._1960.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Ley_Revolucionaria_Poater._Havana%2C_Cuba._1960.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "title": "Ley Revolucionaria Poater. Havana, Cuba. 1960",
+     "credit": "Unknown authorUnknown author · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Ley_Revolucionaria_Poater._Havana,_Cuba._1960.jpg",
+     "year": 1960,
+     "commons_file": "File:Ley Revolucionaria Poater. Havana, Cuba. 1960.jpg"
+    }
+   },
+   {
+    "year": 1961,
+    "title": "Settles in the United States",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Lower_Manhattan_Skyline_from_New_York_Harbor%2C_circa_1966-1969.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Lower_Manhattan_Skyline_from_New_York_Harbor%2C_circa_1966-1969.jpg/960px-Lower_Manhattan_Skyline_from_New_York_Harbor%2C_circa_1966-1969.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Lower Manhattan Skyline from New York Harbor, circa 1966-1969",
+     "credit": "Dada1960 · via Wikimedia Commons",
+     "license": "CC BY-SA 4.0",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Lower_Manhattan_Skyline_from_New_York_Harbor,_circa_1966-1969.jpg",
+     "year": 1969,
+     "commons_file": "File:Lower Manhattan Skyline from New York Harbor, circa 1966-1969.jpg"
+    }
+   },
+   {
+    "year": 1962,
+    "title": "Marries Pedro Knight",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Celia_Cruz_y_Pedro_Knight.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Celia_Cruz_y_Pedro_Knight.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "title": "Celia Cruz y Pedro Knight",
+     "credit": "Unknown authorUnknown author · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Celia_Cruz_y_Pedro_Knight.jpg",
+     "year": 1962,
+     "commons_file": "File:Celia Cruz y Pedro Knight.jpg"
+    }
+   },
+   {
+    "year": 1997,
+    "title": "Smithsonian donation",
+    "image": {
+     "url": "https://commons.wikimedia.org/wiki/File:Celia_Cruz_dress_by_Jos%C3%A9_Enrique_Arteaga.jpg",
+     "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Celia_Cruz_dress_by_Jos%C3%A9_Enrique_Arteaga.jpg?width=600",
+     "title": "Sequined stage dress by José Enrique Arteaga",
+     "credit": "Smithsonian National Museum of African American History and Culture",
+     "license": "CC0 (Smithsonian Open Access)",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Celia_Cruz_dress_by_Jos%C3%A9_Enrique_Arteaga.jpg",
+     "year": 1973,
+     "commons_file": null
+    }
+   },
+   {
+    "year": 2003,
+    "title": "Dies in Fort Lee",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Dios_Disfrute_a_la_Reina_-_Visiting_Celia_Cruz_Mausoleum_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Dios_Disfrute_a_la_Reina_-_Visiting_Celia_Cruz_Mausoleum_2011.jpg/960px-Dios_Disfrute_a_la_Reina_-_Visiting_Celia_Cruz_Mausoleum_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Dios Disfrute a la Reina - Visiting Celia Cruz Mausoleum 2011",
+     "credit": "Paul Lowry · via Wikimedia Commons",
+     "license": "CC BY 2.0",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Dios_Disfrute_a_la_Reina_-_Visiting_Celia_Cruz_Mausoleum_2011.jpg",
+     "year": 2011,
+     "commons_file": "File:Dios Disfrute a la Reina - Visiting Celia Cruz Mausoleum 2011.jpg"
+    }
+   },
+   {
+    "year": 1950,
+    "title": "Joins La Sonora Matancera",
+    "image": {
+     "url": "https://commons.wikimedia.org/wiki/File:Celia_Cruz_y_La_Sonora_Matancera.jpg",
+     "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Celia_Cruz_y_La_Sonora_Matancera.jpg?width=600",
+     "title": "Celia Cruz with La Sonora Matancera, 1950s",
+     "credit": "Narcy Studios, Havana, via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Celia_Cruz_y_La_Sonora_Matancera.jpg",
+     "year": null,
+     "commons_file": null
+    }
+   },
+   {
+    "year": 2024,
+    "title": "A quarter for the Queen",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/2024_Celia_Cruz_Womens_Quarter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/2024_Celia_Cruz_Womens_Quarter.jpg/960px-2024_Celia_Cruz_Womens_Quarter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "2024 Celia Cruz Womens Quarter",
+     "credit": "Phebe Hemphill · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:2024_Celia_Cruz_Womens_Quarter.jpg",
+     "year": 2023,
+     "commons_file": "File:2024 Celia Cruz Womens Quarter.jpg"
+    }
+   },
+   {
+    "year": 1974,
+    "title": "Celia & Johnny",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Willie_Col%C3%B3n_%281969_Fania_Records_publicity_photo%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Willie_Col%C3%B3n_%281969_Fania_Records_publicity_photo%29.jpg/960px-Willie_Col%C3%B3n_%281969_Fania_Records_publicity_photo%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Willie Colón (1969 Fania Records publicity photo)",
+     "credit": "Fania Records · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Willie_Col%C3%B3n_(1969_Fania_Records_publicity_photo).jpg",
+     "year": 1969,
+     "commons_file": "File:Willie Colón (1969 Fania Records publicity photo).jpg"
+    }
+   },
+   {
+    "year": 1990,
+    "title": "First Grammy Award",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Celia_Cruz_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/75/Celia_Cruz_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "title": "Celia Cruz 1",
+     "credit": "Lionel Decoster · via Wikimedia Commons",
+     "license": "CC BY-SA 3.0",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Celia_Cruz_1.jpg",
+     "year": 1980,
+     "commons_file": "File:Celia Cruz 1.jpg"
+    }
+   },
+   {
+    "year": 1994,
+    "title": "National Medal of Arts",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Celia_Cruz_1957_color.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/8/89/Celia_Cruz_1957_color.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "title": "Celia Cruz 1957 color",
+     "credit": "Ibrahim Arce (Narcy Studios photographer), most likely · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Celia_Cruz_1957_color.jpg",
+     "year": 1957,
+     "commons_file": "File:Celia Cruz 1957 color.jpg"
+    }
+   }
+  ],
+  "madeleine-albright": [
+   {
+    "year": 1937,
+    "title": "Born in Prague",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Zden%C4%9Bk_Rykr_-_Praha_%281935%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Zden%C4%9Bk_Rykr_-_Praha_%281935%29.jpg/960px-Zden%C4%9Bk_Rykr_-_Praha_%281935%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Zdeněk Rykr - Praha (1935)",
+     "credit": "Zdeněk Rykr · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Zden%C4%9Bk_Rykr_-_Praha_(1935).jpg",
+     "year": 1935,
+     "commons_file": "File:Zdeněk Rykr - Praha (1935).jpg"
+    }
+   },
+   {
+    "year": 1939,
+    "title": "First flight",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Praha_hlavn%C3%AD_n%C3%A1dra%C5%BE%C3%AD_1931.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Praha_hlavn%C3%AD_n%C3%A1dra%C5%BE%C3%AD_1931.jpg/960px-Praha_hlavn%C3%AD_n%C3%A1dra%C5%BE%C3%AD_1931.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Praha hlavní nádraží 1931",
+     "credit": "Walter Mittelholzer · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Praha_hlavn%C3%AD_n%C3%A1dra%C5%BE%C3%AD_1931.jpg",
+     "year": 1931,
+     "commons_file": "File:Praha hlavní nádraží 1931.jpg"
+    }
+   },
+   {
+    "year": 1959,
+    "title": "Graduates from Wellesley",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Green_Hall%2C_Wellesley_College%2C_Wellesley_MA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Green_Hall%2C_Wellesley_College%2C_Wellesley_MA.jpg/960px-Green_Hall%2C_Wellesley_College%2C_Wellesley_MA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Green Hall, Wellesley College, Wellesley MA",
+     "credit": "John Phelan · via Wikimedia Commons",
+     "license": "CC BY-SA 3.0",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Green_Hall,_Wellesley_College,_Wellesley_MA.jpg",
+     "year": 2014,
+     "commons_file": "File:Green Hall, Wellesley College, Wellesley MA.jpg"
+    }
+   },
+   {
+    "year": 1978,
+    "title": "Joins the National Security Council",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Jimmy_Carter%2C_Zbigniew_Brzezinski_aboard_Air_Force_One_-_NARA_-_177300.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Jimmy_Carter%2C_Zbigniew_Brzezinski_aboard_Air_Force_One_-_NARA_-_177300.jpg/960px-Jimmy_Carter%2C_Zbigniew_Brzezinski_aboard_Air_Force_One_-_NARA_-_177300.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Jimmy Carter, Zbigniew Brzezinski aboard Air Force One - NARA - 177300",
+     "credit": "Tuntematon · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Jimmy_Carter,_Zbigniew_Brzezinski_aboard_Air_Force_One_-_NARA_-_177300.jpg",
+     "year": 1977,
+     "commons_file": "File:Jimmy Carter, Zbigniew Brzezinski aboard Air Force One - NARA - 177300.jpg"
+    }
+   },
+   {
+    "year": 1993,
+    "title": "U.S. Ambassador",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/UN_Security_Council_Nov_16_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/UN_Security_Council_Nov_16_2023.jpg/960px-UN_Security_Council_Nov_16_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "UN Security Council Nov 16 2023",
+     "credit": "Wikiweeki · via Wikimedia Commons",
+     "license": "CC BY 4.0",
+     "source_url": "https://commons.wikimedia.org/wiki/File:UN_Security_Council_Nov_16_2023.jpg",
+     "year": 2023,
+     "commons_file": "File:UN Security Council Nov 16 2023.jpg"
+    }
+   },
+   {
+    "year": 1997,
+    "title": "Sworn in",
+    "image": {
+     "url": "https://commons.wikimedia.org/wiki/File:Swearing_In_of_Madeleine_Albright_as_Sec._of_State_(1997).webm",
+     "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Swearing_In_of_Madeleine_Albright_as_Sec._of_State_(1997).webm?width=600",
+     "title": "Swearing-in of Madeleine Albright as Secretary of State (1997)",
+     "credit": "White House Television, via Wikimedia Commons",
+     "license": "Public domain (U.S. federal government work)",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Swearing_In_of_Madeleine_Albright_as_Sec._of_State_(1997).webm",
+     "year": 1997,
+     "commons_file": null
+    }
+   },
+   {
+    "year": 2022,
+    "title": "Dies in Washington",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/National_Cathedral_in_DC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/National_Cathedral_in_DC.jpg/960px-National_Cathedral_in_DC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "National Cathedral in DC",
+     "credit": "Siubo11A · via Wikimedia Commons",
+     "license": "CC BY-SA 3.0",
+     "source_url": "https://commons.wikimedia.org/wiki/File:National_Cathedral_in_DC.jpg",
+     "year": 2010,
+     "commons_file": "File:National Cathedral in DC.jpg"
+    }
+   },
+   {
+    "year": 1948,
+    "title": "Arrives in the United States",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Evans_Chapel_side.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Evans_Chapel_side.png/960px-Evans_Chapel_side.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Evans Chapel side",
+     "credit": "Unknown University of Denver employee · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Evans_Chapel_side.png",
+     "year": 1959,
+     "commons_file": "File:Evans Chapel side.png"
+    }
+   },
+   {
+    "year": 1957,
+    "title": "Becomes a U.S. citizen",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Wellesley_College_Tower_Court.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Wellesley_College_Tower_Court.jpg/960px-Wellesley_College_Tower_Court.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Wellesley College Tower Court",
+     "credit": "Jared and Corin · via Wikimedia Commons",
+     "license": "CC BY-SA 2.0",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Wellesley_College_Tower_Court.jpg",
+     "year": 2006,
+     "commons_file": "File:Wellesley College Tower Court.jpg"
+    }
+   },
+   {
+    "year": 1999,
+    "title": "NATO enlargement",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Madeleine_Albright_NATO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Madeleine_Albright_NATO.jpg/960px-Madeleine_Albright_NATO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Madeleine Albright NATO",
+     "credit": "BasilioC · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Madeleine_Albright_NATO.jpg",
+     "year": 1999,
+     "commons_file": "File:Madeleine Albright NATO.jpg"
+    }
+   },
+   {
+    "year": 2012,
+    "title": "Presidential Medal of Freedom",
+    "image": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Former_Secretary_of_State_Madeleine_Albright_is_interviewed_by_VOA%27s_Carolyn_Presutti_at_the_Democratic_Convention_on_Monday%2C_September_3rd_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Former_Secretary_of_State_Madeleine_Albright_is_interviewed_by_VOA%27s_Carolyn_Presutti_at_the_Democratic_Convention_on_Monday%2C_September_3rd_2012.jpg/960px-Former_Secretary_of_State_Madeleine_Albright_is_interviewed_by_VOA%27s_Carolyn_Presutti_at_the_Democratic_Convention_on_Monday%2C_September_3rd_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "title": "Former Secretary of State Madeleine Albright is interviewed by VOA's Carolyn Presutti at the Democratic Convention on Monday, September 3rd ",
+     "credit": "Voice of America · via Wikimedia Commons",
+     "license": "Public domain",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Former_Secretary_of_State_Madeleine_Albright_is_interviewed_by_VOA%27s_Carolyn_Presutti_at_the_Democratic_Convention_on_Monday,_September_3rd_2012.jpg",
+     "year": 2012,
+     "commons_file": "File:Former Secretary of State Madeleine Albright is interviewed by VOA's Carolyn Presutti at the Democratic Convention on Monday, September 3rd 2012.jpg"
+    }
+   }
+  ]
+ }
+}
